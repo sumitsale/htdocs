@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<videos>
+  <videoId>1197398</videoId>
+  <names>
+    <artistName id="31">
+      <name>Bipasha Basu</name>
+    </artistName>
+  </names>
+  <genre>Bollywood</genre>
+  <languages>Hindi</languages>
+  <paths>
+    <path type="206">
+      <fileId>60176417</fileId>
+      <videopath>http://content.hungama.com/events%20and%20broadcasts%20album/video%20content/flv%20320x240%2096/60176417.flv</videopath>
+    </path>
+    <path type="241">
+      <fileId>60189271</fileId>
+      <videopath>http://content.hungama.com/events%20and%20broadcasts%20album/video%20content/flv%20640x480%20160/60189271.flv</videopath>
+    </path>
+  </paths>
+  <videoName><![CDATA["I'd Like To Do Charlie's Angels": Bipasha]]></videoName>
+  <previews>
+    <preview type="208">
+      <fileId>60341539</fileId>
+      <videoPreview>http://content.hungama.com/events%20and%20broadcasts%20album/display%20image/137x73%20jpeg/60341539.jpg</videoPreview>
+    </preview>
+    <preview type="210">
+      <fileId>60346477</fileId>
+      <videoPreview>http://content.hungama.com/events%20and%20broadcasts%20album/display%20image/182x97%20jpeg/60346477.jpg</videoPreview>
+    </preview>
+  </previews>
+  <videoDetail>
+    <videoAlbum></videoAlbum>
+    <videoDescription></videoDescription>
+  </videoDetail>
+</videos>

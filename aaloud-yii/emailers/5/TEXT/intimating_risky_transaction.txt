@@ -1,0 +1,22 @@
+Dear <firstname>,
+
+Thank you for making your purchase at <sitename>.(<sitenameurl>)
+
+Your Order no <orderno> has been registered successfully.
+
+While we appreciate your patronage, we have put in certain measures to ensure a safe online transaction experience for our valued customers.
+
+We have noticed that you have reached our threshold of the maximum permissible transactions in a day. Hence, we would like to make sure that these are genuine transactions made by you, yourself. This is also as per our banking partners requirement.
+
+For this we would request you to email us a scanned copy of your latest Credit Card statement on support@hungama.com
+
+
+Warm Regards,
+Customer Support Team
+<sitename> (<sitenameurl>)
+
+For any further support, please feel free to Contact Us.(<contactusurl>)
+Or you can reach our support team on 020-66004646 or +919225504646.
+Monday - Saturday: 9:00AM to 9:00PM (your local time) 
+
+P.S. This is an automated email. Please do not reply to this mail, as you will not receive a response. 

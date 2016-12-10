@@ -1,0 +1,25 @@
+Dear <firstname>,
+
+
+Your <plan> subscription plan (Order No. <orderno>) on <sitename>, which was due for renewal on <date2>, has expired, as you did not renew your subscription to this plan.
+
+Due to this, you will be unable to enjoy the content you have purchased via this Plan. To enjoy continued access to this purchased content, you can click here(<sitenameurl>) to renew your <plan> subscription plan (Order no <orderno>)
+
+We look forward to having you back on <sitename>, browsing and downloading our ever-expanding library of unlimited entertainment.
+
+Just in case you choose not to renew your subscription, we would really appreciate it, if you can spare some time and share with us(<contactusurl>?order_id=<orderno>), your reason for doing so. This will only allow us to further improve our service offering. 
+
+
+Warm Regards,
+Customer Support Team
+<sitename> (<sitenameurl>)
+
+
+For any further support, please feel free to Contact Us (<contactusurl>).
+Or you can reach our support team on 020 - 66004646 or +91 9225504646.
+Monday - Saturday: 9:00AM to 9:00PM (your local time)
+
+
+
+
+P.S. This is an automated email. Please do not reply to this mail, as you will not receive a response.

@@ -1,0 +1,26 @@
+Dear <firstname>,
+
+Congratulations! When it comes to entertainment, you know exactly what you want. That's why the Single Download plan is ideal for you.
+
+Your purchase details are:
+Order No. <orderno>
+Mode of Payment: <paymode>
+Amount Debited: <currency> <amount>/- 
+Plan Chosen: <plan>
+
+Item(s) purchased:
+  <order_details>
+
+
+Hope you have a great time browsing and downloading more from our unlimited library of entertainment on <sitename>!
+
+
+Warm Regards,
+Customer Support Team
+<sitename> (<sitenameurl>)
+
+For any further support, please feel free to Contact Us.(<contactusurl>)
+Or you can reach our support team on 020 - 66004646 or +91 9225504646.
+Monday - Saturday: 9:00AM to 9:00PM (your local time)
+
+P.S. This is an automated email. Please do not reply to this mail, as you will not receive a response. 

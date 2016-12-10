@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<homepopups>
+	<homepopup>
+   	    <artistid><![CDATA[995]]></artistid>
+   	    <artistname><![CDATA[Bappi Lahiri]]></artistname>
+   	    <image><![CDATA[http://localhost/aaloud-yii//files/homepagepopup/5.jpg]]></image>
+   	    <videopath><![CDATA[http://repos.hungama.org/music%20video/video%20preview/full%20flv%20240x180/50073507.flv]]></videopath>
+   	    <ipadpath><![CDATA[http://istream.bollywoodhungama.com/vods3/_definst_/mp4:amazons3/repos.hungama.com/music%20video/video%20content/full%20m4v%20640x480/4630667.m4v/playlist.m3u8]]></ipadpath>
+   	    <toplink><![CDATA[ArtistAloud.com Rele]]></toplink>
+   	    <bottomlink><![CDATA[SMS "SMJ" to 54646]]></bottomlink>
+	</homepopup>
+</homepopups>

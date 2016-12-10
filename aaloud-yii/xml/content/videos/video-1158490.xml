@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<videos>
+  <videoId>1158490</videoId>
+  <names>
+    <artistName id="31">
+      <name>Bipasha Basu</name>
+    </artistName>
+  </names>
+  <genre>Bollywood</genre>
+  <languages>Hindi</languages>
+  <paths>
+    <path type="133">
+      <fileId>60076722</fileId>
+      <videopath>http://content.hungama.com/music%20video%20album/video%20content/full%20wmv%20640x480/60076722.wmv</videopath>
+    </path>
+    <path type="206">
+      <fileId>60334914</fileId>
+      <videopath>http://content.hungama.com/music%20video%20album/video%20content/flv%20320x240%2096/60334914.flv</videopath>
+    </path>
+    <path type="241">
+      <fileId>60335249</fileId>
+      <videopath>http://content.hungama.com/music%20video%20album/video%20content/flv%20640x480%20160/60335249.flv</videopath>
+    </path>
+  </paths>
+  <videoName><![CDATA[Aa Dekhen Zara]]></videoName>
+  <previews>
+    <preview type="208">
+      <fileId>60337655</fileId>
+      <videoPreview>http://content.hungama.com/music%20video%20album/display%20image/137x73%20jpeg/60337655.jpg</videoPreview>
+    </preview>
+    <preview type="210">
+      <fileId>60344660</fileId>
+      <videoPreview>http://content.hungama.com/music%20video%20album/display%20image/182x97%20jpeg/60344660.jpg</videoPreview>
+    </preview>
+  </previews>
+  <videodetail>
+    <videoAlbum>Aa Dekhen Zara</videoAlbum>
+    <videoDescription><![CDATA[ ]]></videoDescription>
+  </videodetail>
+</videos>

@@ -1,0 +1,18 @@
+Dear <firstname>,
+
+Thank you for registering with <sitename>.
+
+However we are sorry to inform you that our team of experienced moderators could not approve your music as it does not fit the parameters of our moderation which could include the following:
+
+Please note that you need to Upload your music only if it is an original and you own the rights to the song or you can acquire the rights for the same.
+
+Please feel free to upload more music and we will definitely get back to you with a positive response.
+
+Warm Regards,
+
+<sitenameurl> Team
+
+
+For any further support, please feel free to Contact Us.(<contactusurl>)
+
+P.S. This is an automated email. Please do not reply to this mail, as you will not receive a response.

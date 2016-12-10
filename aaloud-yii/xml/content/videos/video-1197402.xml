@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<videos>
+  <videoId>1197402</videoId>
+  <names>
+    <artistName id="31">
+      <name>Rani Mukherjee</name>
+    </artistName>
+  </names>
+  <genre>Bollywood</genre>
+  <languages>Hindi</languages>
+  <paths>
+    <path type="206">
+      <fileId>60176540</fileId>
+      <videopath>http://content.hungama.com/events%20and%20broadcasts%20album/video%20content/flv%20320x240%2096/60176540.flv</videopath>
+    </path>
+    <path type="241">
+      <fileId>60189393</fileId>
+      <videopath>http://content.hungama.com/events%20and%20broadcasts%20album/video%20content/flv%20640x480%20160/60189393.flv</videopath>
+    </path>
+  </paths>
+  <videoName><![CDATA["I've Seen Ranbir And Sonam Grow Up In Front Of Me" - Rani Mukherjee]]></videoName>
+  <previews>
+    <preview type="208">
+      <fileId>60341661</fileId>
+      <videoPreview>http://content.hungama.com/events%20and%20broadcasts%20album/display%20image/137x73%20jpeg/60341661.jpg</videoPreview>
+    </preview>
+    <preview type="210">
+      <fileId>60346599</fileId>
+      <videoPreview>http://content.hungama.com/events%20and%20broadcasts%20album/display%20image/182x97%20jpeg/60346599.jpg</videoPreview>
+    </preview>
+  </previews>
+  <videoDetail>
+    <videoAlbum></videoAlbum>
+    <videoDescription></videoDescription>
+  </videoDetail>
+</videos>

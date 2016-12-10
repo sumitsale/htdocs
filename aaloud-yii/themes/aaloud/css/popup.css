@@ -1,0 +1,18 @@
+#basic-modal-content-login {display:none;}
+#basic-modal-content-forgotpass {display:none;}
+#basic-modal-content-signup {display:none;}
+#basic-modal-content-mzone {display:none;}
+#basic-modal-content-fullsong {display:none;}
+/* Overlay */
+#simplemodal-overlay {background-color:#000;}
+
+/* Container */
+#simplemodal-container {color:#bbb; background-color:#000; border:8px solid #b8b8b8;}
+#simplemodal-container .simplemodal-data {}
+#simplemodal-container code {background:#141414; border-left:3px solid #65B43D; color:#bbb; display:block; font-size:12px; margin-bottom:12px; padding:4px 6px 6px;}
+#simplemodal-container a {color:#ddd;}
+#simplemodal-container a.modalCloseImg {background:url(../images/close.png) no-repeat; width:28px; height:22px; display:inline; z-index:3200; position:absolute; top:8px; right:8px; cursor:pointer;}
+#simplemodal-container h3 {color:#84b8d9;}
+
+
+#basic-modal-content-login{ width:300px; height:200px;}

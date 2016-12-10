@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<videos>
+  <videoId>1159339</videoId>
+  <names>
+    <artistName id="31">
+      <name>Anil Kapoor</name>
+    </artistName>
+  </names>
+  <genre>Bollywood</genre>
+  <languages>Hindi</languages>
+  <paths>
+    <path type="206">
+      <fileId>60334909</fileId>
+      <videopath>http://content.hungama.com/music%20video%20album/video%20content/flv%20320x240%2096/60334909.flv</videopath>
+    </path>
+    <path type="241">
+      <fileId>60335244</fileId>
+      <videopath>http://content.hungama.com/music%20video%20album/video%20content/flv%20640x480%20160/60335244.flv</videopath>
+    </path>
+  </paths>
+  <videoName><![CDATA[Ek Ladki Ko Dekha]]></videoName>
+  <previews>
+    <preview type="208">
+      <fileId>60337650</fileId>
+      <videoPreview>http://content.hungama.com/music%20video%20album/display%20image/137x73%20jpeg/60337650.jpg</videoPreview>
+    </preview>
+    <preview type="210">
+      <fileId>60344655</fileId>
+      <videoPreview>http://content.hungama.com/music%20video%20album/display%20image/182x97%20jpeg/60344655.jpg</videoPreview>
+    </preview>
+  </previews>
+  <videodetail>
+    <videoAlbum>1942 - A Love Story</videoAlbum>
+    <videoDescription><![CDATA[ ]]></videoDescription>
+  </videodetail>
+</videos>

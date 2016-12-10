@@ -1,0 +1,21 @@
+Dear <firstname>,
+
+You had requested us for cancelling your Unlimited Downloads subscription plan (order no <orderno>) which we received on <date1>
+
+As per your request, we have cancelled the subscription towards the mentioned order number.
+
+Please be assured that your credit card will not be charged the amount of <currency>  <planprice>/-  towards renewal of your plan on <date2>, as per our earlier mail.
+
+While we have already executed your request, it is our constant endeavour to ensure the highest level of service qualities for our esteemed customers.
+
+Hence we would really appreciate it, if you can spare some time and share with us, your reason for choosing to cancel your subscription. This will only allow us to further improve our service offering.
+
+Warm Regards,
+Customer Support Team
+<sitename> (<sitenameurl>)
+
+For any further support, please feel free to Contact Us.(<contactusurl>)
+Or you can reach our support team on 020-66004646 or +919225504646.
+Monday - Saturday: 9:00AM to 9:00PM (your local time)
+
+P.S. This is an automated email. Please do not reply to this mail, as you will not receive a response. 

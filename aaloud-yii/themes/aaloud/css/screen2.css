@@ -1,0 +1,193 @@
+#navigation {
+    background: url("../images/nav-stripe.gif") repeat-x scroll 0 0 transparent;
+    height: 40px;
+    width: 100%;
+	
+}
+
+#mainmenu div#navigation .menuwrap{margin: 0 auto;   width: 990px; }
+
+
+#mainmenu div#navigation div#megaMenu {
+    float: left;
+    width: 620px;
+}
+
+#mainmenu div#navigation div#megaMenu {
+    display: block;
+    line-height: 1em;
+    overflow: visible;
+    position: relative;
+}
+
+.connect {
+    color: #5B5B5B;
+    line-height: 30px;
+    padding: 5px;
+	
+	
+}
+
+.fl {
+    float: left;
+}
+
+
+
+
+.ml5 {
+    margin-left: 5px;
+}
+
+a {
+    text-decoration: none;
+}
+
+.search {
+    width: 210px;
+}
+
+.fr {
+    float:left ;
+
+
+}
+
+/*Modified by Lavket Rai*/
+
+
+.body {
+    color: #FFFFFF;
+    font-family: Arial,Helvetica,sans-serif;
+    font-size: 12px;
+}
+
+.grey99 {
+    color: #999999;
+}
+
+a {
+    text-decoration: none;
+}
+
+.bottom1 {
+    padding: 5px 0;
+    text-align: center;
+}
+
+.bottom2 {
+    text-align: center;
+}
+
+bottom.fnt11 {
+    font-size: 8px;
+}
+
+#tabcontainer ul#tabs li a.current span {
+    display: block;
+    height: 61px;
+    left: 9px;
+    position: absolute;
+    top: 0;
+    width: 86px;
+}
+
+
+.search_text {
+    background: url("../images/search_arr.gif") no-repeat scroll 175px center #041622;
+    border: 1px solid #383D41;
+    color: #5B6871;
+    margin-top: 7px;
+    outline: medium none;
+    padding: 5px;
+    width: 180px;
+}
+
+
+
+.header {
+    height: 180px;
+    margin: 0 auto;
+    position: relative;
+    width: 990px;
+}
+
+.logo-in {
+    background: url("../images/logo.png") no-repeat scroll 0 0 transparent;
+    height: 178px;
+    left: 50px;
+    position: absolute;
+    top: 0;
+    width: 156px;
+}
+
+.rt-player {
+    position: absolute;
+    right: 0;
+    top: 0;
+    width: 300px;
+}
+
+img {
+    border: medium none;
+}
+
+.menuwrap {
+    margin: 0 auto;
+    width: 990px;
+}
+
+#megaMenu {
+    float: left;
+    width: 645px;
+}
+
+#megaMenu {
+    display: block;
+    line-height: 1em;
+    overflow: visible;
+    position: relative;
+}
+
+.header-wrap {
+    background: url("../images/head-bg.jpg") no-repeat scroll center top transparent;
+}
+
+
+
+
+.logo {
+    background: url("../images/logo.png") no-repeat scroll 0 0 transparent;
+    height: 134px;
+    left: 50px;
+    position: absolute;
+    top: 30px;
+    width: 123px;
+}
+
+.rt-player {
+    position: absolute;
+    right: 0;
+    top: 0;
+    width: 300px;
+}
+
+.banner {
+    position: absolute;
+    right: 0;
+    top: 70px;
+    width: 728px;
+}
+
+#content-in {
+    background: url("../images/aa_bg.gif") repeat scroll center top #1D1D1D;
+}
+
+.content {
+    background: url("../images/nav-stripe.gif") repeat-x scroll center top #000000;
+    margin: 0 auto;
+    padding: 10px 15px;
+    width: 960px;
+}
+
+

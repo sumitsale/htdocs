@@ -1,0 +1,42 @@
+.buttons{ width:500px; margin:0 auto; text-align:center;}
+.buttons ul {
+	padding: 0px;
+	margin: 0;
+	list-style: none;
+}
+.buttons ul li {
+	float: left;
+	display: inline; /*For ignore double margin in IE6*/
+	margin: 0 10px;
+}
+
+.buttons ul li a {
+	text-decoration: none;
+	text-transform: uppercase;
+	float:left;
+	color: #999;
+	cursor: pointer;
+	font: 500 14px/16px "Arial", Helvetica, sans-serif;
+	color: #999999;
+	background: url(../images/pink.png) no-repeat top right;
+}
+
+.buttons ul li a span {
+	margin: 0 10px 0 -10px;
+	padding: 4px 8px 5px 15px;
+	position: relative; /*To fix IE6 problem (not displaying)*/
+	float:left;
+	color: #FFF;
+	background: url(../images/pink.png) no-repeat top left;
+}
+
+
+.buttons ul.blue li a.current, .buttons ul.blue li a:hover {
+	background: url(../images/blue.png) no-repeat top right;
+ 	color: #FFF;
+}
+
+.buttons ul.blue li a.current span, .buttons ul.blue li a:hover span {
+	background: url(../images/blue.png) no-repeat top left;
+	color: #FFF;
+}

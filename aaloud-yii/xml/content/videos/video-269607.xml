@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<videos>
+  <videoId>269607</videoId>
+  <names>
+    <artistName id="18">
+      <name>Sameer</name>
+    </artistName>
+    <artistName id="19">
+      <name>Nadeem Shravan</name>
+    </artistName>
+    <artistName id="8">
+      <name>Raju Khan</name>
+    </artistName>
+    <artistName id="29">
+      <name>Kumar Sanu</name>
+    </artistName>
+    <artistName id="31">
+      <name>Rahul Roy</name>
+    </artistName>
+  </names>
+  <genre>Soundtrack</genre>
+  <languages>Hindi</languages>
+  <paths>
+    <path type="32">
+      <fileId>4293445</fileId>
+      <videopath>http://repos.hungama.com/music%20video/video%20content/full%20m4v%20640x480/4293445.m4v</videopath>
+    </path>
+    <path type="73">
+      <fileId>2677537</fileId>
+      <videopath>http://repos.hungama.com/music%20video/video%20content/30%203gp%20128x96/2677537.3gp</videopath>
+    </path>
+    <path type="74">
+      <fileId>2678571</fileId>
+      <videopath>http://repos.hungama.com/music%20video/video%20content/30%203gp%20176x144/2678571.3gp</videopath>
+    </path>
+    <path type="75">
+      <fileId>2679605</fileId>
+      <videopath>http://repos.hungama.com/music%20video/video%20content/30%203gp%20320x240/2679605.3gp</videopath>
+    </path>
+    <path type="133">
+      <fileId>2600699</fileId>
+      <videopath>http://repos.hungama.com/music%20video/video%20content/full%20wmv%20640x480/2600699.wmv</videopath>
+    </path>
+    <path type="160">
+      <fileId>2586578</fileId>
+      <videopath>http://repos.hungama.com/music%20video/video%20content/full%203gp%20128x96/2586578.3gp</videopath>
+    </path>
+    <path type="161">
+      <fileId>2587095</fileId>
+      <videopath>http://repos.hungama.com/music%20video/video%20content/full%203gp%20176x144/2587095.3gp</videopath>
+    </path>
+    <path type="162">
+      <fileId>2587612</fileId>
+      <videopath>http://repos.hungama.com/music%20video/video%20content/full%203gp%20320x240/2587612.3gp</videopath>
+    </path>
+  </paths>
+  <videoName><![CDATA[Nazar Ke Samne]]></videoName>
+  <previews>
+    <preview type="2">
+      <fileId>1866410</fileId>
+      <videoPreview>http://repos.hungama.com/music%20video/display%20image/50x50%20jpeg/1866410.jpg</videoPreview>
+    </preview>
+    <preview type="4">
+      <fileId>4663149</fileId>
+      <videoPreview>http://repos.hungama.com/music%20video/display%20image/100x100%20jpeg/4663149.jpg</videoPreview>
+    </preview>
+    <preview type="33">
+      <fileId>1864872</fileId>
+      <videoPreview>http://repos.hungama.com/music%20video/display%20image/50x50%20gif/1864872.gif</videoPreview>
+    </preview>
+    <preview type="38">
+      <fileId>4659098</fileId>
+      <videoPreview>http://repos.hungama.com/music%20video/display%20image/100x100%20gif/4659098.gif</videoPreview>
+    </preview>
+    <preview type="129">
+      <fileId>1866641</fileId>
+      <videoPreview>http://repos.hungama.com/music%20video/display%20image/118x81%20jpeg/1866641.jpg</videoPreview>
+    </preview>
+    <preview type="146">
+      <fileId>2682259</fileId>
+      <videoPreview>http://repos.hungama.com/music%20video/display%20image/200x200%20gif/2682259.gif</videoPreview>
+    </preview>
+    <preview type="147">
+      <fileId>2683220</fileId>
+      <videoPreview>http://repos.hungama.com/music%20video/display%20image/200x200%20jpeg/2683220.jpg</videoPreview>
+    </preview>
+  </previews>
+  <videodetail>
+    <videoAlbum>Aashiqui</videoAlbum>
+    <videoDescription><![CDATA[Rahul (Rahul Roy) and Anu (Anu Aggarwal) both have their own problems. While Rahul is angry with his father's second marriage, Anu has run away from an oppressive girl's hostel. When they both meet love happens. But, soon career aspirations cause clashes,]]></videoDescription>
+  </videodetail>
+</videos>

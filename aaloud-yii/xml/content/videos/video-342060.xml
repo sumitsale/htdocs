@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<videos>
+  <videoId>342060</videoId>
+  <names>
+    <artistName id="31">
+      <name>Akshay Kumar</name>
+    </artistName>
+    <artistName id="18">
+      <name>Irfan Siddiqui</name>
+    </artistName>
+    <artistName id="19">
+      <name>Salim-Sulaiman</name>
+    </artistName>
+    <artistName id="29">
+      <name>Mohit Chauhan</name>
+    </artistName>
+  </names>
+  <genre>Soundtrack</genre>
+  <languages>Hindi</languages>
+  <paths>
+    <path type="32">
+      <fileId>4293628</fileId>
+      <videopath>http://repos.hungama.com/music%20video/video%20content/full%20m4v%20640x480/4293628.m4v</videopath>
+    </path>
+    <path type="73">
+      <fileId>2677721</fileId>
+      <videopath>http://repos.hungama.com/music%20video/video%20content/30%203gp%20128x96/2677721.3gp</videopath>
+    </path>
+    <path type="74">
+      <fileId>2678755</fileId>
+      <videopath>http://repos.hungama.com/music%20video/video%20content/30%203gp%20176x144/2678755.3gp</videopath>
+    </path>
+    <path type="75">
+      <fileId>2679789</fileId>
+      <videopath>http://repos.hungama.com/music%20video/video%20content/30%203gp%20320x240/2679789.3gp</videopath>
+    </path>
+    <path type="133">
+      <fileId>2652083</fileId>
+      <videopath>http://repos.hungama.com/music%20video/video%20content/full%20wmv%20640x480/2652083.wmv</videopath>
+    </path>
+    <path type="160">
+      <fileId>2651963</fileId>
+      <videopath>http://repos.hungama.com/music%20video/video%20content/full%203gp%20128x96/2651963.3gp</videopath>
+    </path>
+    <path type="161">
+      <fileId>2652003</fileId>
+      <videopath>http://repos.hungama.com/music%20video/video%20content/full%203gp%20176x144/2652003.3gp</videopath>
+    </path>
+    <path type="162">
+      <fileId>2652043</fileId>
+      <videopath>http://repos.hungama.com/music%20video/video%20content/full%203gp%20320x240/2652043.3gp</videopath>
+    </path>
+  </paths>
+  <videoName><![CDATA[Haafiz Khuda is Ishq Ka]]></videoName>
+  <previews>
+    <preview type="2">
+      <fileId>2652163</fileId>
+      <videoPreview>http://repos.hungama.com/music%20video/display%20image/50x50%20jpeg/2652163.jpg</videoPreview>
+    </preview>
+    <preview type="4">
+      <fileId>4663623</fileId>
+      <videoPreview>http://repos.hungama.com/music%20video/display%20image/100x100%20jpeg/4663623.jpg</videoPreview>
+    </preview>
+    <preview type="33">
+      <fileId>2652123</fileId>
+      <videoPreview>http://repos.hungama.com/music%20video/display%20image/50x50%20gif/2652123.gif</videoPreview>
+    </preview>
+    <preview type="38">
+      <fileId>4659572</fileId>
+      <videoPreview>http://repos.hungama.com/music%20video/display%20image/100x100%20gif/4659572.gif</videoPreview>
+    </preview>
+    <preview type="129">
+      <fileId>2652243</fileId>
+      <videoPreview>http://repos.hungama.com/music%20video/display%20image/118x81%20jpeg/2652243.jpg</videoPreview>
+    </preview>
+    <preview type="146">
+      <fileId>2682396</fileId>
+      <videoPreview>http://repos.hungama.com/music%20video/display%20image/200x200%20gif/2682396.gif</videoPreview>
+    </preview>
+    <preview type="147">
+      <fileId>2683357</fileId>
+      <videoPreview>http://repos.hungama.com/music%20video/display%20image/200x200%20jpeg/2683357.jpg</videoPreview>
+    </preview>
+    <preview type="148">
+      <fileId>2652203</fileId>
+      <videoPreview>http://repos.hungama.com/music%20video/display%20image/118x81%20gif/2652203.gif</videoPreview>
+    </preview>
+  </previews>
+  <videodetail>
+    <videoAlbum>8 X 10 Tasveer</videoAlbum>
+    <videoDescription><![CDATA[The Akshay Kumar starrer thriller, 8 x 10 Tasveer is the story of Jai (Akshay Kumar) who is gifted with supernatural powers. He has a special sense, which enables him to find the past of a person by merely touching his belongings. One unfortunate day, Jai]]></videoDescription>
+  </videodetail>
+</videos>

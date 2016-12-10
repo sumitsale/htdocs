@@ -1,0 +1,218 @@
+@charset "utf-8";
+/* CSS Document */
+
+h4.leftBarHeading {
+	font-size: 15px;
+	padding: 10px 0;
+}
+h5.leftBarHeading {
+	color: #3451C5;
+	font-size: 15px;
+	padding-left: 15px;
+}
+h3.rightBarTit {
+	padding:10px 0;
+	font-size:15px;
+}
+.conAlign p {
+	font-size: 14px;
+	line-height: 23px;
+	padding-bottom: 15px;
+}
+.conAlign {
+	padding:8px 0;
+}
+ul.simpleUrl {
+	list-style:circle;
+	margin:0 0 10px 44px;
+}
+ul.simpleUrl li {
+	list-style-type: disc;
+	padding: 3px 0 3px 0px;
+	font-size:14px;
+}
+.simpleUl1 ul.simpleUrl li {
+	float:left;
+	width:325px;
+}
+.simpleUl1{
+	margin-bottom:10px;}
+ul.simpleUlLeft {
+	list-style:circle;
+	margin: 0 35px;
+	padding:0 0 20px 0;
+}
+ul.simpleUlLeft li {
+	list-style-type: disc;
+	padding: 7px 0 7px 0px;
+}
+.conAlignRight p {
+	padding: 8px 15px;
+}
+.conAlignRight {
+	padding:8px 0;
+	color:#FFFFFF;
+}
+.ausFlag {
+	background:url(../../img/Australia.png) no-repeat;
+	padding:1px 0 5px 30px;
+}
+.usaFlag {
+	background:url(../../img/USA.png) no-repeat;
+	padding:1px 0 5px 30px;
+}
+.ukFlag {
+	background:url(../../img/UK.png) no-repeat;
+	padding:1px 0 5px 30px;
+}
+.phone {
+	background:url(../../img/PhoneBook.png) no-repeat;
+	margin: 0 15px;
+	padding: 12px 0 13px 41px;
+}
+.phoneUsIcon {
+	background:url(../../img/PhoneUs.png) no-repeat;
+	margin: 0 15px;
+	padding: 12px 0 13px 41px;
+}
+.sendFaxIcon {
+	background:url(../../img/SendFax.png) no-repeat;
+	margin: 10px 14px 0;
+	padding: 4px 0 13px 45px;
+}
+.chatIcon {
+	background:url(../../img/ChatWithUs.png) no-repeat;
+	margin: 0 15px;
+	padding: 12px 0 13px 41px;
+}
+.pageIcon {
+	background:url(../../img/SkyeChat.png) no-repeat;
+	margin: 0 15px;
+	padding: 12px 0 13px 41px;
+}
+.windowIcon {
+	background:url(../../img/WindowsLiveChat.png) no-repeat;
+	margin: 0 15px;
+	padding: 12px 0 13px 41px;
+}
+.writeIcon {
+	background:url(../../img/WriteLetter.png) no-repeat;
+	margin: 0 15px;
+	padding: 12px 0 13px 41px;
+}
+.contentSubTitle {
+	font-size: 14px;
+	line-height: 23px;
+	padding-bottom: 15px;
+	color: #330033;
+	font-weight: bold;
+}
+
+
+.plans {
+	text-align:center;
+	margin:10px 0 0 0;
+}
+.plansDiv {
+	float:left;
+	width:208px;
+	margin:0 10px 0 0;
+}
+.plansDiv .contentList ul {
+	margin:0;
+	padding:0;
+	list-style:none;
+}
+.contentList li {
+	margin:0 10px;
+	list-style:none;
+	border-bottom:1px solid #d0d0d0;
+	padding-bottom:18px;
+	text-align:center;
+	font-family:"Arial";
+	font-size: 17px;
+	padding:10px 0;
+}
+.noBorder {
+	border-bottom:none !important;
+}
+.plansDiv .header {
+	background: url("../../img/plansDivHeaderBgH.png") no-repeat scroll 0 0 transparent;
+	font-family: "arial";
+	font-size: 20px;
+	line-height: 28px;
+	padding: 10px 0;
+	text-align: center;
+	color:#fff;
+}
+.plansDiv .middle {
+	background-color:#FFFFFF;
+	border-left:1px solid #911874;
+	border-right:1px solid #911874;
+}
+.plansDiv .bottom {
+	background:url(../../img/plansDivfooterBgH.png) 0 100% no-repeat;
+	padding-bottom:26px;
+	width:208px;
+}
+.plansDiv .shadow {
+	background: url("../../img/plansDivShadowH.png") no-repeat scroll 0 100% transparent;
+	padding-bottom: 47px;
+}
+.plansDiv .readMore {
+	background: url("../../img/plansReadMoreBtnH.png") no-repeat scroll 0 0 transparent;
+	height: 59px;
+	margin-left: 147px;
+	margin-top: 3px;
+	position: absolute;
+	width: 36px;
+}
+.plansDiv:hover .header {
+	background: url("../../img/plansDivHeaderBg.png") no-repeat scroll 0 0 transparent;
+	color: #000000;
+}
+.plansDiv:hover .middle {
+	border-left:1px solid #8dcb12;
+	border-right:1px solid #8dcb12;
+}
+.plansDiv:hover .bottom {
+	background:url(../../img/bottom_1.jpg) 0 100% no-repeat;
+}
+.plansDiv:hover .shadow {
+	background: url("../../img/plansDivShadow.png") no-repeat scroll 0 100% transparent;
+}
+.plansDiv:hover .readMore {
+	background: url("../../img/plansReadMoreBtn.png") no-repeat scroll 0 0 transparent;
+	height: 59px;
+	margin-left: 147px;
+	margin-top: 3px;
+	position: absolute;
+	width: 36px;
+}
+.dataCenterMiddleBox1, .dataCenterMiddleBox2, .dataCenterMiddleBox3 {
+	float: left;
+	margin-right: 20px;
+	width: 230px;
+}
+.dataCenterMiddleBox2 .roundedBoxC {
+	height:284px;
+}
+.dataCenterMiddleBox3 .roundedBoxC {
+	height:338px;
+}
+.dataCenterMiddleBox {
+	margin:0 auto;
+	width:500px;
+}
+.contentSubTitle1{
+    font-size: 16px;
+    padding-bottom: 10px;
+}
+.text{
+	font-size:14px;
+}
+.pageList ul li{
+    background: url("../../img/bullet.png") no-repeat scroll 0 1px transparent;
+    font-size: 14px;
+    padding: 0 5px 11px 25px;
+}

@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<videos>
+  <videoId>359217</videoId>
+  <names>
+    <artistName id="31">
+      <name>Aamir Khan</name>
+    </artistName>
+    <artistName id="19">
+      <name>Shantanu Moitra</name>
+    </artistName>
+    <artistName id="18">
+      <name>Swanand Kirkire</name>
+    </artistName>
+    <artistName id="34">
+      <name>Rajkumar Hirani</name>
+    </artistName>
+    <artistName id="8">
+      <name>Bosco Martis</name>
+    </artistName>
+    <artistName id="29">
+      <name>Sonu Nigam</name>
+    </artistName>
+  </names>
+  <genre>Soundtrack</genre>
+  <languages>Hindi</languages>
+  <paths>
+    <path type="32">
+      <fileId>4493097</fileId>
+      <videopath>http://repos.hungama.com/music%20video/video%20content/full%20m4v%20640x480/4493097.m4v</videopath>
+    </path>
+    <path type="73">
+      <fileId>3862486</fileId>
+      <videopath>http://repos.hungama.com/music%20video/video%20content/30%203gp%20128x96/3862486.3gp</videopath>
+    </path>
+    <path type="74">
+      <fileId>5670540</fileId>
+      <videopath>http://repos.hungama.com/music%20video/video%20content/30%203gp%20176x144/5670540.3gp</videopath>
+    </path>
+    <path type="75">
+      <fileId>5670682</fileId>
+      <videopath>http://repos.hungama.com/music%20video/video%20content/30%203gp%20320x240/5670682.3gp</videopath>
+    </path>
+    <path type="133">
+      <fileId>3862514</fileId>
+      <videopath>http://repos.hungama.com/music%20video/video%20content/full%20wmv%20640x480/3862514.wmv</videopath>
+    </path>
+    <path type="161">
+      <fileId>5601928</fileId>
+      <videopath>http://repos.hungama.com/music%20video/video%20content/full%203gp%20176x144/5601928.3gp</videopath>
+    </path>
+    <path type="162">
+      <fileId>5664288</fileId>
+      <videopath>http://repos.hungama.com/music%20video/video%20content/full%203gp%20320x240/5664288.3gp</videopath>
+    </path>
+  </paths>
+  <videoName><![CDATA[Jaane Nahin Denge Tujhe]]></videoName>
+  <previews>
+    <preview type="2">
+      <fileId>3862528</fileId>
+      <videoPreview>http://repos.hungama.com/music%20video/display%20image/50x50%20jpeg/3862528.jpg</videoPreview>
+    </preview>
+    <preview type="4">
+      <fileId>4663715</fileId>
+      <videoPreview>http://repos.hungama.com/music%20video/display%20image/100x100%20jpeg/4663715.jpg</videoPreview>
+    </preview>
+    <preview type="33">
+      <fileId>3862521</fileId>
+      <videoPreview>http://repos.hungama.com/music%20video/display%20image/50x50%20gif/3862521.gif</videoPreview>
+    </preview>
+    <preview type="38">
+      <fileId>4659664</fileId>
+      <videoPreview>http://repos.hungama.com/music%20video/display%20image/100x100%20gif/4659664.gif</videoPreview>
+    </preview>
+    <preview type="129">
+      <fileId>3862542</fileId>
+      <videoPreview>http://repos.hungama.com/music%20video/display%20image/118x81%20jpeg/3862542.jpg</videoPreview>
+    </preview>
+    <preview type="146">
+      <fileId>3862549</fileId>
+      <videoPreview>http://repos.hungama.com/music%20video/display%20image/200x200%20gif/3862549.gif</videoPreview>
+    </preview>
+    <preview type="147">
+      <fileId>3862556</fileId>
+      <videoPreview>http://repos.hungama.com/music%20video/display%20image/200x200%20jpeg/3862556.jpg</videoPreview>
+    </preview>
+    <preview type="148">
+      <fileId>3862535</fileId>
+      <videoPreview>http://repos.hungama.com/music%20video/display%20image/118x81%20gif/3862535.gif</videoPreview>
+    </preview>
+  </previews>
+  <videodetail>
+    <videoAlbum>3 Idiots</videoAlbum>
+    <videoDescription><![CDATA[Three idiots is an insightful comedy that talks about the most important of human pursuits: self-actualization. Two friends (Madhavan and Sharman Joshi) embark on a quest for their lost buddy. Their journey is no less than a roller-coaster ride as they en]]></videoDescription>
+  </videodetail>
+</videos>

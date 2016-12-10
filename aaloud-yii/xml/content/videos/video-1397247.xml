@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<videos>
+  <videoId>1397247</videoId>
+  <names>
+    <artistName id="31">
+      <name>Abhishek Bachchan</name>
+    </artistName>
+  </names>
+  <genre>Bollywood</genre>
+  <languages>Hindi</languages>
+  <paths>
+    <path type="206">
+      <fileId>60918682</fileId>
+      <videopath>http://content.hungama.com/events%20and%20broadcasts%20video/video%20content/flv%20320x240%2096/60918682.flv</videopath>
+    </path>
+    <path type="241">
+      <fileId>60918681</fileId>
+      <videopath>http://content.hungama.com/events%20and%20broadcasts%20video/video%20content/flv%20640x480%20160/60918681.flv</videopath>
+    </path>
+  </paths>
+  <videoName><![CDATA["Dhoom 3 Will Be Aamir's Most Remembered Film Till Date": Abhishek]]></videoName>
+  <previews>
+    <preview type="208">
+      <fileId>60918679</fileId>
+      <videoPreview>http://content.hungama.com/events%20and%20broadcasts%20video/display%20image/137x73%20jpeg/60918679.jpg</videoPreview>
+    </preview>
+    <preview type="210">
+      <fileId>60918678</fileId>
+      <videoPreview>http://content.hungama.com/events%20and%20broadcasts%20video/display%20image/182x97%20jpeg/60918678.jpg</videoPreview>
+    </preview>
+  </previews>
+  <videoDetail>
+    <videoAlbum></videoAlbum>
+    <videoDescription></videoDescription>
+  </videoDetail>
+</videos>

@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<videos>
+  <videoId>359216</videoId>
+  <names>
+    <artistName id="31">
+      <name>Aamir Khan</name>
+    </artistName>
+    <artistName id="19">
+      <name>Shantanu Moitra</name>
+    </artistName>
+    <artistName id="18">
+      <name>Swanand Kirkire</name>
+    </artistName>
+    <artistName id="34">
+      <name>Rajkumar Hirani</name>
+    </artistName>
+    <artistName id="8">
+      <name>Bosco Martis</name>
+    </artistName>
+    <artistName id="29">
+      <name>Suraj Jagan</name>
+    </artistName>
+  </names>
+  <genre>Soundtrack</genre>
+  <languages>Hindi</languages>
+  <paths>
+    <path type="32">
+      <fileId>4493096</fileId>
+      <videopath>http://repos.hungama.com/music%20video/video%20content/full%20m4v%20640x480/4493096.m4v</videopath>
+    </path>
+    <path type="73">
+      <fileId>3862485</fileId>
+      <videopath>http://repos.hungama.com/music%20video/video%20content/30%203gp%20128x96/3862485.3gp</videopath>
+    </path>
+    <path type="74">
+      <fileId>5670539</fileId>
+      <videopath>http://repos.hungama.com/music%20video/video%20content/30%203gp%20176x144/5670539.3gp</videopath>
+    </path>
+    <path type="75">
+      <fileId>5670681</fileId>
+      <videopath>http://repos.hungama.com/music%20video/video%20content/30%203gp%20320x240/5670681.3gp</videopath>
+    </path>
+    <path type="133">
+      <fileId>3862513</fileId>
+      <videopath>http://repos.hungama.com/music%20video/video%20content/full%20wmv%20640x480/3862513.wmv</videopath>
+    </path>
+    <path type="161">
+      <fileId>5601926</fileId>
+      <videopath>http://repos.hungama.com/music%20video/video%20content/full%203gp%20176x144/5601926.3gp</videopath>
+    </path>
+    <path type="162">
+      <fileId>5664287</fileId>
+      <videopath>http://repos.hungama.com/music%20video/video%20content/full%203gp%20320x240/5664287.3gp</videopath>
+    </path>
+  </paths>
+  <videoName><![CDATA[Give Me Some Sunshine]]></videoName>
+  <previews>
+    <preview type="2">
+      <fileId>3862527</fileId>
+      <videoPreview>http://repos.hungama.com/music%20video/display%20image/50x50%20jpeg/3862527.jpg</videoPreview>
+    </preview>
+    <preview type="4">
+      <fileId>4663714</fileId>
+      <videoPreview>http://repos.hungama.com/music%20video/display%20image/100x100%20jpeg/4663714.jpg</videoPreview>
+    </preview>
+    <preview type="33">
+      <fileId>3862520</fileId>
+      <videoPreview>http://repos.hungama.com/music%20video/display%20image/50x50%20gif/3862520.gif</videoPreview>
+    </preview>
+    <preview type="38">
+      <fileId>4659663</fileId>
+      <videoPreview>http://repos.hungama.com/music%20video/display%20image/100x100%20gif/4659663.gif</videoPreview>
+    </preview>
+    <preview type="129">
+      <fileId>3862541</fileId>
+      <videoPreview>http://repos.hungama.com/music%20video/display%20image/118x81%20jpeg/3862541.jpg</videoPreview>
+    </preview>
+    <preview type="146">
+      <fileId>3862548</fileId>
+      <videoPreview>http://repos.hungama.com/music%20video/display%20image/200x200%20gif/3862548.gif</videoPreview>
+    </preview>
+    <preview type="147">
+      <fileId>3862555</fileId>
+      <videoPreview>http://repos.hungama.com/music%20video/display%20image/200x200%20jpeg/3862555.jpg</videoPreview>
+    </preview>
+    <preview type="148">
+      <fileId>3862534</fileId>
+      <videoPreview>http://repos.hungama.com/music%20video/display%20image/118x81%20gif/3862534.gif</videoPreview>
+    </preview>
+  </previews>
+  <videodetail>
+    <videoAlbum>3 Idiots</videoAlbum>
+    <videoDescription><![CDATA[Three idiots is an insightful comedy that talks about the most important of human pursuits: self-actualization. Two friends (Madhavan and Sharman Joshi) embark on a quest for their lost buddy. Their journey is no less than a roller-coaster ride as they en]]></videoDescription>
+  </videodetail>
+</videos>

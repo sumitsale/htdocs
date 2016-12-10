@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+  <songId>375509</songId>
+  <names>
+    <artistName></artistName>
+  </names>
+  <artistimages>
+    <image></image>
+  </artistimages>
+  <genre>Hindi Rock</genre>
+  <languages>Hindi</languages>
+  <paths>
+    <path type="6">
+      <fileId>4630444</fileId>
+      <songpath>http://repos.hungama.com/audio/audio%20preview/30%20mp3/4630444.mp3</songpath>
+    </path>
+    <path type="18">
+      <fileId>5588814</fileId>
+      <songpath>http://repos.hungama.com/audio/audio%20preview/30%203gp/5588814.3gp</songpath>
+    </path>
+  </paths>
+  <songName>Aag</songName>
+  <songdetail>
+    <songAlbum>Hun Yaadon Ke Sang</songAlbum>
+    <songDescription><![CDATA[Hum Yadon Ke Sangâ€™ is a level higher in terms of Farabiâ€™s innovative riffs and Wajhiâ€™s soothing vocals from their last effort. The focus is distinctly on the serenity of eastern melody and the energy of rock music, this unique blend makes their musi]]></songDescription>
+  </songdetail>
+</song>

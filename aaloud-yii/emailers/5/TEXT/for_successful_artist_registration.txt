@@ -1,0 +1,26 @@
+Dear <firstname>,
+
+Thank you for registering with <sitename> as an Artist.
+
+This unique platform will give you an opportunity to break free from the barriers of mainstream media and allow your songs reach out directly to your existing fan base and touch millions using our digital distribution network across Internet , Mobile and DTH in India and Internationally.
+
+We hope you'll soon upload your original compositions for the World to hear.Until then enjoy listening to music across multiple Artists, Genres, Languages and regions on <sitename>.
+
+Your sign in details are as follows:
+UserID:<login>
+Password:<password>
+
+» The above password is auto-generated. We recommend you change your password (<changepasswordurl>) the next time you sign in.
+
+» Make sure the password is a mix of numbers and alphabets, and is a combination that you will not forget!
+
+You can monitor the status of your song downloads, sampling statistics and other details of your account by logging in using the above login.
+
+Warm Regards,
+
+<sitenameurl> Team
+
+
+For any further support, please feel free to Contact Us.(<contactusurl>)
+
+P.S. This is an automated email. Please do not reply to this mail, as you will not receive a response. 

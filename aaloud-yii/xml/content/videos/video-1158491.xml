@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<videos>
+  <videoId>1158491</videoId>
+  <names>
+    <artistName id="31">
+      <name>Sunidhi Chauhan</name>
+    </artistName>
+  </names>
+  <genre>Bollywood</genre>
+  <languages>Hindi</languages>
+  <paths>
+    <path type="133">
+      <fileId>60076723</fileId>
+      <videopath>http://content.hungama.com/music%20video%20album/video%20content/full%20wmv%20640x480/60076723.wmv</videopath>
+    </path>
+    <path type="206">
+      <fileId>60334915</fileId>
+      <videopath>http://content.hungama.com/music%20video%20album/video%20content/flv%20320x240%2096/60334915.flv</videopath>
+    </path>
+    <path type="241">
+      <fileId>60335250</fileId>
+      <videopath>http://content.hungama.com/music%20video%20album/video%20content/flv%20640x480%20160/60335250.flv</videopath>
+    </path>
+  </paths>
+  <videoName><![CDATA[Rock The Party]]></videoName>
+  <previews>
+    <preview type="208">
+      <fileId>60337656</fileId>
+      <videoPreview>http://content.hungama.com/music%20video%20album/display%20image/137x73%20jpeg/60337656.jpg</videoPreview>
+    </preview>
+    <preview type="210">
+      <fileId>60344661</fileId>
+      <videoPreview>http://content.hungama.com/music%20video%20album/display%20image/182x97%20jpeg/60344661.jpg</videoPreview>
+    </preview>
+  </previews>
+  <videodetail>
+    <videoAlbum>Aa Dekhen Zara</videoAlbum>
+    <videoDescription><![CDATA[ ]]></videoDescription>
+  </videodetail>
+</videos>

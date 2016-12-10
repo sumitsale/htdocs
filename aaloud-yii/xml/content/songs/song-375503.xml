@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+  <songId>375503</songId>
+  <names>
+    <artistName id="31">
+      <name>Raeth</name>
+      <artistid>41028</artistid>
+    </artistName>
+  </names>
+  <artistimages>
+    <image></image>
+  </artistimages>
+  <artistimages50>
+    <image></image>
+  </artistimages50>
+  <genre>Hindi Rock</genre>
+  <languages>Hindi</languages>
+  <paths>
+    <path type="6">
+      <fileId>4630438</fileId>
+      <songpath>http://repos.hungama.com/audio/audio%20preview/30%20mp3/4630438.mp3</songpath>
+    </path>
+    <path type="18">
+      <fileId>5588808</fileId>
+      <songpath>http://repos.hungama.com/audio/audio%20preview/30%203gp/5588808.3gp</songpath>
+    </path>
+  </paths>
+  <songName>Hum Yaadon Ke Sang</songName>
+</song>

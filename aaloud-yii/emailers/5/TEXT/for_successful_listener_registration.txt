@@ -1,0 +1,22 @@
+Dear <firstname>,
+
+Welcome to <sitename>, A Digital platform for Artists and Listeners alike that will provide "YOU" the consumer with access to unreleased and original music, which you can sample, buy as well as share with your communities. This unique platform will enable you to enjoy music across multiple Genres, Languages and Regions. 
+
+Your sign in details are as follows:
+UserID:<login>
+Password:<password>
+
+» The above password is auto-generated. We recommend you change your password (<changepasswordurl>) the next time you sign in.
+
+» Make sure the password is a mix of numbers and alphabets, and is a combination that you will not forget!
+
+Hope you have as much fun browsing and downloading content on <sitename> or use m.<sitename> on your GPRS enabled mobile handset, as we had in creating this First of its kind Independent Music Destination.
+
+Warm Regards,
+
+<sitenameurl> Team
+
+
+For any further support, please feel free to Contact Us.(<contactusurl>)
+
+P.S. This is an automated email. Please do not reply to this mail, as you will not receive a response. 

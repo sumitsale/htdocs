@@ -1,0 +1,32 @@
+Dear <firstname>,
+
+Thanks for choosing the <plan> on <sitename>. Hope you're enjoying your downloads.
+
+Here's a quick recap of the content downloaded using your <plan> so far…
+
+Your purchase details are:
+
+Order No. <orderno>
+Mode of Payment: <paymode>
+Plan Chosen: <plan>. (you can download upto <plancount> items.)
+Total items downloaded: <totalcount>
+Balance Downloads: 0
+
+Item(s) purchased:
+  <order_details>
+
+
+The <plan> you purchased against Order No <orderno> has now been fully utilized by you.
+
+There's plenty more content for you to download on <sitename>. Get unlimited access to over 100,000+ music tracks & ringtones, 20,000+ videos, 50,000+ mobile wallpapers and much more...
+
+
+Warm Regards,
+Customer Support Team
+<sitename>(<sitenameurl>)
+
+For any further support, please feel free to Contact Us.(<contactusurl>)
+Or you can reach our support team on 020 - 66004646 or +91 9225504646.
+Monday - Saturday: 9:00AM to 9:00PM (your local time)
+
+P.S. This is an automated email. Please do not reply to this mail, as you will not receive a response. 

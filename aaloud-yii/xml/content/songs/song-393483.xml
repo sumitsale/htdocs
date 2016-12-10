@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+  <songId>393483</songId>
+  <names>
+    <artistName></artistName>
+  </names>
+  <artistimages>
+    <image></image>
+  </artistimages>
+  <genre>Pop</genre>
+  <languages>English</languages>
+  <paths>
+    <path type="6">
+      <fileId>5760524</fileId>
+      <songpath>http://repos.hungama.com/audio/audio%20preview/30%20mp3/5760524.mp3</songpath>
+    </path>
+  </paths>
+  <songName>Right There - The Bombay Bounce Remix</songName>
+  <songdetail>
+    <songAlbum>Killer Love</songAlbum>
+    <songDescription><![CDATA[Nicole Scherzinger new track Right There - The Bombay Bounce Remix -  Remixed by DJ Lloyd featuring Raja Hasan.]]></songDescription>
+  </songdetail>
+</song>

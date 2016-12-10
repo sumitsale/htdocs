@@ -1,0 +1,26 @@
+Dear <firstname>,
+
+Welcome to <sitename>, your one-stop entertainment shop. <sitename> is a great place to browse, preview and download your favourite music tracks, videos, ringtones, and mobile wallpapers – on your PC, as well as your mobile phone.
+
+Your sign in details are as follows:
+UserID:<login>
+Password:<password>
+
+» The above password is auto-generated. We recommend you change your password (<changepasswordurl>) the next time you sign in.
+
+» Make sure the password is a mix of numbers and alphabets, and is a combination that you will not forget!
+
+We’re thrilled to have you on board, and hope you have as much fun on <sitename>, as we've had putting it together for you!
+
+Cheers!
+
+Arindam Nag
+Product Head
+<sitenameurl> 
+
+
+For any further support, please feel free to Contact Us.(<contactusurl>)
+Or you can reach our support teams on 020 - 66004646 or +91 9225504646.
+Monday - Saturday: 9:00AM to 9:00PM (your local time)
+
+P.S. This is an automated email. Please do not reply to this mail, as you will not receive a response. 

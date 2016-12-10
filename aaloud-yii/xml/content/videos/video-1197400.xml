@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<videos>
+  <videoId>1197400</videoId>
+  <names>
+    <artistName id="31">
+      <name>Salman Khan</name>
+    </artistName>
+  </names>
+  <genre>Bollywood</genre>
+  <languages>Hindi</languages>
+  <paths>
+    <path type="206">
+      <fileId>60176518</fileId>
+      <videopath>http://content.hungama.com/events%20and%20broadcasts%20album/video%20content/flv%20320x240%2096/60176518.flv</videopath>
+    </path>
+    <path type="241">
+      <fileId>60189371</fileId>
+      <videopath>http://content.hungama.com/events%20and%20broadcasts%20album/video%20content/flv%20640x480%20160/60189371.flv</videopath>
+    </path>
+  </paths>
+  <videoName><![CDATA["I'm Still A Kid, I'm Only 42": Salman Khan]]></videoName>
+  <previews>
+    <preview type="208">
+      <fileId>60341639</fileId>
+      <videoPreview>http://content.hungama.com/events%20and%20broadcasts%20album/display%20image/137x73%20jpeg/60341639.jpg</videoPreview>
+    </preview>
+    <preview type="210">
+      <fileId>60346577</fileId>
+      <videoPreview>http://content.hungama.com/events%20and%20broadcasts%20album/display%20image/182x97%20jpeg/60346577.jpg</videoPreview>
+    </preview>
+  </previews>
+  <videoDetail>
+    <videoAlbum></videoAlbum>
+    <videoDescription></videoDescription>
+  </videoDetail>
+</videos>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<videos>
+  <videoId>1195758</videoId>
+  <names>
+    <artistName id="31">
+      <name>Saif Ali Khan</name>
+    </artistName>
+  </names>
+  <genre>Bollywood</genre>
+  <languages>Hindi</languages>
+  <paths>
+    <path type="206">
+      <fileId>60174918</fileId>
+      <videopath>http://content.hungama.com/events%20and%20broadcasts%20album/video%20content/flv%20320x240%2096/60174918.flv</videopath>
+    </path>
+    <path type="241">
+      <fileId>60187770</fileId>
+      <videopath>http://content.hungama.com/events%20and%20broadcasts%20album/video%20content/flv%20640x480%20160/60187770.flv</videopath>
+    </path>
+  </paths>
+  <videoName><![CDATA["I'm Excited About Tashan": Kareena]]></videoName>
+  <previews>
+    <preview>/aaloud-yii/themes/aaloud/images/Thumbnails/135x75.jpg</preview>
+  </previews>
+  <videoDetail>
+    <videoAlbum></videoAlbum>
+    <videoDescription></videoDescription>
+  </videoDetail>
+</videos>

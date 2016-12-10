@@ -1,0 +1,30 @@
+Dear <firstname>,
+
+Congratulations! The Value Pack you've chosen is perfect, when you want to pick up a handful of your favourite entertainment on <sitename>.
+
+Each Value Pack lets you download your mix of 4 music tracks or videos or ringtones or mobile wallpapers. You can download all four items at one time, or download some now and some on your following visits to <sitename>.
+
+Your purchase details are:
+Order No. <orderno>
+Mode of Payment: <paymode>
+Amount Debited: <currency> <amount>/- 
+Plan Chosen: Value Pack. (you can download upto 4 items.)
+Total items downloaded: <items>
+Balance Downloads: <balance>
+
+Item(s) purchased:
+  <order_details>
+
+
+Hope you have a great time browsing and downloading our unlimited library of entertainment on <sitename>!
+
+
+Warm Regards,
+Customer Support Team
+<sitename> (<sitenameurl>)
+
+For any further support, please feel free to Contact Us.(<contactusurl>)
+Or you can reach our support team on 020 - 66004646 or +91 9225504646.
+Monday - Saturday: 9:00AM to 9:00PM (your local time) 
+
+P.S. This is an automated email. Please do not reply to this mail, as you will not receive a response. 

@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<videos>
+  <videoId>269604</videoId>
+  <names>
+    <artistName id="18">
+      <name>Sameer</name>
+    </artistName>
+    <artistName id="19">
+      <name>Nadeem Shravan</name>
+    </artistName>
+    <artistName id="8">
+      <name>Raju Khan</name>
+    </artistName>
+    <artistName id="29">
+      <name>Kumar Sanu</name>
+    </artistName>
+    <artistName id="31">
+      <name>Rahul Roy</name>
+    </artistName>
+  </names>
+  <genre>Soundtrack</genre>
+  <languages>Hindi</languages>
+  <paths>
+    <path type="32">
+      <fileId>4293444</fileId>
+      <videopath>http://repos.hungama.com/music%20video/video%20content/full%20m4v%20640x480/4293444.m4v</videopath>
+    </path>
+    <path type="73">
+      <fileId>2677534</fileId>
+      <videopath>http://repos.hungama.com/music%20video/video%20content/30%203gp%20128x96/2677534.3gp</videopath>
+    </path>
+    <path type="74">
+      <fileId>2678568</fileId>
+      <videopath>http://repos.hungama.com/music%20video/video%20content/30%203gp%20176x144/2678568.3gp</videopath>
+    </path>
+    <path type="75">
+      <fileId>2679602</fileId>
+      <videopath>http://repos.hungama.com/music%20video/video%20content/30%203gp%20320x240/2679602.3gp</videopath>
+    </path>
+    <path type="133">
+      <fileId>2600661</fileId>
+      <videopath>http://repos.hungama.com/music%20video/video%20content/full%20wmv%20640x480/2600661.wmv</videopath>
+    </path>
+    <path type="160">
+      <fileId>2586575</fileId>
+      <videopath>http://repos.hungama.com/music%20video/video%20content/full%203gp%20128x96/2586575.3gp</videopath>
+    </path>
+    <path type="161">
+      <fileId>2587092</fileId>
+      <videopath>http://repos.hungama.com/music%20video/video%20content/full%203gp%20176x144/2587092.3gp</videopath>
+    </path>
+    <path type="162">
+      <fileId>2587609</fileId>
+      <videopath>http://repos.hungama.com/music%20video/video%20content/full%203gp%20320x240/2587609.3gp</videopath>
+    </path>
+  </paths>
+  <videoName><![CDATA[Main Duniya Bhula Doonga]]></videoName>
+  <previews>
+    <preview type="2">
+      <fileId>1866403</fileId>
+      <videoPreview>http://repos.hungama.com/music%20video/display%20image/50x50%20jpeg/1866403.jpg</videoPreview>
+    </preview>
+    <preview type="33">
+      <fileId>1864866</fileId>
+      <videoPreview>http://repos.hungama.com/music%20video/display%20image/50x50%20gif/1864866.gif</videoPreview>
+    </preview>
+    <preview type="38">
+      <fileId>4659095</fileId>
+      <videoPreview>http://repos.hungama.com/music%20video/display%20image/100x100%20gif/4659095.gif</videoPreview>
+    </preview>
+    <preview type="77">
+      <fileId>60888704</fileId>
+      <videoPreview>http://content.hungama.com/artist/profile%20image/182x97%20jpeg/60888704.jpg</videoPreview>
+    </preview>
+    <preview type="129">
+      <fileId>1866634</fileId>
+      <videoPreview>http://repos.hungama.com/music%20video/display%20image/118x81%20jpeg/1866634.jpg</videoPreview>
+    </preview>
+    <preview type="146">
+      <fileId>2682256</fileId>
+      <videoPreview>http://repos.hungama.com/music%20video/display%20image/200x200%20gif/2682256.gif</videoPreview>
+    </preview>
+    <preview type="147">
+      <fileId>2683217</fileId>
+      <videoPreview>http://repos.hungama.com/music%20video/display%20image/200x200%20jpeg/2683217.jpg</videoPreview>
+    </preview>
+  </previews>
+  <videodetail>
+    <videoAlbum>Aashiqui</videoAlbum>
+    <videoDescription><![CDATA[Rahul (Rahul Roy) and Anu (Anu Aggarwal) both have their own problems. While Rahul is angry with his father's second marriage, Anu has run away from an oppressive girl's hostel. When they both meet love happens. But, soon career aspirations cause clashes,]]></videoDescription>
+  </videodetail>
+</videos>

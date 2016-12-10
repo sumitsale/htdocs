@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<defaultVideo>
+  <artistId>995</artistId>
+  <videoId>1025458</videoId>
+  <artistName>Bappi Lahiri</artistName>
+  <videoName>Football Fever</videoName>
+  <genre>Alternative Pop</genre>
+  <language>Hindi</language>
+  <videoLink>
+    <link type="191">
+      <file_path><![CDATA[http://repos.hungama.org/music%20video/video%20preview/full%20flv%20240x180/50073506.flv]]></file_path>
+    </link>
+    <link type="527">
+      <file_path><![CDATA[http://repos.hungama.org/music%20video/video%20preview/full%20mp4%20480x320/50123328.mp4]]></file_path>
+    </link>
+  </videoLink>
+  <videoAlbum></videoAlbum>
+  <videodescription></videodescription>
+</defaultVideo>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<videos>
+  <videoId>1197396</videoId>
+  <names>
+    <artistName id="31">
+      <name>Sonal Chauhan</name>
+    </artistName>
+  </names>
+  <genre>Bollywood</genre>
+  <languages>Hindi</languages>
+  <paths>
+    <path type="206">
+      <fileId>60176415</fileId>
+      <videopath>http://content.hungama.com/events%20and%20broadcasts%20album/video%20content/flv%20320x240%2096/60176415.flv</videopath>
+    </path>
+    <path type="241">
+      <fileId>60189269</fileId>
+      <videopath>http://content.hungama.com/events%20and%20broadcasts%20album/video%20content/flv%20640x480%20160/60189269.flv</videopath>
+    </path>
+  </paths>
+  <videoName><![CDATA["I Have A Good Dressing Sense": Sonal Chauhan]]></videoName>
+  <previews>
+    <preview type="208">
+      <fileId>60341537</fileId>
+      <videoPreview>http://content.hungama.com/events%20and%20broadcasts%20album/display%20image/137x73%20jpeg/60341537.jpg</videoPreview>
+    </preview>
+    <preview type="210">
+      <fileId>60346475</fileId>
+      <videoPreview>http://content.hungama.com/events%20and%20broadcasts%20album/display%20image/182x97%20jpeg/60346475.jpg</videoPreview>
+    </preview>
+  </previews>
+  <videoDetail>
+    <videoAlbum></videoAlbum>
+    <videoDescription></videoDescription>
+  </videoDetail>
+</videos>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+  <songId>375519</songId>
+  <names>
+    <artistName id="31">
+      <name>Bandish</name>
+    </artistName>
+  </names>
+  <artistimages>
+    <image></image>
+  </artistimages>
+  <genre>Hindi Rock</genre>
+  <languages>English</languages>
+  <paths>
+    <path type="6">
+      <fileId>4630454</fileId>
+      <songpath>http://repos.hungama.com/audio/audio%20preview/30%20mp3/4630454.mp3</songpath>
+    </path>
+    <path type="18">
+      <fileId>5588824</fileId>
+      <songpath>http://repos.hungama.com/audio/audio%20preview/30%203gp/5588824.3gp</songpath>
+    </path>
+  </paths>
+  <songName>I Believe</songName>
+  <songdetail>
+    <songAlbum>Bandish</songAlbum>
+    <songDescription><![CDATA[Bandish has some great collaborations with the likes of Bollywood Super Singer K.K and rising star Krishna as well as internationally acclaimed percussionist Pete Locket. The songs have a great hard rock sound with crunchy guitars & lilting vocals making]]></songDescription>
+  </songdetail>
+</song>

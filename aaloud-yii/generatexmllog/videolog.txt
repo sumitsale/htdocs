@@ -1,0 +1,12 @@
+
+generate time-1329219497
+  total 132 video xml file generated.
+
+
+generate time-1329219878
+  total 132 video xml file generated.
+
+
+generate on-04/06/12 : 19:00:16
+  total 88 video xml file generated.
+

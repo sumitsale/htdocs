@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<videos>
+  <videoId>1159340</videoId>
+  <names>
+    <artistName id="31">
+      <name>Anil Kapoor</name>
+    </artistName>
+  </names>
+  <genre>Bollywood</genre>
+  <languages>Hindi</languages>
+  <paths>
+    <path type="206">
+      <fileId>60334910</fileId>
+      <videopath>http://content.hungama.com/music%20video%20album/video%20content/flv%20320x240%2096/60334910.flv</videopath>
+    </path>
+    <path type="241">
+      <fileId>60335245</fileId>
+      <videopath>http://content.hungama.com/music%20video%20album/video%20content/flv%20640x480%20160/60335245.flv</videopath>
+    </path>
+  </paths>
+  <videoName><![CDATA[Pyar Hua Chup Kaise]]></videoName>
+  <previews>
+    <preview type="208">
+      <fileId>60337651</fileId>
+      <videoPreview>http://content.hungama.com/music%20video%20album/display%20image/137x73%20jpeg/60337651.jpg</videoPreview>
+    </preview>
+    <preview type="210">
+      <fileId>60344656</fileId>
+      <videoPreview>http://content.hungama.com/music%20video%20album/display%20image/182x97%20jpeg/60344656.jpg</videoPreview>
+    </preview>
+  </previews>
+  <videodetail>
+    <videoAlbum>1942 - A Love Story</videoAlbum>
+    <videoDescription><![CDATA[ ]]></videoDescription>
+  </videodetail>
+</videos>

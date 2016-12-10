@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<albums>
+  <album>
+    <artistId><![CDATA[85037]]></artistId>
+    <artistName><![CDATA[A R Rahman]]></artistName>
+    <contentId><![CDATA[389279]]></contentId>
+    <track><![CDATA[Liberation In A Dream]]></track>
+    <genre><![CDATA[Soundtrack]]></genre>
+    <language><![CDATA[English]]></language>
+    <albumArtwork></albumArtwork>
+  </album>
+  <album>
+    <artistId><![CDATA[42412]]></artistId>
+    <artistName><![CDATA[Nick Jonas & The Administration]]></artistName>
+    <contentId><![CDATA[377396]]></contentId>
+    <track><![CDATA[Last Time Around]]></track>
+    <genre><![CDATA[Pop Rock]]></genre>
+    <language><![CDATA[English]]></language>
+    <albumArtwork></albumArtwork>
+  </album>
+  <album>
+    <artistId><![CDATA[2640]]></artistId>
+    <artistName><![CDATA[Hariharan]]></artistName>
+    <contentId><![CDATA[359735]]></contentId>
+    <track><![CDATA[Chahe Pandit Ho Chahe Kazi Ho]]></track>
+    <genre><![CDATA[Soundtrack]]></genre>
+    <language><![CDATA[Hindi]]></language>
+    <albumArtwork></albumArtwork>
+  </album>
+</albums>

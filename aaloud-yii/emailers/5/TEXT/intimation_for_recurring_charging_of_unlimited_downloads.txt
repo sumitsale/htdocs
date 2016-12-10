@@ -1,0 +1,24 @@
+Dear <firstname>,
+
+
+Hope you've been making the best of your <plan> Plan on <sitename>.
+
+As you have been informed earlier, in your <plan> plan activation mail, your plan needs to be renewed every month for you to enjoy uninterrupted access to your downloads.
+
+We'd like to inform you that your <plan> Plan (Order# <orderno>) is due for automatic renewal on <date2>. For this, your Credit Card will be automatically charged an amount of <amount>/- <currency> on the above mentioned date. If you have used any other Payment Option, besides your credit card, you will need to visit <sitename>(<sitenameurl>) on the due date to renew your subscription using your Credit Card. You can stop your subscription, if you so wish, by contacting us(<contactingusurl>) at least two working days prior to the renewal date (<date2>).
+
+Hope you have a great time browsing and downloading our unlimited library of entertainment on <sitename>!
+
+Warm Regards,
+Customer Support Team
+<sitename> (<sitenameurl>)
+
+
+For any further support, please feel free to Contact Us (<contactusurl>).
+Or you can reach our support team on 020 - 66004646 or +91 9225504646.
+Monday - Saturday: 9:00AM to 9:00PM (your local time)
+
+
+
+
+P.S. This is an automated email. Please do not reply to this mail, as you will not receive a response.

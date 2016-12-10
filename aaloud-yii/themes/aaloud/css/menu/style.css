@@ -1,0 +1,165 @@
+
+#megaMenu .slickr-flickr-gallery{
+	padding:0px;	
+}
+#megaMenu ul li ul.sub-menu li .slickr-flickr-gallery li{
+	min-width:95px;
+}
+#megaMenu .slickr-flickr-gallery img{
+	margin-left:0px;
+	float:left;
+}
+.slickr-flickr-gallery ul a:hover img{
+	background:#efefef !important;
+}
+#jquery-overlay{
+	z-index:900 !important;
+}
+#jquery-lightbox{
+	z-index:950 !important;
+}
+
+#megaMenu ul ul.sub-menu.sub-menu-1{
+	/*padding:20px;*/
+}
+#megaMenu ul li.ss-nav-menu-mega#menu-item-48 ul.sub-menu li{
+	width:155px;
+	/*border-right: 1px solid #dddddd;*/
+}
+#megaMenu ul li.ss-nav-menu-mega ul.sub-menu li#menu-item-97 span.wpmega-link-title{
+	width:170px;
+}
+#menu-item-47,
+#megaMenu ul li#menu-item-48.ss-nav-menu-mega ul.sub-menu li#menu-item-145{
+	width:100%;
+}
+#menu-item-144{
+	width:410px;
+}
+#menu-item-108.ss-nav-menu-with-desc > a > img{
+	padding-top:3px;
+}
+#menu-item-108 > a > .wpmega-item-description{
+	clear:none;
+	padding-bottom:0px;
+	position:relative;
+}
+#megaMenu.megaMenuVertical ul{
+	width:230px;
+}
+#megaMenu.megaMenuVertical ul .wpmega-nonlink div.wpcf7 input[type="text"], 
+#megaMenu.megaMenuVertical ul .wpmega-nonlink div.wpcf7 textarea{
+	width:90%;
+}
+#megaMenu.megaMenuVertical ul li.ss-nav-menu-mega#menu-item-48 ul.sub-menu li{
+	width:145px;
+}
+#megaMenu.megaMenuVertical ul li.ss-nav-menu-mega#menu-item-146 ul.sub-menu li{
+	width:145px;
+}
+#megaMenu.megaMenuVertical #menu-item-167{
+	clear:both;
+}
+
+#menu-item-108{
+	height:38px\9; /*IE8 hack */
+	max-height:36px\9; /*IE8 hack */ 
+}
+#menu-item-108.ss-nav-menu-with-desc{
+	height:auto\9; /*IE8 hack */ 
+	max-height:80px\9; /*IE8 hack */ 
+}
+#menu-item-108 > a{
+	max-height:17px\9;
+}
+#menu-item-108.ss-nav-menu-with-desc > a{
+	max-height:80px\9; /*IE8 hack */ 
+}
+
+
+.ss-gallery-container img{
+	padding:5px;
+	border:1px solid #fff;
+	
+	border-radius:2px;
+	-moz-border-radius:2px;
+	-webkit-border-radius:2px;
+	
+	margin:0px;
+	float:left;
+}
+.ss-gallery-container a{
+	margin:0px 9px 9px 0px;
+	float:left;
+}
+
+
+/* Special non-CSS styling */
+
+#megaMenu ul #menu-item-48 > ul.sub-menu-1{
+	left:-148px;
+	width:745px !important;
+	max-width:800px !important;
+}
+#megaMenu ul #menu-item-146 > ul.sub-menu-1{
+	left:-252px;
+	width:920px;
+}
+#megaMenu ul #menu-item-146 > ul.sub-menu-1 #menu-item-167{
+	margin-right:0px;	
+}
+#megaMenu ul #menu-item-108 > ul.sub-menu-1{
+	left:-120px;
+	width:340px!important;
+}
+#megaMenu ul #menu-item-15 > ul.sub-menu-1{
+	left:-656px;
+	width:920px;
+}
+
+
+
+
+#megaMenu.wpmega-preset-tt-silver  	ul #menu-item-48 > ul.sub-menu-1,
+#megaMenu.wpmega-preset-tt-black  	ul #menu-item-48 > ul.sub-menu-1,
+#megaMenu.wpmega-preset-tt-red  	ul #menu-item-48 > ul.sub-menu-1,
+#megaMenu.wpmega-preset-tt-blue  	ul #menu-item-48 > ul.sub-menu-1,
+#megaMenu.wpmega-preset-tt-green  	ul #menu-item-48 > ul.sub-menu-1,
+#megaMenu.wpmega-preset-tt-purple  	ul #menu-item-48 > ul.sub-menu-1,
+#megaMenu.wpmega-preset-tt-orange  	ul #menu-item-48 > ul.sub-menu-1,
+#megaMenu.wpmega-preset-tt-silver-s ul #menu-item-48 > ul.sub-menu-1{
+	left: -135px;
+}
+
+#megaMenu.wpmega-preset-tt-silver  	ul #menu-item-146 > ul.sub-menu-1,
+#megaMenu.wpmega-preset-tt-black  	ul #menu-item-146 > ul.sub-menu-1,
+#megaMenu.wpmega-preset-tt-red  	ul #menu-item-146 > ul.sub-menu-1,
+#megaMenu.wpmega-preset-tt-blue  	ul #menu-item-146 > ul.sub-menu-1,
+#megaMenu.wpmega-preset-tt-green  	ul #menu-item-146 > ul.sub-menu-1,
+#megaMenu.wpmega-preset-tt-purple  	ul #menu-item-146 > ul.sub-menu-1,
+#megaMenu.wpmega-preset-tt-orange  	ul #menu-item-146 > ul.sub-menu-1,
+#megaMenu.wpmega-preset-tt-silver-s ul #menu-item-146 > ul.sub-menu-1{
+	left: -232px;
+}
+
+
+#megaMenu.wpmega-preset-tt-silver  	ul #menu-item-15 > ul.sub-menu-1,
+#megaMenu.wpmega-preset-tt-black  	ul #menu-item-15 > ul.sub-menu-1,
+#megaMenu.wpmega-preset-tt-red  	ul #menu-item-15 > ul.sub-menu-1,
+#megaMenu.wpmega-preset-tt-blue  	ul #menu-item-15 > ul.sub-menu-1,
+#megaMenu.wpmega-preset-tt-green  	ul #menu-item-15 > ul.sub-menu-1,
+#megaMenu.wpmega-preset-tt-purple  	ul #menu-item-15 > ul.sub-menu-1,
+#megaMenu.wpmega-preset-tt-orange  	ul #menu-item-15 > ul.sub-menu-1,
+#megaMenu.wpmega-preset-tt-silver-s ul #menu-item-15 > ul.sub-menu-1{
+	left:-610px;	
+}
+
+#megaMenu #wpmega-ubermenu-widget-area-1 #text-7{
+	margin-right:0px;	
+}
+
+/* Test */
+
+/*#megaMenu ul ul > li > ul{
+	display:none;
+}*/

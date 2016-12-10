@@ -1,0 +1,15 @@
+Dear <firstname>,
+
+Thank you for registering with <sitename> .
+
+Our team will get in touch with you within the next 7 days. Please feel free to upload more music. 
+
+
+Warm Regards,
+
+<sitenameurl> Team
+
+
+For any further support, please feel free to Contact Us.(<contactusurl>)
+
+P.S. This is an automated email. Please do not reply to this mail, as you will not receive a response.

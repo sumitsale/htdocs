@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<videos>
+  <videoId>1158489</videoId>
+  <names>
+    <artistName id="31">
+      <name>Shaan</name>
+    </artistName>
+  </names>
+  <genre>Bollywood</genre>
+  <languages>Hindi</languages>
+  <paths>
+    <path type="133">
+      <fileId>60076721</fileId>
+      <videopath>http://content.hungama.com/music%20video%20album/video%20content/full%20wmv%20640x480/60076721.wmv</videopath>
+    </path>
+    <path type="206">
+      <fileId>60334913</fileId>
+      <videopath>http://content.hungama.com/music%20video%20album/video%20content/flv%20320x240%2096/60334913.flv</videopath>
+    </path>
+    <path type="241">
+      <fileId>60335248</fileId>
+      <videopath>http://content.hungama.com/music%20video%20album/video%20content/flv%20640x480%20160/60335248.flv</videopath>
+    </path>
+  </paths>
+  <videoName><![CDATA[Gazab]]></videoName>
+  <previews>
+    <preview type="208">
+      <fileId>60337654</fileId>
+      <videoPreview>http://content.hungama.com/music%20video%20album/display%20image/137x73%20jpeg/60337654.jpg</videoPreview>
+    </preview>
+    <preview type="210">
+      <fileId>60344659</fileId>
+      <videoPreview>http://content.hungama.com/music%20video%20album/display%20image/182x97%20jpeg/60344659.jpg</videoPreview>
+    </preview>
+  </previews>
+  <videodetail>
+    <videoAlbum>Aa Dekhen Zara</videoAlbum>
+    <videoDescription><![CDATA[ ]]></videoDescription>
+  </videodetail>
+</videos>

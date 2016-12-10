@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<videos>
+  <videoId>342061</videoId>
+  <names>
+    <artistName id="31">
+      <name>Akshay Kumar</name>
+    </artistName>
+    <artistName id="19">
+      <name>Neeraj Sridhar</name>
+    </artistName>
+    <artistName id="18">
+      <name>Sameer</name>
+    </artistName>
+    <artistName id="29">
+      <name>Tulsi Kumar</name>
+    </artistName>
+  </names>
+  <genre>Soundtrack</genre>
+  <languages>Hindi</languages>
+  <paths>
+    <path type="32">
+      <fileId>4293629</fileId>
+      <videopath>http://repos.hungama.com/music%20video/video%20content/full%20m4v%20640x480/4293629.m4v</videopath>
+    </path>
+    <path type="73">
+      <fileId>2677722</fileId>
+      <videopath>http://repos.hungama.com/music%20video/video%20content/30%203gp%20128x96/2677722.3gp</videopath>
+    </path>
+    <path type="74">
+      <fileId>2678756</fileId>
+      <videopath>http://repos.hungama.com/music%20video/video%20content/30%203gp%20176x144/2678756.3gp</videopath>
+    </path>
+    <path type="75">
+      <fileId>2679790</fileId>
+      <videopath>http://repos.hungama.com/music%20video/video%20content/30%203gp%20320x240/2679790.3gp</videopath>
+    </path>
+    <path type="133">
+      <fileId>2652084</fileId>
+      <videopath>http://repos.hungama.com/music%20video/video%20content/full%20wmv%20640x480/2652084.wmv</videopath>
+    </path>
+    <path type="160">
+      <fileId>2651964</fileId>
+      <videopath>http://repos.hungama.com/music%20video/video%20content/full%203gp%20128x96/2651964.3gp</videopath>
+    </path>
+    <path type="161">
+      <fileId>2652004</fileId>
+      <videopath>http://repos.hungama.com/music%20video/video%20content/full%203gp%20176x144/2652004.3gp</videopath>
+    </path>
+    <path type="162">
+      <fileId>2652044</fileId>
+      <videopath>http://repos.hungama.com/music%20video/video%20content/full%203gp%20320x240/2652044.3gp</videopath>
+    </path>
+  </paths>
+  <videoName><![CDATA[Aaja Maahi Aaja Maahi]]></videoName>
+  <previews>
+    <preview type="2">
+      <fileId>2652164</fileId>
+      <videoPreview>http://repos.hungama.com/music%20video/display%20image/50x50%20jpeg/2652164.jpg</videoPreview>
+    </preview>
+    <preview type="4">
+      <fileId>4663624</fileId>
+      <videoPreview>http://repos.hungama.com/music%20video/display%20image/100x100%20jpeg/4663624.jpg</videoPreview>
+    </preview>
+    <preview type="33">
+      <fileId>2652124</fileId>
+      <videoPreview>http://repos.hungama.com/music%20video/display%20image/50x50%20gif/2652124.gif</videoPreview>
+    </preview>
+    <preview type="38">
+      <fileId>4659573</fileId>
+      <videoPreview>http://repos.hungama.com/music%20video/display%20image/100x100%20gif/4659573.gif</videoPreview>
+    </preview>
+    <preview type="129">
+      <fileId>2652244</fileId>
+      <videoPreview>http://repos.hungama.com/music%20video/display%20image/118x81%20jpeg/2652244.jpg</videoPreview>
+    </preview>
+    <preview type="146">
+      <fileId>2682397</fileId>
+      <videoPreview>http://repos.hungama.com/music%20video/display%20image/200x200%20gif/2682397.gif</videoPreview>
+    </preview>
+    <preview type="147">
+      <fileId>2683358</fileId>
+      <videoPreview>http://repos.hungama.com/music%20video/display%20image/200x200%20jpeg/2683358.jpg</videoPreview>
+    </preview>
+    <preview type="148">
+      <fileId>2652204</fileId>
+      <videoPreview>http://repos.hungama.com/music%20video/display%20image/118x81%20gif/2652204.gif</videoPreview>
+    </preview>
+  </previews>
+  <videodetail>
+    <videoAlbum>8 X 10 Tasveer</videoAlbum>
+    <videoDescription><![CDATA[The Akshay Kumar starrer thriller, 8 x 10 Tasveer is the story of Jai (Akshay Kumar) who is gifted with supernatural powers. He has a special sense, which enables him to find the past of a person by merely touching his belongings. One unfortunate day, Jai]]></videoDescription>
+  </videodetail>
+</videos>

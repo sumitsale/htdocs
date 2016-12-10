@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<artist>
+  <artistName>Shaan</artistName>
+  <artistDescription><![CDATA[<p>Shaan (born Shantanu Mukherjee on 30 September 1972), is an Indian playback singer, and television host. He hosted the shows Sa Re Ga Ma Pa, Sa Re Ga Ma Pa L'il Champs, Star Voice of India and "Star Voice of India 2". In the Indian television program Music Ka Maha Muqabla his team, Shaan's Strikers, finished as the runners up, second only to music maestro Shankar Mahadevan's team.</p>]]></artistDescription>
+  <artistshortdescription><![CDATA[<p>Shaan (born Shantanu Mukherjee on 30 September 1972), is an Indian playback singer, and television host.</p>]]></artistshortdescription>
+  <artistId>6743</artistId>
+  <genres>
+    <genre id="12">
+      <genreName>Indi-Pop</genreName>
+    </genre>
+    <genre id="20">
+      <genreName>Soundtrack</genreName>
+    </genre>
+  </genres>
+  <languages>
+    <language id="hin">
+      <languageName>Hindi</languageName>
+    </language>
+  </languages>
+  <profileimage200>
+    <image200 type="146">
+      <file_path>http://repos.hungama.org/artist/display%20image/200x200%20gif/50131294.gif</file_path>
+    </image200>
+  </profileimage200>
+  <profileimage100>
+    <image100 type="38">
+      <file_path>http://repos.hungama.org/artist/display%20image/100x100%20gif/50131290.gif</file_path>
+    </image100>
+  </profileimage100>
+  <profileimage50>
+    <image50 type="33">
+      <file_path>http://repos.hungama.org/artist/display%20image/50x50%20gif/50131286.gif</file_path>
+    </image50>
+  </profileimage50>
+  <images80>
+    <image80>http://repos.hungama.org/artist/display%20image/80x80%20gif/50131288.gif</image80>
+  </images80>
+  <songs>
+    <song id="6">
+      <fileId>50329830</fileId>
+      <songName>Life Se Panga Mat Le Yaar</songName>
+      <songPath>http://repos.hungama.org/audio/audio%20preview/30%20mp3/50131677.mp3</songPath>
+      <contentId>390272</contentId>
+    </song>
+    <song id="6">
+      <fileId>5687061</fileId>
+      <songName>Life Se Panga Mat Le Yaar</songName>
+      <songPath>http://repos.hungama.com/audio/audio%20preview/30%20mp3/5687061.mp3</songPath>
+      <contentId>390272</contentId>
+    </song>
+    <song id="181">
+      <fileId>50329832</fileId>
+      <songName>Life Se Panga Mat Le Yaar</songName>
+      <songPath>http://repos.hungama.org/audio/audio%20preview/60%20mp3/50131893.mp3</songPath>
+      <contentId>390272</contentId>
+    </song>
+  </songs>
+  <videos>
+    <video></video>
+  </videos>
+  <images>
+    <image id="38">
+      <thumbnail>http://repos.hungama.org/wallpaper/display%20image/100x100%20gif/50131352.gif</thumbnail>
+      <imagePath>http://repos.hungama.org/wallpaper/display%20image/500x320%20jpeg/50131425.jpg</imagePath>
+    </image>
+    <image id="38">
+      <thumbnail>http://repos.hungama.org/wallpaper/display%20image/100x100%20gif/50131353.gif</thumbnail>
+      <imagePath>http://repos.hungama.org/wallpaper/display%20image/500x320%20jpeg/50131426.jpg</imagePath>
+    </image>
+    <image id="38">
+      <thumbnail>http://repos.hungama.org/wallpaper/display%20image/100x100%20gif/50131354.gif</thumbnail>
+      <imagePath>http://repos.hungama.org/wallpaper/display%20image/500x320%20jpeg/50131427.jpg</imagePath>
+    </image>
+    <image id="38">
+      <thumbnail>http://repos.hungama.org/wallpaper/display%20image/100x100%20gif/50131355.gif</thumbnail>
+      <imagePath>http://repos.hungama.org/wallpaper/display%20image/500x320%20jpeg/50131428.jpg</imagePath>
+    </image>
+  </images>
+  <wallpapers>
+    <wallpaper id="2">
+      <thumbnail>http://repos.hungama.org/wallpaper/display%20image/50x50%20jpeg/50131344.jpg</thumbnail>
+      <contentId>1026402</contentId>
+      <fileId>50286153</fileId>
+      <wallpaperPath></wallpaperPath>
+    </wallpaper>
+    <wallpaper id="2">
+      <thumbnail>http://repos.hungama.org/wallpaper/display%20image/50x50%20jpeg/50131345.jpg</thumbnail>
+      <contentId>1026403</contentId>
+      <fileId>50286418</fileId>
+      <wallpaperPath></wallpaperPath>
+    </wallpaper>
+    <wallpaper id="2">
+      <thumbnail>http://repos.hungama.org/wallpaper/display%20image/50x50%20jpeg/50131346.jpg</thumbnail>
+      <contentId>1026404</contentId>
+      <fileId>50286704</fileId>
+      <wallpaperPath></wallpaperPath>
+    </wallpaper>
+    <wallpaper id="2">
+      <thumbnail>http://repos.hungama.org/wallpaper/display%20image/50x50%20jpeg/50131347.jpg</thumbnail>
+      <contentId>1026405</contentId>
+      <fileId>50286992</fileId>
+      <wallpaperPath></wallpaperPath>
+    </wallpaper>
+  </wallpapers>
+</artist>

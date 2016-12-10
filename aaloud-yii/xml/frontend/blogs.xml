@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<blogs>
+<blog>
+<id>1</id>
+<blog_title>Ten artists Four countries one cause</blog_title>
+<blog_image>1.jpg</blog_image>
+<blog_desc>Ten artists Four countries one cause.Raghu Dixit is one voice, one guitar and melodies that are sure</blog_desc>
+<blog_url>http://raghudixit.com/blog/</blog_url>
+<blog_status>P</blog_status>
+<date>2010-12-01</date>
+</blog>
+<blog><id>2</id>
+<blog_title>Sommerfesten 2011  </blog_title>
+<blog_image>2.jpg</blog_image>
+<blog_desc>Then Raghu’s work almost cancelled the trip and then the Bombay rains came close to making us miss o</blog_desc>
+<blog_url>http://raghudixit.com/blog/</blog_url>
+<blog_status>P</blog_status>
+<date>2011-11-10</date>
+</blog>
+<blog><id>3</id>
+<blog_title>Glastonbury 2011</blog_title>
+<blog_image>3.gif</blog_image>
+<blog_desc>If you have anything to do with music, you have heard of Glastonbury, and until you go there, you will have heard various versions of how it will actually be. From the rain to the mud, to the massiveness of it to how much you have to walk, to sleeping and living in camps to your first pair of Wellies.</blog_desc>
+<blog_url>http://raghudixit.com/blog/</blog_url>
+<blog_status>P</blog_status>
+<date>2011-11-10</date>
+</blog>
+<blog><id>4</id>
+<blog_title>Catching Up and the IHC</blog_title>
+<blog_image>4.jpg</blog_image>
+<blog_desc>We’ve known Vimlendu and Swechha for a while now and have always endeavored to help them as much as possible and when we were actually able, with a LOT of juggling of our schedules, visa appointments and flight tickets, make it to Delhi in time for the gig, we were quite shocked that it was actually happening!</blog_desc>
+<blog_url>http://raghudixit.com/blog/</blog_url>
+<blog_status>P</blog_status>
+<date>2011-11-16</date>
+</blog>
+<blog><id>5</id>
+<blog_title>Songlines 2011 ? Best Newcomer!!!</blog_title>
+<blog_image>5.jpg</blog_image>
+<blog_desc>We?ve been really good about this and have kept it from all of you for so long now, and it feels good to finally be able to ?go tell it on the mountains!? ? We won the Songlines 2011 Award for Best Newcomer!!!</blog_desc>
+<blog_url>http://raghudixit.com/blog/</blog_url>
+<blog_status>P</blog_status>
+<date>2011-11-08</date>
+</blog>
+<blog><id>6</id>
+<blog_title>Music heals everything</blog_title>
+<blog_image>6.jpg</blog_image>
+<blog_desc>If you have anything to do with music, you have heard of Glastonbury, and until you go there, you will have heard various versions of how it will actually be.</blog_desc>
+<blog_url>http://blogs.timesofindia.indiatimes.com/kailash-khers-blog/</blog_url>
+<blog_status>P</blog_status>
+<date>2011-11-09</date>
+</blog>
+<blog><id>7</id>
+<blog_title>Best Newcomer!!</blog_title>
+<blog_image>7.gif</blog_image>
+<blog_desc>Then Raghu’s work almost cancelled the trip and then the Bombay rains came close to making us miss al our sorrows.
+We’ve known Vimlendu and Swechha for a while now and have always endeavored to help them as much as possible and when we were actually able, with a LOT of juggling of our schedules, visa appointments and flight tickets, make it to Delhi in time for the gig, we were quite shocked that it was actually happening!</blog_desc>
+<blog_url>http://raghudixit.com/blog/</blog_url>
+<blog_status>P</blog_status>
+<date>2011-12-30</date>
+</blog>
+</blogs>

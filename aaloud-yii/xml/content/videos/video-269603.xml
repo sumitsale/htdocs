@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<videos>
+  <videoId>269603</videoId>
+  <names>
+    <artistName id="18">
+      <name>Sameer</name>
+    </artistName>
+    <artistName id="19">
+      <name>Nadeem Shravan</name>
+    </artistName>
+    <artistName id="8">
+      <name>Raju Khan</name>
+    </artistName>
+    <artistName id="29">
+      <name>Kumar Sanu</name>
+    </artistName>
+    <artistName id="31">
+      <name>Rahul Roy</name>
+    </artistName>
+  </names>
+  <genre>Soundtrack</genre>
+  <languages>Hindi</languages>
+  <paths>
+    <path type="32">
+      <fileId>4492969</fileId>
+      <videopath>http://repos.hungama.com/music%20video/video%20content/full%20m4v%20640x480/4492969.m4v</videopath>
+    </path>
+    <path type="73">
+      <fileId>2677533</fileId>
+      <videopath>http://repos.hungama.com/music%20video/video%20content/30%203gp%20128x96/2677533.3gp</videopath>
+    </path>
+    <path type="74">
+      <fileId>2678567</fileId>
+      <videopath>http://repos.hungama.com/music%20video/video%20content/30%203gp%20176x144/2678567.3gp</videopath>
+    </path>
+    <path type="75">
+      <fileId>2679601</fileId>
+      <videopath>http://repos.hungama.com/music%20video/video%20content/30%203gp%20320x240/2679601.3gp</videopath>
+    </path>
+    <path type="133">
+      <fileId>2600631</fileId>
+      <videopath>http://repos.hungama.com/music%20video/video%20content/full%20wmv%20640x480/2600631.wmv</videopath>
+    </path>
+    <path type="160">
+      <fileId>2586574</fileId>
+      <videopath>http://repos.hungama.com/music%20video/video%20content/full%203gp%20128x96/2586574.3gp</videopath>
+    </path>
+    <path type="161">
+      <fileId>2587091</fileId>
+      <videopath>http://repos.hungama.com/music%20video/video%20content/full%203gp%20176x144/2587091.3gp</videopath>
+    </path>
+    <path type="162">
+      <fileId>2587608</fileId>
+      <videopath>http://repos.hungama.com/music%20video/video%20content/full%203gp%20320x240/2587608.3gp</videopath>
+    </path>
+  </paths>
+  <videoName><![CDATA[Tu Meri Zindagi Hai]]></videoName>
+  <previews>
+    <preview type="38">
+      <fileId>4659094</fileId>
+      <videoPreview>http://repos.hungama.com/music%20video/display%20image/100x100%20gif/4659094.gif</videoPreview>
+    </preview>
+    <preview type="77">
+      <fileId>60888631</fileId>
+      <videoPreview>http://content.hungama.com/artist/profile%20image/135x135%20jpeg/60888631.jpg</videoPreview>
+    </preview>
+    <preview type="129">
+      <fileId>1866631</fileId>
+      <videoPreview>http://repos.hungama.com/music%20video/display%20image/118x81%20jpeg/1866631.jpg</videoPreview>
+    </preview>
+    <preview type="146">
+      <fileId>2685928</fileId>
+      <videoPreview>http://repos.hungama.com/music%20video/display%20image/200x200%20gif/2685928.gif</videoPreview>
+    </preview>
+    <preview type="147">
+      <fileId>2686024</fileId>
+      <videoPreview>http://repos.hungama.com/music%20video/display%20image/200x200%20jpeg/2686024.jpg</videoPreview>
+    </preview>
+  </previews>
+  <videodetail>
+    <videoAlbum>Aashiqui</videoAlbum>
+    <videoDescription><![CDATA[Rahul (Rahul Roy) and Anu (Anu Aggarwal) both have their own problems. While Rahul is angry with his father's second marriage, Anu has run away from an oppressive girl's hostel. When they both meet love happens. But, soon career aspirations cause clashes,]]></videoDescription>
+  </videodetail>
+</videos>

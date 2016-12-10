@@ -1,0 +1,4 @@
+
+generate time-1329219414
+  total 2228 song xml file generated.
+

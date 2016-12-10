@@ -1,0 +1,9 @@
+
+generate time-1329219345
+  total 1305 artist xml file generated.
+
+generate time-1329219472
+  total 1305 artist xml file generated.
+
+generate on-04/06/12 : 18:57:02
+  total 109 artist xml file generated.

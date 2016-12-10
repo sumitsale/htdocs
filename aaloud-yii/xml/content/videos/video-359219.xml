@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<videos>
+  <videoId>359219</videoId>
+  <names>
+    <artistName id="31">
+      <name>Aamir Khan</name>
+    </artistName>
+    <artistName id="19">
+      <name>Shantanu Moitra</name>
+    </artistName>
+    <artistName id="18">
+      <name>Swanand Kirkire</name>
+    </artistName>
+    <artistName id="34">
+      <name>Rajkumar Hirani</name>
+    </artistName>
+    <artistName id="8">
+      <name>Bosco Martis</name>
+    </artistName>
+    <artistName id="29">
+      <name>Shaan</name>
+    </artistName>
+  </names>
+  <genre>Soundtrack</genre>
+  <languages>Hindi</languages>
+  <paths>
+    <path type="32">
+      <fileId>4493099</fileId>
+      <videopath>http://repos.hungama.com/music%20video/video%20content/full%20m4v%20640x480/4493099.m4v</videopath>
+    </path>
+    <path type="73">
+      <fileId>3862488</fileId>
+      <videopath>http://repos.hungama.com/music%20video/video%20content/30%203gp%20128x96/3862488.3gp</videopath>
+    </path>
+    <path type="74">
+      <fileId>5670542</fileId>
+      <videopath>http://repos.hungama.com/music%20video/video%20content/30%203gp%20176x144/5670542.3gp</videopath>
+    </path>
+    <path type="75">
+      <fileId>5670684</fileId>
+      <videopath>http://repos.hungama.com/music%20video/video%20content/30%203gp%20320x240/5670684.3gp</videopath>
+    </path>
+    <path type="133">
+      <fileId>3862516</fileId>
+      <videopath>http://repos.hungama.com/music%20video/video%20content/full%20wmv%20640x480/3862516.wmv</videopath>
+    </path>
+    <path type="161">
+      <fileId>5601932</fileId>
+      <videopath>http://repos.hungama.com/music%20video/video%20content/full%203gp%20176x144/5601932.3gp</videopath>
+    </path>
+    <path type="162">
+      <fileId>5664290</fileId>
+      <videopath>http://repos.hungama.com/music%20video/video%20content/full%203gp%20320x240/5664290.3gp</videopath>
+    </path>
+  </paths>
+  <videoName><![CDATA[Aal Izz Well (Remix)]]></videoName>
+  <previews>
+    <preview type="2">
+      <fileId>3862530</fileId>
+      <videoPreview>http://repos.hungama.com/music%20video/display%20image/50x50%20jpeg/3862530.jpg</videoPreview>
+    </preview>
+    <preview type="4">
+      <fileId>4663717</fileId>
+      <videoPreview>http://repos.hungama.com/music%20video/display%20image/100x100%20jpeg/4663717.jpg</videoPreview>
+    </preview>
+    <preview type="33">
+      <fileId>3862523</fileId>
+      <videoPreview>http://repos.hungama.com/music%20video/display%20image/50x50%20gif/3862523.gif</videoPreview>
+    </preview>
+    <preview type="38">
+      <fileId>4659666</fileId>
+      <videoPreview>http://repos.hungama.com/music%20video/display%20image/100x100%20gif/4659666.gif</videoPreview>
+    </preview>
+    <preview type="129">
+      <fileId>3862544</fileId>
+      <videoPreview>http://repos.hungama.com/music%20video/display%20image/118x81%20jpeg/3862544.jpg</videoPreview>
+    </preview>
+    <preview type="146">
+      <fileId>3862551</fileId>
+      <videoPreview>http://repos.hungama.com/music%20video/display%20image/200x200%20gif/3862551.gif</videoPreview>
+    </preview>
+    <preview type="147">
+      <fileId>3862558</fileId>
+      <videoPreview>http://repos.hungama.com/music%20video/display%20image/200x200%20jpeg/3862558.jpg</videoPreview>
+    </preview>
+    <preview type="148">
+      <fileId>3862537</fileId>
+      <videoPreview>http://repos.hungama.com/music%20video/display%20image/118x81%20gif/3862537.gif</videoPreview>
+    </preview>
+  </previews>
+  <videodetail>
+    <videoAlbum>3 Idiots</videoAlbum>
+    <videoDescription><![CDATA[Three idiots is an insightful comedy that talks about the most important of human pursuits: self-actualization. Two friends (Madhavan and Sharman Joshi) embark on a quest for their lost buddy. Their journey is no less than a roller-coaster ride as they en]]></videoDescription>
+  </videodetail>
+</videos>
