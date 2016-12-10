@@ -1,0 +1,374 @@
+/*Responsive Styles Below*/
+@media all {
+	/**:not(){transition: opacity 1s ease;}
+	*{
+		-webkit-transition: width 1s ease-in-out;
+		-moz-transition: width 1s ease-in-out;
+		-o-transition: width 1s ease-in-out;
+		transition: width 1s ease-in-out;
+	}*/
+}
+
+/* 1970 + Resolution */
+@media screen and (min-width: 1961px) { 
+
+}
+
+@media screen and (min-width: 1200px) /*and (max-width: 1960px)*/ { 
+}
+
+/* 1920 + Resolution */
+@media screen and (min-width: 1901px) /*and (max-width: 1960px)*/ { 
+    .centerContLarge{max-width: 1720px;}
+}
+/* 1600 Resolution */
+@media screen and (min-width: 1600px) and (max-width: 1900px) { 
+    .centerContLarge{max-width: 1462px;}
+}
+@media screen and (min-width: 1600px) {
+    .articleGrid li{max-width:20%;}
+}
+/* 1400 Resolution */
+@media screen and (min-width: 1400px) and (max-width: 1599px) { 
+    .centerContLarge{max-width: 1170px;}
+}
+@media screen and (min-width: 1301px) {
+}
+/* 1366 Resolution */
+@media screen and (min-width: 1301px) and (max-width: 1399px) {	
+    .centerContLarge{max-width: 1170px;}
+}
+/* 1280x768 screen */
+@media screen and (min-width: 1280px) and (max-width: 1300px) { 
+    .centerContLarge{max-width: 1170px;}
+}
+/* Common Media Queries  */
+@media screen and (min-width: 1300px) {
+    
+}
+@media screen and (max-width: 1279px) {
+    /* Grids */
+    .gridsWrap{width:70%;}
+    .sidebar{width:30%}
+    .articleGrid li{width:33.3333%}
+
+
+    /* Sidebar - Latest News */
+    .widget .widgetHeader{font-size: 16px; margin: 10px 0;}
+    .latestGadgets .imgWrap{width:40%;}
+    .latestGadgets .infoWrap{margin-left: 45%;}
+    .latestGadgets .infoWrap h3{font-size: 14px; margin: 0 0 2px;}
+    .latestGadgets .infoWrap p{line-height:1.2;}
+
+    /* Brand One */
+    .brandsInnerList article.post{min-height:215px;}
+}
+/* 1024 screen */
+@media screen and (min-width: 961px) and (max-width: 1279px) {
+    .siteLinks li{margin-left:20px;}
+    .siteLinks li a{font-size:15px;}
+}
+@media screen and (max-width: 1024px) {
+   
+
+    /* Grab it */
+    .gadgetTab a{font-size: 18px;}
+    .grabDetails h1{ font-size: 28px;margin: 0 0 10px;}
+    .grabDetails .price{font-size: 32px; margin: 0 0 15px;}
+    .grabDetails .gadgetDetails h3,
+    .grabDetails .gadgetDetails{font-size: 14px;}
+    .grabDetails .gadgetDetails h3{margin: 13px 0 0;}
+    .grabSpecPage .marketPriceDetails,
+    .grabSpecPage .specificDetails{padding: 15px 5px 15px 15px;}
+
+    /* Home Search */
+    .modalhomeSearch input[type="text"]{font-size: 37px;}
+    .modalhomeSearch .actionRow .btn{font-size: 30px; padding: 18px 26px;}
+}
+@media screen and (min-width: 861px) and (max-width: 960px) {
+
+}
+@media only screen and (max-width : 950px) {
+    /* Header */
+    .header .postAdd{display:none;}
+    .searchForm{  right:0;}
+}
+
+@media only screen and (max-width : 819px) {
+    .centerContMedium{width:90%; margin:0 5%;}
+}
+@media only screen and (max-width : 884px) {
+    .centerContLarge{width:94%; margin:0 3%;}
+
+    /* Header */
+    .siteLinks li{margin-left:20px;}
+    .siteLinks li a{font-size:15px;}
+
+
+    /* Footer */
+    .footer .footerLinks .socialWrap {margin-bottom:10px;}
+    .footer .footerLinks .links,
+    .footer .footerLinks .socialWrap{width:100%; text-align: center;}
+ 
+    /* Grids */
+    article.post .articleContentWrapper h3{font-size: 15px; margin: 4px 0;}
+    article.post .brandConfig{ padding: 10px 10px 0;}
+    article.post .brandConfig .row{ margin: 0 0 7px;}
+    article.post .brandConfig .brandName{font-size: 17px; margin: 0 0 7px;}
+    article.post .actionRow{padding: 8px 10px 10px;}
+    article.post .postHover .btn { font-size: 14px;padding: 8px 14px;}
+    /*article.post{font-size: 12px;}
+    article.post .articleContentWrapper h3{font-size: 15px; margin: 4px 0;}
+    article.post .articleContentWrapper .price{font-size: 18px; margin: 5px 0;}*/
+
+    /* Grab it */
+    .gadgetTab a{ font-size: 16px;}
+
+    /* Comments */
+    .comntsModal{margin: 3%; position: absolute; right: auto; top: auto; width: 94%;}
+
+}
+@media only screen and (max-width : 800px) {
+    .stackDiv{width:100%;}
+    /*.sidebar { width: 220px;}
+    .gridsWrap{ margin-right: 258px;}*/
+    .homeBody .captions h1{ font-size: 45px;}
+    .homeBody .captions h3{font-size: 22px;}
+    .homeBody .actionRow .btn{font-size: 22px; padding: 18px 16px; min-width: 226px;}
+
+    .homePage .wrapper{min-height:inherit; padding-bottom: 70px;}
+
+    /* Grids */
+    .gridsWrap{width:65%;}
+    .sidebar{width:35%}
+    .articleGrid{width:50%;}
+    .articleGrid li{width:50%; padding-right:2%; padding-bottom:2%;}
+    .grid{width:102%}
+    article.post .articleContentWrapper h3{font-size: 20px;}
+
+
+    /* Post Add */
+    .postForm .actionRow{margin-top:0;}
+    .postForm .sharePost{padding:0 0 20px}
+    .postForm .btnWrap{width:100%}
+
+    /* Brand One */
+    .brandsInnerList article.post{min-height:288px;}
+
+    /* Home Search */
+    .modalhomeSearch input[type="text"]{font-size: 30px;}
+    .modalhomeSearch .actionRow .btn{font-size: 24px; padding: 14px 26px;  min-width: 40%;}
+
+}
+@media screen and (min-width: 772px) and (max-width: 860px) {
+   
+}
+
+@media only screen and (max-width : 740px) {
+    /* Header */
+    .mobMenuIcon{display: block;}
+    .homePage .rightSideLinks{border-top: 2px solid #fff; float: left; padding: 15px 0; min-width: 40%; text-align: left;}
+    .homePage .rightSideLinks span{display:none;}
+    .homePage .rightSideLinks a{color:#f9b431; clear: both; display: inline; float: left;}
+    .siteLinks{background:#181a40;bottom: 0; left: 0; z-index:100; overflow: auto; position: fixed; right: 0; top: 0;  display:none; clear: both;}
+    .homeBody .siteLinks{padding-left:15%;}
+    .homeBody .siteLinks .rightSideLinks{margin-top:0;}
+    .homeBody .siteLinks .rightSideLinks a{margin: 0 0 10px;}
+    .siteLinks ul{padding:79px 0 0 0; float: left; width:100%;}
+    .siteLinks li{display: block; text-align: left; float:none; margin:0; padding-left:15%;}
+    .siteLinks li.searchLink {display: block;}
+    .siteLinks li a{color:#f9b431; font-size:16px; display:inline-block;margin: 0 0 10px;}
+    .siteLinks li a:after, 
+    .siteLinks li a.active:after{background:#f9b431;}
+
+    /* Inner Search */
+    .header .search{border-left:none;}
+    .header .search .btSearch{background:url("../img/searchIcon-grey.png") no-repeat scroll center center}
+    .searchForm{background:#000; position: fixed; height:100%; top:0; left:0; width:100%; z-index:102;}
+    .searchForm input{font-size: 30px; color:#6c6c6c; background:none; border-bottom:1px solid #171717; border-top:none; padding-right:10px; }
+    .searchForm input::-moz-placeholder {color:#6c6c6c; text-align: center;}
+    .searchForm input::-webkit-input-placeholder{color:#6c6c6c; text-align: center;}
+    .searchForm input:-ms-input-placeholder{color:#6c6c6c; text-align: center;}
+    .searchForm .customDropdownWrap{display:none;}
+    .searchForm form#search_form{width:75%;margin-left: auto; margin-right: auto;}
+    .searchForm.visible .closeModal,
+    .searchForm.visible form{pointer-events: auto; opacity: 1; -webkit-transform: translate3d(0px, -10%, 0px) scale3d(1,1,1); transform: translate3d(0px, -10%, 0px) scale3d(1,1,1); -webkit-transition: opacity 0.3s, -webkit-transform 0.3s; transition: opacity 0.3s, transform 0.3s;-webkit-transition-delay: 0.5s; transition-delay: 0.5s;}
+    .searchForm form{left: 0; margin-top: -7.5%; overflow: hidden; position: absolute; right: 0; top: 50%;
+                    transform-origin: 50% 50%; opacity: 0; -webkit-transform: translate3d(0px, -10%, 0px) scale3d(0,0,1); transform: translate3d(0px, -10%, 0px) scale3d(0,0,1);
+    }
+    .searchFormRight{margin: 5% 0 0; position: relative; width: 100%;}
+    .searchFormRight .search{width: 100%; float: left; text-align: center;}
+    .searchFormRight .search .btn{float: none; display: inline; width: auto; text-indent: 0px; padding: 14px 26px; min-width: 40%; font-size: 24px; background:#f8b533; color: #000;; border: 1px solid #f8b533; height: auto; line-height: 1;}
+    .searchFormRight .search .btn:hover,
+    .searchFormRight .search .btn:active,
+    .searchFormRight .search .btn:focus{background-color: #181a40; border-color: #181a40; color: #f8b533;}
+
+
+    /* Post Add */
+    .postForm .addPhotos{width:90%}
+ 
+    /* Grab it */
+    .grabSpecPage .gadgetSlider{width:60%;}
+    .grabSpecPage .grabDetails{width:40%;}
+
+}
+/*for ipad Portrait*/
+@media screen and (min-width: 621px) and (max-width: 771px) {
+	
+}
+@media only screen and (max-width : 600px) {
+
+}
+
+@media only screen and (max-width : 640px) {
+    .homeBody .actionRow .btn{font-size: 14px; min-width: inherit; padding: 12px 15px;}
+
+    /* Post Add */
+    .postForm{padding-top:5px;}
+    .postForm .addPhotos{font-size: 14px; height: 240px;}
+    
+    /* Grids */
+    article.post .postHover .btn{font-size:14px; padding: 8px 14px;}
+    article.post .articleContentWrapper h3{ font-size: 16px;}
+    article.post .articleContentWrapper .price{font-size: 20px;}
+    article.post .brandConfig{margin: 0 0 57px; height: 78%; /*padding: 10px 10px 0;*/ font-size: 11px;}
+    article.post .brandConfig .row{ margin: 0 0 10px;}
+    /*article.post .actionRow{padding: 10px;}*/
+
+
+    /* Grab it */
+    .grabSpecPage .gadgetSlider,
+    .grabSpecPage .grabDetails{width:50%;}
+    .grabDetails h1{font-size: 22px; margin: 0 0 8px;}
+    .grabDetails .price{font-size: 26px;margin: 0 0 10px;}
+
+    /* Brand One */
+    .brandsInnerList article.post{min-height:240px;}
+
+    /* Login */
+    .modalSignIn{margin: 3%; position: absolute; right: auto; top: auto; width: 94%;}
+
+    /* Home Search */
+    .modalhomeSearch input[type="text"]{font-size: 24px;}
+    .modalhomeSearch .actionRow .btn{font-size: 20px; min-width: 40%;}
+}
+
+/* Included Nexus 5 Portrait, Landscape */
+@media only screen and (max-width : 550px) {
+    
+    .homeBody .captions h1{font-size: 42px;}
+    .homeBody .captions h3 { font-size: 16px;}
+
+    /* Footer */
+    .footer .footerLinks .links li{margin-bottom:10px}
+    .footer .siteInfo{padding: 15px 0;}
+    .footer .siteInfo .rights,
+    .footer .siteInfo .siteBy{margin: 0 0 5px; width:100%; text-align: center;}
+
+    /* Grids */
+    .gridsWrap{width:100%;}
+    .sidebar{display:none;}
+    .grid{width:100%}
+    .articleGrid li{width:100%; padding:0 0 10px; min-height:inherit;}
+    article.post{min-height:inherit;}
+    article.post .articleImgContainer{width:40%;}
+    article.post .articleContentWrapper {width:60%; padding:0 0 0 10px;}
+    article.post .articleContentWrapper h3{margin-top:0;}
+    article.post .postHover{height:100%; left:auto; right:-100%; width:0;}
+    article.post:active .postHover,
+    article.post:hover .postHover{width:100%; right:0; width:100%; display: block;}
+
+    /* Deals */
+    .dealsList article.post .brandConfig{display:none;}
+    .dealsList article.post .actionRow{height:100%}
+    .dealsList article.post .postHover .btn{ margin-left: -52px;}
+
+     /* Brand One */
+    .brandsInnerList article.post{min-height:inherit;}
+    
+    /* Brands */
+    .brandsList article.post .countWrap{left:0;}
+    .brandsList article.post .actionRow{right:0;}
+    .brandsList article.post .countWrap,
+    .brandsList article.post .actionRow{width:50%; padding:0; top:0; bottom:0;}
+    article.post .postHover .count{font-size:55px;padding: 12% 7% 5px;}
+    article.post .postHover .status{font-size: 13px;}
+    article.post .postHover .btn{width: auto; font-size: 16px; margin-left: -41%; margin-top: -23px; position: absolute; top: 50%; left: 50%;}
+
+    /* Review */
+    article.post .postHover .brandNames h3{display:none;}
+    article.post .linksRow { font-size: 15px;}
+    .reviews article.post{min-height:inherit;}
+
+    /* Grab it */
+    .grabSpecPage .gadgetSlider,
+    .grabSpecPage .grabDetails{width:100%;}
+    .grabSpecPage .grabDetails{height:300px; overflow:hidden;}
+    .grabSpecPage .marketPriceDetails,
+    .grabSpecPage .specificDetails{padding-bottom:55px}
+}
+@media screen and (min-width: 481px) and (max-width: 620px) {
+}
+
+/* Mobile Landscape & Portrait */
+@media screen and (min-width: 0px) and (max-width: 480px) {
+    
+    /* Grids */
+    article.post .articleContentWrapper h3{font-size: 18px;}
+    article.post .articleContentWrapper .price{font-size: 19px;}
+
+    /* Post Add */
+    .postForm .addPhotos{font-size: 12px; }
+ 
+   /* Login */
+   .loginForm .uiTabsContent .row{margin:0;}
+   .loginForm .uiTabsContent.signInForm .row,
+   .loginForm .uiTabsContent .row .col{margin:0 0 15px;}
+   .loginForm .uiTabsContent .row .col,
+   .loginForm .uiTabsContent .row .col input,
+   .loginForm .formActionRow .forgotPwdRow,
+   .loginForm .formActionRow .termsRow,
+   .loginForm .formActionRow .btnWrap{width:100%;}
+   .loginForm .formActionRow .forgotPwdRow,
+   .loginForm .formActionRow .termsRow{margin:0 0 15px}
+
+   /* Home Search */
+    .modalhomeSearch .modal-body{width:90%}
+    .modalhomeSearch input[type="text"]{font-size: 20px;}
+    .modalhomeSearch .actionRow .btn{font-size: 18px; min-width: 40%;}
+}
+/* Mobile Landscape */
+@media screen and (min-width: 321px) and (max-width: 480px){
+}
+@media only screen and (max-width : 360px) {
+
+    .homeBody .actionRow .btn{ margin: 0 0 -1px;font-size: 20px; min-width: 78%; padding: 18px 26px;}
+    
+    /* Header Logo */
+    .header .logo .desktopLogo{display: none;}
+    .header .logo .deviceLogo{display: block;}
+
+    
+   
+    /* Post Add */
+    .postForm .addPhotos{width:100%}
+    .postForm .stackDiv{margin: 0 0 20px; width:100%}
+    
+    /* Grab It */
+    .dealsList.articleGridCol1 li{min-height:inherit;}
+
+    /* Home Search */
+    .modalhomeSearch input[type="text"]{font-size: 16px;}
+    .modalhomeSearch .actionRow .btn{font-size: 18px; min-width: 60%; padding: 14px 26px;}
+
+}
+/* Smartphones Portrait */
+@media only screen and (max-width : 320px) {
+
+}
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+}
+
+@media only screen and (max-width : 1200px) {
+
+}
