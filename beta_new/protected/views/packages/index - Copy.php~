@@ -1,0 +1,340 @@
+<script>
+
+setTimeout(function(){
+			
+			
+			var stab = <?php echo $activetab; ?>
+			
+			//alert(stab);
+			lis = $("ul.resp-tabs-list > li");
+			lis.removeClass("resp-tab-active");
+			$("ul.resp-tabs-list li[aria-controls='tab_item-"+stab+"']").addClass("resp-tab-active");
+			divs = $("#horizontalTab .resp-tabs-container > div");
+			divs.removeClass("resp-tab-content-active").removeAttr("style");
+			$("#horizontalTab .resp-tabs-container div[aria-labelledby='tab_item-"+stab+"']").addClass("resp-tab-content-active").attr("style","display: block;");
+
+
+			}, 1000);
+
+
+</script>
+				<div class="col_two">
+						<h2><!--<span>our </span>--><?php echo $type; ?></h2>
+						<div class="breadcrums">
+							<ul class="breadcrumb">
+								<li><a href="<?php echo Yii::app()->createUrl('site/index'); ?>">Home</a>&raquo;</li>
+								<li><a href="<?php echo Yii::app()->createUrl('Packages/index'); ?>" class="active">Packages </a></li>
+								
+							</ul>
+						</div>
+						<div id="horizontalTab" class="packages">
+							<ul class="resp-tabs-list" style="display:none;">
+								<li>HOLIDAY<br/>PACKAGES</li>
+								<li>HONEYMOON<br/>PACKAGES</li>
+								<li>CONFERNESE<br/>PLANNER</li>
+								<li>SPECIAL PACKAGES<br/>WITH AIR FAIR</li>
+								
+							</ul>
+							<div class="resp-tabs-container">
+								<div>
+									<!--div class="sorting">
+										<div class="pagination left">
+											<label>Page </label><span> 1</span><span> Of </span><span> 2 </span>
+										</div>
+										<div class="sort right">
+											<select data-placeholder="Sort By" class="chosen-select" tabindex="2">
+												<option value=""></option>
+												<option value="">1</option>
+											</select>
+										</div>
+									</div-->
+								
+									<?php for($i=0;$i<count($result['package_listing_holiday']);$i++) { ?>
+									
+									<div class="place_visit <?php if(count($result['package_listing_holiday']) == ($i+1)) { echo "last";} ?> left">
+										<div class="place_head">
+											<div class="grid_one">
+												<h4><?php echo $result['package_listing_holiday'][$i]['package_name']; ?></h4>
+												<!--<span class="<?php //echo $result['package_listing_holiday'][$i]['rating']; ?>_rateing"></span>-->
+												<span class="pack">(<?php echo $result['package_listing_holiday'][$i]['package_night']; ?> / <?php echo $result['package_listing_holiday'][$i]['package_day']; ?> )</span>
+											</div>
+											<div class="grid_two">
+												
+											</div>
+										</div>
+										<div class="col-one">
+											<img src="<?php echo Yii::app()->baseUrl; ?>/images/package/<?php echo $result['package_listing_holiday'][$i]['package_thumbnail']; ?>" alt="<?php echo $result['package_listing_holiday'][$i]['package_thumbnail']; ?>" width="219" height="177">
+										</div>
+										<div class="col-two pad_both">
+											<div class="grid_one">
+												
+												<label>Destination:</label>
+												<span class="dest"><?php echo $result['package_listing_holiday'][$i]['destination']; ?></span>
+												<div class="key_feature">
+													<ul>
+														<li><h6>Package Includes:</h6></li>
+														<?php echo substr($result['package_listing_holiday'][$i]['key_feature'],0,250); ?>...
+													</ul>
+												</div>
+												
+												
+											</div>
+											<div class="grid_two">
+												<div class="price_wrap">
+												<span class="value">
+													<strike>	
+														<?php echo "Rs. ".$result['package_listing_holiday'][$i]['pricing_with_out_offer'].""; ?>
+													</strike>
+												</span>
+													<span class="dis_value">
+													<?php echo "Rs. ".$result['package_listing_holiday'][$i]['pricing'].""; ?>
+													</span><br/>
+												  <span>
+												  Per Person
+												  </span>
+												</div>
+												<div class="btn_wrap left">
+													<a class="btn btn-grey" href="<?php echo Yii::app()->createUrl('packages/detail',array('id'=>$result['package_listing_holiday'][$i]['id'])); ?>" title="View Details">VIEW DETAILS</a>
+													<a class="btn btn-submit" href="<?php echo Yii::app()->createUrl('contact_us/index',array('id'=>$result['package_listing_holiday'][$i]['id'],'type'=>'packages')); ?>" title="Enquiry">ENQUIRY</a>
+												</div>
+											</div>
+										</div>
+									</div>
+									
+									<?php } ?>
+									
+								</div>
+								<div>
+									<!--div class="sorting">
+										<div class="pagination left">
+											<label>Page </label><span> 1</span><span> Of </span><span> 2 </span>
+										</div>
+										<div class="sort right">
+											<select data-placeholder="Sort By" class="chosen-select" tabindex="2">
+												<option value=""></option>
+												<option value="">1</option>
+											</select>
+										</div>
+									</div-->
+									<?php for($i=0;$i<count($result['package_listing_honeymoon']);$i++) { ?>
+									
+									<div class="place_visit  <?php if(count($result['package_listing_honeymoon']) == ($i+1)) { echo "last";} ?> left">
+										<div class="place_head">
+											<div class="grid_one">
+												<h4><?php echo $result['package_listing_honeymoon'][$i]['package_name']; ?></h4>
+												<!--<span class="<?php //echo $result['package_listing_honeymoon'][$i]['rating']; ?>_rateing"></span>-->
+												<span class="pack">(<?php echo $result['package_listing_honeymoon'][$i]['package_night']; ?> / <?php echo $result['package_listing_honeymoon'][$i]['package_day']; ?> )</span>
+											</div>
+											<div class="grid_two">
+												
+											</div>
+										</div>
+										<div class="col-one">
+											<img src="<?php echo Yii::app()->baseUrl; ?>/images/package/<?php echo $result['package_listing_honeymoon'][$i]['package_thumbnail']; ?>" alt="<?php echo $result['package_listing_honeymoon'][$i]['package_thumbnail']; ?>" width="219" height="177">
+										</div>
+										<div class="col-two pad_both">
+											<div class="grid_one">
+												
+												<label>Destination:</label>
+												<span class="dest"><?php echo $result['package_listing_honeymoon'][$i]['destination']; ?></span>
+												<div class="key_feature">
+													<ul>
+														<li><h6>Key Features:</h6></li>
+														<?php echo $result['package_listing_honeymoon'][$i]['key_feature']; ?>
+													</ul>
+												</div>
+												
+												
+											</div>
+											<div class="grid_two">
+												<div class="price_wrap">
+												<span class="value">
+													<strike>	
+														<?php echo "Rs. ".$result['package_listing_honeymoon'][$i]['pricing_with_out_offer'].""; ?>
+													</strike>
+												</span>
+													<span class="dis_value">
+													<?php echo "Rs. ".$result['package_listing_honeymoon'][$i]['pricing'].""; ?>
+													</span><br/>
+													<span>
+												  Per Person
+												  </span>
+												</div>
+												<div class="btn_wrap left">
+													<a class="btn btn-grey" href="<?php echo Yii::app()->createUrl('packages/detail',array('id'=>$result['package_listing_honeymoon'][$i]['id'])); ?>" title="View Details">VIEW DETAILS</a>
+													<a class="btn btn-submit" href="<?php echo Yii::app()->createUrl('contact_us/index',array('id'=>$result['package_listing_honeymoon'][$i]['id'],'type'=>'packages')); ?>" title="Enquiry">ENQUIRY</a>
+											</div>
+											</div>
+										</div>
+									</div>
+									
+									<?php } ?>
+									
+								</div>
+								<div>
+									<!--div class="sorting">
+										<div class="pagination left">
+											<label>Page </label><span> 1</span><span> Of </span><span> 2 </span>
+										</div>
+										<div class="sort right">
+											<select data-placeholder="Sort By" class="chosen-select" tabindex="2">
+												<option value=""></option>
+												<option value="">1</option>
+											</select>
+										</div>
+									</div-->
+								<?php for($i=0;$i<count($result['package_listing_confernese']);$i++) { ?>
+									
+									<div class="place_visit <?php if(count($result['package_listing_confernese']) == ($i+1)) { echo "last";} ?> left">
+										<div class="place_head">
+											<div class="grid_one">
+												<h4><?php echo $result['package_listing_confernese'][$i]['package_name']; ?></h4>
+												<!--<span class="<?php //echo $result['package_listing_confernese'][$i]['rating']; ?>_rateing"></span>-->
+												<span class="pack">(<?php echo $result['package_listing_confernese'][$i]['package_night']; ?>
+													/
+													<?php echo $result['package_listing_confernese'][$i]['package_day']; ?> )</span>
+											</div>
+											<div class="grid_two">
+												
+											</div>
+										</div>
+										<div class="col-one">
+											<img src="<?php echo Yii::app()->baseUrl; ?>/images/package/<?php echo $result['package_listing_confernese'][$i]['package_thumbnail']; ?>" alt="<?php echo $result['package_listing_confernese'][$i]['package_thumbnail']; ?>" width="219" height="177">
+										</div>
+										<div class="col-two pad_both">
+											<div class="grid_one">
+												
+												<label>Destination:</label>
+												<span class="dest"><?php echo $result['package_listing_confernese'][$i]['destination']; ?></span>
+												<div class="key_feature">
+													<ul>
+														<li><h6>Key Features:</h6></li>
+														<?php echo $result['package_listing_confernese'][$i]['key_feature']; ?>
+													</ul>
+												</div>
+												
+												
+											</div>
+											<div class="grid_two">
+												<div class="price_wrap">
+												<span class="value">
+													<strike>	
+														<?php echo "Rs. ". $result['package_listing_confernese'][$i]['pricing_with_out_offer'].""; ?>
+													</strike>
+												</span>
+													<span class="dis_value">
+													<?php echo "Rs. ". $result['package_listing_confernese'][$i]['pricing'].""; ?>
+													</span><br/>
+													<span>
+												  Per Person
+												  </span>
+												</div>
+												<div class="btn_wrap left">
+													<a class="btn btn-grey" href="<?php echo Yii::app()->createUrl('packages/detail',array('id'=>$result['package_listing_confernese'][$i]['id'])); ?>" title="View Details">VIEW DETAILS</a>
+													<a class="btn btn-submit" href="<?php echo Yii::app()->createUrl('contact_us/index',array('id'=>$result['package_listing_confernese'][$i]['id'],'type'=>'packages')); ?>" title="Enquiry">ENQUIRY</a>
+											</div>
+											</div>
+										</div>
+									</div>
+									
+									<?php } ?>
+									
+									
+									
+								</div>
+								<div>
+									<!--div class="sorting">
+										<div class="pagination left">
+											<label>Page </label><span> 1</span><span> Of </span><span> 2 </span>
+										</div>
+										<div class="sort right">
+											<select data-placeholder="Sort By" class="chosen-select" tabindex="2">
+												<option value=""></option>
+												<option value="">1</option>
+											</select>
+										</div>
+									</div-->
+									<?php for($i=0;$i<count($result['package_listing_special_packages']);$i++) { ?>
+									
+									<div class="place_visit <?php if(count($result['package_listing_special_packages']) == ($i+1)) { echo "last";} ?> left">
+										<div class="place_head">
+											<div class="grid_one">
+												<h4><?php echo $result['package_listing_special_packages'][$i]['package_name']; ?></h4>
+												<!--<span class="<?php //echo $result['package_listing_special_packages'][$i]['rating']; ?>_rateing"></span>-->
+												<span class="pack">(<?php echo $result['package_listing_special_packages'][$i]['package_night']; ?> 
+												/
+													<?php echo $result['package_listing_special_packages'][$i]['package_day']; ?> )</span>
+											</div>
+											<div class="grid_two">
+												
+											</div>
+										</div>
+										<div class="col-one">
+											<img src="<?php echo Yii::app()->baseUrl; ?>/images/package/<?php echo $result['package_listing_special_packages'][$i]['package_thumbnail']; ?>" alt="<?php echo $result['package_listing_special_packages'][$i]['package_thumbnail']; ?>" width="219" height="177">
+										</div>
+										<div class="col-two pad_both">
+											<div class="grid_one">
+												
+												<label>Destination:</label>
+												<span class="dest"><?php echo $result['package_listing_special_packages'][$i]['destination']; ?></span>
+												<div class="key_feature">
+													<ul>
+														<li><h6>Key Features:</h6></li>
+														<?php echo $result['package_listing_special_packages'][$i]['key_feature']; ?>
+													</ul>
+												</div>
+												
+												
+											</div>
+											<div class="grid_two">
+												<div class="price_wrap">
+												<span class="value">
+													<strike>	
+														<?php echo "Rs. ". $result['package_listing_special_packages'][$i]['pricing_with_out_offer'].""; ?>
+													</strike>
+												</span>
+													<span class="dis_value">
+													<?php echo "Rs. ". $result['package_listing_special_packages'][$i]['pricing'].""; ?>
+													</span><br/>
+													<span>
+												  Per Person
+												  </span>
+												</div>
+												<div class="btn_wrap left">
+													<a class="btn btn-grey" href="<?php echo Yii::app()->createUrl('packages/detail',array('id'=>$result['package_listing_special_packages'][$i]['id'])); ?>" title="View Details">VIEW DETAILS</a>
+													<a class="btn btn-submit" href="<?php echo Yii::app()->createUrl('contact_us/index',array('id'=>$result['package_listing_special_packages'][$i]['id'],'type'=>'packages')); ?>" title="Enquiry">ENQUIRY</a>
+											</div>
+											</div>
+										</div>
+									</div>
+									
+									<?php } ?>
+									
+									
+									
+								</div>
+							</div>
+						</div>
+					</div>
+					
+					<script type="text/javascript">
+			$(document).ready(function () {
+				$('#horizontalTab').easyResponsiveTabs({
+					type: 'default', //Types: default, vertical, accordion           
+					width: 'auto', //auto or any width like 600px
+					fit: true,   // 100% fit in a container
+					closed: 'accordion', // Start closed if in accordion view
+					activate: function(event) { // Callback function if tab is switched
+						var $tab = $(this);
+						var $info = $('#tabInfo');
+						var $name = $('span', $info);
+
+						$name.text($tab.text());
+
+						$info.show();
+					}
+				});
+
+			});
+		</script>
+					
