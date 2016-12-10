@@ -1,0 +1,63 @@
+{
+  "_meta": {
+    "sources": [
+      "loopback/common/models",
+      "loopback/server/models",
+      "../common/models",
+      "./models"
+    ],
+    "mixins": [
+      "loopback/common/mixins",
+      "loopback/server/mixins",
+      "../common/mixins",
+      "./mixins"
+    ]
+  },
+  "User": {
+    "dataSource": "db"
+  },
+  "AccessToken": {
+    "dataSource": "db",
+    "public": false
+  },
+  "ACL": {
+    "dataSource": "db",
+    "public": false
+  },
+  "RoleMapping": {
+    "dataSource": "db",
+    "public": false
+  },
+  "Role": {
+    "dataSource": "db",
+    "public": false
+  },
+  "books": {
+    "dataSource": "mysql",
+    "public": false
+  },
+  "Employee": {
+    "dataSource": "mysql",
+    "public": true
+  },
+  "artist_ratng": {
+    "dataSource": "mongo",
+    "public": true
+  },
+  "model": {
+    "dataSource": "mysql",
+    "public": false
+  },
+  "Mis": {
+    "dataSource": "mysql",
+    "public": true
+  },
+  "date": {
+    "dataSource": "mysql",
+    "public": true
+  },
+  "appointment_summary": {
+    "dataSource": "mongo",
+    "public": true
+  }
+}

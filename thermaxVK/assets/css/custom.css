@@ -1,0 +1,83 @@
+/* Write your custom CSS here */
+.login-bg{
+	background-image:url(../images/login-body-bg.jpg);
+	background-repeat:no-repeat;
+	background-position:top center;
+	background-size:100%;
+}
+.login-box-shadow{
+	background-image:url(../images/login-box-shadow.png);
+	background-repeat:no-repeat;
+       background-position: 47% 76.2%;
+    background-size: 80% 88.5%;
+}
+.login-box-right{
+	background-image:url(../images/login-right.jpg);
+	background-repeat:no-repeat;
+	background-size:100%;
+}
+.login-lebal{
+	    margin-top: -11px;
+    position: absolute;
+    background: #fff;
+    padding: 0px 1px;
+    margin-left: 10px;
+}
+.login-input{
+	font-size: 14px;
+    font-weight: bold;
+    padding: 12px 10px !important;
+    color: #000;
+    height: 50px;
+    width: 80%;
+}
+.login-btn-rounded {
+    padding-left: 15px;
+    padding-right: 15px;
+    border-radius: 7px;
+    width: 35%;
+    font-weight: bold;
+    font-size: 14px;
+    padding: 12px;
+    margin-top: 12px;
+	float:left;
+}
+.cu-btn-rounded{
+	border-radius: 7px;
+}
+.forget{
+	font-size:14px;
+	font-weight:bold;
+	line-height:72px;
+	color:#2c2c2c;
+	margin:25px;
+}
+.login-sign{
+	margin-bottom: 0px; 
+	/*margin-top: 3%; */
+	text-align: center; 
+	font-weight: bold;
+}
+.form-group.required .control-label:after { 
+    color: #d00;
+    content: "*";
+    position: absolute;
+    margin-left: 4px;
+    top:7px;
+    font-family: 'Glyphicons Halflings';
+	font-weight: normal;
+	font-size: 6px;
+}
+.cstm_required{
+	 color: #d00;
+    content: "*";
+    position: absolute;
+    margin-left: 4px;
+    top:7px;
+    font-family: 'Glyphicons Halflings';
+	font-weight: normal;
+	font-size: 6px;
+}
+/*.nav>li>a{
+	    padding: 10px 0px !important;
+}*/

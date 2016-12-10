@@ -1,0 +1,94 @@
+body {
+	margin:0px;
+}
+.header {
+    background-color:66CCFF;
+    text-align: center;
+    width: 100%;
+    padding:1px;
+	text-align:left;
+	color:white;
+}
+#reg_link{
+	float:right;
+	text-decoration:none;
+	color:blue;
+	font-size:25px;
+	font-weight:bold;
+}
+#signin_link {
+	float:right;
+	text-decoration:none;
+	color:blue;
+	font-size:25px;
+	font-weight:bold;
+}
+#all_issues {
+	float:right;
+	text-decoration:none;
+	color:blue;
+	font-size:25px;
+	font-weight:bold;
+}
+#add_issues {
+	float:right;
+	text-decoration:none;
+	color:blue;
+	font-size:25px;
+	font-weight:bold;
+}
+#login_body_div   {
+	text-align:center;
+	background: skyblue;
+    border-radius: 20px;
+    margin: 105px auto;
+    padding: 25px;
+    width: 500px;
+}
+#register_body_div {
+	text-align:center;
+	background: skyblue;
+    border-radius: 20px;
+    margin: 105px auto;
+    padding: 25px;
+    width: 500px;
+}
+#issue_update_body_div {
+	text-align:center;
+	background: skyblue;
+    border-radius: 20px;
+    margin: 105px auto;
+    padding: 25px;
+    width: 500px;
+}
+.title {
+	font-weight:bold;
+	font-size:25px;
+	color:navy;
+}
+.input_field {
+	background-color: snow;
+    border: 1px solid seashell;
+    border-radius: 10px;
+    color: navy;
+    padding: 6px;
+    width: 100%;
+} 
+.btn {
+	background-color: paleturquoise;
+    border-radius: 20px;
+    font-weight: bold;
+    margin-top: 10px;
+    padding: 5px;
+    width: 100px;
+}
+.label {
+	font-weight:bold;
+	color:navy;
+}
+.compulsary_field {
+	color:red;
+}
+textarea  {
+	resize:none;
+}

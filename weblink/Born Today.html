@@ -1,0 +1,541 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>IMA</title>
+<meta charset='utf-8'>
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+
+<link href="css/responsive.css" rel='stylesheet' type='text/css' />
+<link href="css/main.css" rel="stylesheet" type="text/css" media="all" />
+<link rel="stylesheet" href="css/social.css">
+<link href="css/menu.css" rel="stylesheet" type="text/css" media="all" />
+<link href="css/menu2.css" rel="stylesheet" type="text/css" media="all" />
+<link rel="stylesheet" href="css/font-awesome.min.css" />
+
+<script src="js/script.js"></script>
+<script src="js/jquery.min.js"></script>
+<script src="js/responsive.js"></script>
+<script src="js/social.js"></script>
+<script src="js/jquery.js"></script>
+<script type="application/x-javascript"> 
+	addEventListener("load", function() { setTimeout(hideURLbar, 0); }, false); function hideURLbar(){ window.scrollTo(0,1); } 
+</script>
+
+<!--webfont-->
+<link href='http://fonts.googleapis.com/css?family=Oxygen:400,700,300' rel='stylesheet' type='text/css'>
+<link href='http://fonts.googleapis.com/css?family=Open+Sans:400,300,600,700,800' rel='stylesheet' type='text/css'>
+
+<script src="js/jquery.colorbox-min.js"></script>
+<script src="js/jquery.colorbox.js"></script>
+<script type="text/javascript" src="js/megamenu.js"></script>
+<script>$(document).ready(function(){$(".megamenu").megamenu();});</script>
+<script type="text/javascript" src="js/jquery.leanModal.min.js"></script>
+<script type="text/javascript" src="js/move-top.js"></script>
+<script type="text/javascript" src="js/easing.js"></script>
+<script src="js/easyResponsiveTabs.js" type="text/javascript"></script>
+<script type="text/javascript">
+	$(document).ready(function () {
+		$('#horizontalTab').easyResponsiveTabs({
+			type: 'default',           
+			width: 'auto', 
+			fit: true  
+		});
+	});
+</script>
+
+<script type="text/javascript">
+			jQuery(document).ready(function($) {
+				$(".scroll").click(function(event){		
+					event.preventDefault();
+					$('html,body').animate({scrollTop:$(this.hash).offset().top},1200);
+				});
+			});
+			$(window).bind('scroll', function () {
+				if ($(window).scrollTop() > 50) {
+					$('.nav_cont').addClass('fix_nav');
+				} else {
+					$('.nav_cont').removeClass('fix_nav');
+				}
+			});
+</script>
+
+</head>
+
+<body>
+<!-- Sidebar -->
+<aside id="Social-Sidebar" class="Pos-Left Theme-Color Label-Round">
+	<ul>
+		<li><a href="#" target="_blank" rel="nofollow"><i class="fa fa-facebook"></i><span>Facebook</span></a></li>
+		<li><a href="#" target="_blank" rel="nofollow"><i class="fa fa-twitter"></i><span>Twitter</span></a></li>
+		<li><a href="#" target="_blank" rel="nofollow"><i class="fa fa-youtube"></i><span>YouTube</span></a></li>
+		<li><a href="#" target="_blank" rel="nofollow"><i class="fa fa-google-plus"></i><span>Google +</span></a></li>
+		<li><a href="#" target="_blank" rel="nofollow"><i class="fa fa-linkedin"></i><span>Linkedin</span></a></li>
+		<li><a href="#" target="_blank" rel="nofollow"><i class="fa fa-pinterest-p"></i><span>pinterest</span></a></li>
+	</ul>
+</aside>
+<!--/ Sidebar -->
+
+	<!-- head -->
+	<div class="head_cont">
+		<div class="container">
+			<div class="logo">
+				<a href="index.html">
+					<img src="images/logo.png">
+				</a>
+			</div>
+			<div class="header-top-right">
+				<a class="pro" href="ima pro.html">IMA Pro</a>
+				<a class="help" href="faq.html">Help</a>
+				
+				<button class="btn btn-primary" data-toggle="modal" data-target="#myModal">Login</button>
+				
+				<!-- login form -->
+				<div class="modal fade" id="myModal" tabindex="-1" role="dialog" aria-labelledby="myLargeModalLabel" aria-hidden="true">
+					<div class="modal-dialog modal-lg">
+						<div class="modal-content">
+							<div class="modal-header">
+								<button type="button" class="close" data-dismiss="modal" aria-hidden="true">
+									&times;</button>
+								<h4 class="modal-title" id="myModalLabel">Don't Wait, Login now!</h4>
+							</div>
+							<div class="modal-body">
+								<div class="row">
+									<div class="col-md-8" style="border-right: 1px dotted #C2C2C2;padding-right: 30px;">
+										
+										<!-- Nav tabs -->
+										<ul class="nav nav-tabs">
+											<li class="active"><a href="#Login" data-toggle="tab">Login</a></li>
+											<li><a href="#Registration" data-toggle="tab">Registration</a></li>
+										</ul>
+										<!-- Tab panes -->
+										<div class="tab-content">
+											<div class="tab-pane active" id="Login">
+												<form role="form" class="form-horizontal">
+												<div class="form-group">
+													<label for="email" class="col-sm-2 control-label">
+														Email</label>
+													<div class="col-sm-10">
+														<input type="email" class="form-control" id="email1" placeholder="Email" />
+													</div>
+												</div>
+												<div class="form-group">
+													<label for="exampleInputPassword1" class="col-sm-2 control-label">
+														Password</label>
+													<div class="col-sm-10">
+														<input type="password" class="form-control" id="exampleInputPassword1" placeholder="password" />
+													</div>
+												</div>
+												<div class="row">
+													<div class="col-sm-2">
+													
+													</div>
+													<div class="col-sm-10">
+														<button type="submit" class="btn btn-primary btn-sm">
+															Submit</button>
+														<a href="javascript:;">Forgot your password?</a>
+													</div>
+												</div>
+												</form>
+											</div>
+											<div class="tab-pane" id="Registration">
+												<form role="form" class="form-horizontal">
+												<div class="form-group">
+													<label for="email" class="col-sm-2 control-label">
+														Name</label>
+													<div class="col-sm-10">
+														<div class="row">
+															<div class="col-md-3">
+																<select class="form-control">
+																	<option>Mr.</option>
+																	<option>Ms.</option>
+																	<option>Mrs.</option>
+																</select>
+															</div>
+															<div class="col-md-9">
+																<input type="text" class="form-control" placeholder="Name" />
+															</div>
+														</div>
+													</div>
+												</div>
+												<div class="form-group">
+													<label for="email" class="col-sm-2 control-label">
+														Email</label>
+													<div class="col-sm-10">
+														<input type="email" class="form-control" id="email" placeholder="Email" />
+													</div>
+												</div>
+												<div class="form-group">
+													<label for="mobile" class="col-sm-2 control-label">
+														Mobile
+													</label>
+													<div class="col-sm-10">
+														<input type="email" class="form-control" id="mobile" placeholder="Mobile" />
+													</div>
+												</div>
+												<div class="form-group">
+													<label for="password" class="col-sm-2 control-label">
+														Password</label>
+													<div class="col-sm-10">
+														<input type="password" class="form-control" id="password" placeholder="Password" />
+													</div>
+												</div>
+												<div class="row">
+													<div class="col-sm-2">
+													
+													</div>
+													<div class="col-sm-10">
+														<button type="button" class="btn btn-primary btn-sm">
+															Save & Continue</button>
+														<button type="button" class="btn btn-default btn-sm">
+															Cancel</button>
+													</div>
+												</div>
+												</form>
+											</div>
+										</div>
+										<div id="OR" class="hidden-xs">
+										OR
+										</div>
+									</div>
+									<div class="col-md-4">
+										<div class="row text-center sign-with">
+											<div class="col-md-12">
+												<h3 class="other-nw">
+													Sign in with</h3>
+											</div>
+											<div class="col-md-12">
+												<div class="btn-group btn-group-justified">
+													<a href="#" class="btn btn-primary">Facebook</a> <a href="#" class="btn btn-danger">
+														Google +</a>
+												</div>
+											</div>
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+				<!-- login form -->
+			
+
+			</div>
+			
+			<div class="search header-top-right">
+				<div class="search2">
+					<form>
+						<i class="fa fa-search"></i>
+						<input type="text" value="Find Movies, TV shows, Celebrities and more..." onfocus="this.value = '';" onblur="if (this.value == '') {this.value = 'Find Movies, TV shows, Celebrities and more...';}"/>
+					</form>
+				</div>
+			</div>
+		</div>
+	</div>
+	<!--/ head -->
+	
+	<!-- nav -->
+	<div class="nav_cont">
+		<nav class="navbar navbar-default mainnav" role="navigation">
+			<div class="navbar-header">
+				<button type="button" data-toggle="collapse" data-target="#defaultmenu" class="navbar-toggle"><span class="icon-bar"></span><span class="icon-bar"></span><span class="icon-bar"></span></button><a href="index.html" class="navbar-brand"><i class="fa fa-home"></i></a>
+			</div>
+
+			<div id="defaultmenu" class="navbar-collapse collapse">
+				<ul class="nav navbar-nav">
+					<li><a href="index.html">Home</a></li>	
+					<!-- Mega Menu -->
+					<li class="dropdown"><a href="#" data-toggle="dropdown" class="dropdown-toggle">Movies<b class="caret"></b></a>
+						<ul class="dropdown-menu" role="menu">
+							<li><a href="Theaters.html">In Theater</a></li>
+							<li><a href="Showtimes & Tickets.html">Showtimes & Tickets</a></li>
+							<li><a href="Latest Trailers.html">Latest Trailers</a></li>
+							<li><a href="coming soon movies.html">Coming Soon</a></li>
+                            <li><a href="Release Calendar.html">Release Calender</a></li>
+						</ul>
+					   <!-- end dropdown-menu -->
+					</li>
+
+					<li class="dropdown"><a href="#" data-toggle="dropdown" class="dropdown-toggle">Photos<b class="caret"></b></a>
+						<ul class="dropdown-menu" role="menu">
+							<li><a href="Latest Stills.html">latest Still</a></li>
+							<li><a href="Latest Posters.html">Latest Poster</a></li>
+							<li><a href="Photos We Love.html">Photos We Love</a></li>
+						</ul>
+					   <!-- end dropdown-menu -->
+					</li>
+					
+					<li class="dropdown"><a href="#" data-toggle="dropdown" class="dropdown-toggle">Celebrity<b class="caret"></b></a>
+						<ul class="dropdown-menu" role="menu">
+							<li><a href="Born Today.html">Born Today</a></li>
+							<li><a href="Celebrity.html">Popular Celebrity</a></li>
+						</ul>
+					   <!-- end dropdown-menu -->
+					</li>
+					<li class="dropdown"><a href="#" data-toggle="dropdown" class="dropdown-toggle">Event<b class="caret"></b></a>
+						<ul class="dropdown-menu" role="menu">
+							<li><a href="Award.html">Award</a></li>
+							<li><a href="Film festival.html">Film Festival</a></li>
+							<li><a href="Popular event.html">Popular Event</a></li>
+						</ul>
+					   <!-- end dropdown-menu -->
+					</li>
+
+					<li class="dropdown"><a href="#" data-toggle="dropdown" class="dropdown-toggle">Watchlist<b class="caret"></b></a>
+						<ul class="dropdown-menu" role="menu">
+							<li><a href="popular movies.html">Popular Movies</a></li>
+							<li><a href="Ima 50 popular movies.html">Ima Special 50</a></li>
+						</ul>
+					   <!-- end dropdown-menu -->
+					</li>
+				</ul> <!-- end nav navbar-nav -->
+				
+			</div> <!-- end #navbar-collapse-1 -->
+
+		</nav> <!-- end navbar navbar-default mainnav -->
+	</div>
+	<!--/ nav -->
+	
+	<div class="container">
+<div class="main-content">
+	<!-- wrapper -->
+	<div class="wrapper">
+	
+		<!-- born cont -->
+		<div class="featured born fborn">
+			<h4>Born Today</h4>
+				<ul>
+					<li>
+						<div class="f-movie">
+							<div class="f-movie-img">
+								<a href="images/birt1.jpg" class="retina">
+									<img src="images/birt1.jpg" alt="">
+									<div class="f-movie-name ">
+										<span>Amitabh Bachhan</span>
+										<p>72 Years</p>
+									</div>
+								</a>
+							</div>
+							
+						</div>
+					</li>
+					<li>
+						<div class="f-movie">
+							<div class="f-movie-img">
+								<a href="images/birth2.jpg" class="retina"><img src="images/birth2.jpg" alt="">
+								<div class="f-movie-name">
+									<span>Priyanka Chopra</span>
+									<p>38 Years </p>
+								</div>
+								</a>
+							</div>
+							
+						</div>
+					</li>
+					<li>
+						<div class="f-movie">
+							<div class="f-movie-img">
+								<a href="images/birth3.jpg" class="retina"><img src="images/birth3.jpg" alt="">
+								<div class="f-movie-name">
+									<span>Ranbir Kapoor</span>
+									<p>41 Years</p>
+								</div>
+								</a>
+							</div>											
+							
+						</div>
+					</li>
+					
+					<li>
+						<div class="f-movie">
+							<div class="f-movie-img">
+								<a href="images/birth4.jpg" class="retina">
+								<img src="images/birth4.jpg" alt="">
+							
+								<div class="f-movie-name">
+									<span>Hritik Roshan</span>
+									<p>41 Years</p>
+								</div>	
+								</a>
+							</div>
+						</div>
+					</li>
+					
+					<li>
+						<div class="f-movie">
+							<div class="f-movie-img">
+								<a href="images/birth5.jpg" class="retina"><img src="images/birth5.jpg" alt=""></a>
+							</div>
+								<div class="f-movie-name">
+									<span>Akashy kumar</span>
+									<p>41 Years</p>
+								</div>								 
+							
+						</div>
+					</li>
+					
+					<li>
+						<div class="f-movie">
+							<div class="f-movie-img">
+								<a href="images/birth6.jpg" class="retina"><img src="images/birth6.jpg" alt="">
+									<div class="f-movie-name">
+										<span>Hritik Roshan</span>
+										<p>41 Years</p>
+									</div>								 
+								</a>
+							</div>
+						</div>
+					</li>
+					
+					
+				<div class="clearfix"></div>
+			</ul>
+			
+		</div>
+		<!--/ born cont -->
+		
+		<div class="clearfix"></div>
+	</div>
+	<!--/ wrapper -->
+</div>
+
+		<div class="footer">
+			<div class="col-md-3 footer-left">
+				<div class="f-mov-list">
+					<h4>Movies</h4>
+					<ul>
+						<li><a href="Theaters.html">In Theater</a></li>
+						<li><a href="Showtimes & Tickets.html">Showtimes &amp; Tickets</a></li>
+						<li><a href="coming soon movies.html">Coming Soon</a></li>
+                        <li><a href="Release Calendar.html">Release Calender</a></li>
+					</ul>
+					<div class="clearfix"></div>
+				</div>
+				<div class="f-mov-list">
+					<h4>photos</h4>
+					<ul>
+						<li><a href="Latest Stills.html">latest Still</a></li>
+							<li><a href="Latest Posters.html">Latest Poster</a></li>
+							<li><a href="Photos We Love.html">Photos We Love</a></li>
+					</ul>
+					<div class="clearfix"></div>
+				</div>
+				
+			</div>
+			<div class="col-md-3 footer-left">
+				<div class="f-mov-list">
+					<h4>Blog & News</h4>
+					<ul>
+						<li><a href="Blog.html">Blog</a></li>
+						<li><a href="News.html">News</a></li>						
+					</ul>
+					<div class="clearfix"></div>
+				</div>
+				<div class="f-mov-list">
+					<h4>Movies by Language</h4>
+					<ul>
+						<li><a href="popular movies.html">Hindi</a></li>
+						<li><a href="popular movies.html">Marathi</a></li>
+						<li><a href="popular movies.html">Bengali</a></li>
+						<li><a href="popular movies.html">Tamil</a></li>
+						<li><a href="popular movies.html">Telugu</a></li>
+					</ul>
+					<div class="clearfix"></div>
+				</div>
+			</div>
+			<div class="col-md-3 footer-left">
+				<div class="f-mov-list">
+					<h4>Events</h4>
+					<ul>
+						<li><a href="Award.html">Award</a></li>
+						<li><a href="Film festival.html">Film Festival</a></li>
+						<li><a href="Popular event.html">Popular Event</a></li>
+					</ul>
+					<div class="clearfix"></div>					
+				</div>	
+				<div class="f-mov-list">
+					<h4>Help</h4>
+					<ul>
+						<li><a href="feed back.html">Feedback</a></li>
+						<li><a href="faq.html">FAQs</a></li>
+						<li><a href="Terms and Conditions.html">Terms and Conditions</a></li>
+						<li><a href="Privacy policy.html">Privacy Policy</a></li>
+					</ul>
+					<div class="clearfix"></div>
+				</div>			
+			</div>
+			<div class="col-md-3 footer-left">
+				<div class="f-mov-list">
+					<h4>Movies by Genre</h4>
+					<ul>
+						<li><a href="Ima 50 popular movies.html">Action</a></li>
+						<li><a href="Ima 50 popular movies.html">Romance</a></li>
+						<li><a href="Ima 50 popular movies.html">Comedy</a></li>
+						<li><a href="Ima 50 popular movies.html">Adventure</a></li>
+						<li><a href="Ima 50 popular movies.html">Classic</a></li>
+						<li><a href="Ima 50 popular movies.html">Crime</a></li>
+						<li><a href="Ima 50 popular movies.html">Drama</a></li>
+						<li><a href="Ima 50 popular movies.html">Family </a></li>
+					
+					
+					</ul>
+					<div class="clearfix"></div>
+				</div>
+			</div>
+			<div class="clearfix"></div>
+			<div class="col-md-12">
+				<div class="footer-right">
+					<div class="follow-us">
+						<h5 class="f-head">Follow us</h5>
+						<ul class="social-icons">
+							<li><a href="#"><i class="fa fa-facebook"></i></a></li>
+							<li><a href="#"><i class="fa fa-twitter"></i></a></li>
+							<li><a href="#"><i class="fa fa-youtube"></i></a></li>
+							<li><a href="#"><i class="fa fa-pinterest"></i></a></li>
+							<li><a href="#"><i class="fa fa-google-plus"></i></a></li>
+							<li><a href="#"><i class="fa fa-linkedin"></i></a></li>
+						</ul>
+						<div class="clearfix"></div>
+					</div>
+					<div class="clearfix"></div>
+				</div>
+			</div>
+			<div class="clearfix"></div>
+		</div>
+		<div class="clearfix"></div>
+	</div>
+			<div class="copy-rights text-center">
+				<p> &copy; 2015 IMA. All Rights Reserved</p>
+			</div>
+
+		
+
+			<script type="text/javascript">
+			$(document).ready(function() {
+				$().UItoTop({ easingType: 'easeOutQuart' });
+			});
+			</script>
+	
+			<a href="#top" id="toTop">
+				<span class="totop"><i class="fa fa-arrow-up"></i></span>
+			</a>
+
+			<script>
+			$(document).ready(function(){
+				$(".youtube").colorbox({autoPlay: true, autoPlaySpeed: 3000, iframe:true, innerWidth:640, innerHeight:390});
+				$(".iframe").colorbox({iframe:true, width:"80%", height:"80%"});
+				$('.non-retina').colorbox({rel:'group5', transition:'none'})
+				$('.retina').colorbox({rel:'group5', transition:'none', retinaImage:true, retinaUrl:true});
+				
+				//Example of preserving a JavaScript event for inline calls.
+				$("#click").click(function(){ 
+					$('#click').css({"background-color":"#f00", "color":"#fff", "cursor":"inherit"}).text("Open this window again and this message will still be here.");
+					return false;
+				});
+			});
+			</script>
+
+			<script type="text/javascript" src="js/jquery.flexisel.js"></script>	
+	</body>
+</html>

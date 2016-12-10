@@ -1,0 +1,1467 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>IMA</title>
+<meta charset='utf-8'>
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+
+<link href="css/responsive.css" rel='stylesheet' type='text/css' />
+<link href="css/main.css" rel="stylesheet" type="text/css" media="all" />
+<link rel="stylesheet" href="css/social.css">
+<link href="css/menu.css" rel="stylesheet" type="text/css" media="all" />
+<link href="css/menu2.css" rel="stylesheet" type="text/css" media="all" />
+<link rel="stylesheet" href="css/font-awesome.min.css" />
+
+<script src="js/script.js"></script>
+<script src="js/jquery.min.js"></script>
+<script src="js/responsive.js"></script>
+<script src="js/social.js"></script>
+<script src="js/jquery.js"></script>
+<script type="application/x-javascript"> 
+	addEventListener("load", function() { setTimeout(hideURLbar, 0); }, false); function hideURLbar(){ window.scrollTo(0,1); } 
+</script>
+
+<!--webfont-->
+<link href='http://fonts.googleapis.com/css?family=Oxygen:400,700,300' rel='stylesheet' type='text/css'>
+<link href='http://fonts.googleapis.com/css?family=Open+Sans:400,300,600,700,800' rel='stylesheet' type='text/css'>
+
+<script src="js/jquery.colorbox-min.js"></script>
+<script src="js/jquery.colorbox.js"></script>
+<script type="text/javascript" src="js/megamenu.js"></script>
+<script>$(document).ready(function(){$(".megamenu").megamenu();});</script>
+<script type="text/javascript" src="js/jquery.leanModal.min.js"></script>
+<script type="text/javascript" src="js/move-top.js"></script>
+<script type="text/javascript" src="js/easing.js"></script>
+<script src="js/easyResponsiveTabs.js" type="text/javascript"></script>
+<script type="text/javascript">
+	$(document).ready(function () {
+		$('#horizontalTab').easyResponsiveTabs({
+			type: 'default',           
+			width: 'auto', 
+			fit: true  
+		});
+	});
+</script>
+
+<script type="text/javascript">
+			jQuery(document).ready(function($) {
+				$(".scroll").click(function(event){		
+					event.preventDefault();
+					$('html,body').animate({scrollTop:$(this.hash).offset().top},1200);
+				});
+			});
+			$(window).bind('scroll', function () {
+				if ($(window).scrollTop() > 50) {
+					$('.nav_cont').addClass('fix_nav');
+				} else {
+					$('.nav_cont').removeClass('fix_nav');
+				}
+			});
+</script>
+
+</head>
+
+<body>
+<!-- Sidebar -->
+<aside id="Social-Sidebar" class="Pos-Left Theme-Color Label-Round">
+	<ul>
+		<li><a href="#" target="_blank" rel="nofollow"><i class="fa fa-facebook"></i><span>Facebook</span></a></li>
+		<li><a href="#" target="_blank" rel="nofollow"><i class="fa fa-twitter"></i><span>Twitter</span></a></li>
+		<li><a href="#" target="_blank" rel="nofollow"><i class="fa fa-youtube"></i><span>YouTube</span></a></li>
+		<li><a href="#" target="_blank" rel="nofollow"><i class="fa fa-google-plus"></i><span>Google +</span></a></li>
+		<li><a href="#" target="_blank" rel="nofollow"><i class="fa fa-linkedin"></i><span>Linkedin</span></a></li>
+		<li><a href="#" target="_blank" rel="nofollow"><i class="fa fa-pinterest-p"></i><span>pinterest</span></a></li>
+	</ul>
+</aside>
+<!--/ Sidebar -->
+
+	<!-- head -->
+	<div class="head_cont">
+		<div class="container">
+			<div class="logo">
+				<a href="index.html">
+					<img src="images/logo.png">
+				</a>
+			</div>
+			<div class="header-top-right">
+				<a class="pro" href="ima pro.html">IMA Pro</a>
+				<a class="help" href="faq.html">Help</a>
+				
+				<button class="btn btn-primary" data-toggle="modal" data-target="#myModal">Login</button>
+				
+				<!-- login form -->
+				<div class="modal fade" id="myModal" tabindex="-1" role="dialog" aria-labelledby="myLargeModalLabel" aria-hidden="true">
+					<div class="modal-dialog modal-lg">
+						<div class="modal-content">
+							<div class="modal-header">
+								<button type="button" class="close" data-dismiss="modal" aria-hidden="true">
+									&times;</button>
+								<h4 class="modal-title" id="myModalLabel">Don't Wait, Login now!</h4>
+							</div>
+							<div class="modal-body">
+								<div class="row">
+									<div class="col-md-8" style="border-right: 1px dotted #C2C2C2;padding-right: 30px;">
+										
+										<!-- Nav tabs -->
+										<ul class="nav nav-tabs">
+											<li class="active"><a href="#Login" data-toggle="tab">Login</a></li>
+											<li><a href="#Registration" data-toggle="tab">Registration</a></li>
+										</ul>
+										<!-- Tab panes -->
+										<div class="tab-content">
+											<div class="tab-pane active" id="Login">
+												<form role="form" class="form-horizontal">
+												<div class="form-group">
+													<label for="email" class="col-sm-2 control-label">
+														Email</label>
+													<div class="col-sm-10">
+														<input type="email" class="form-control" id="email1" placeholder="Email" />
+													</div>
+												</div>
+												<div class="form-group">
+													<label for="exampleInputPassword1" class="col-sm-2 control-label">
+														Password</label>
+													<div class="col-sm-10">
+														<input type="password" class="form-control" id="exampleInputPassword1" placeholder="password" />
+													</div>
+												</div>
+												<div class="row">
+													<div class="col-sm-2">
+													
+													</div>
+													<div class="col-sm-10">
+														<button type="submit" class="btn btn-primary btn-sm">
+															Submit</button>
+														<a href="javascript:;">Forgot your password?</a>
+													</div>
+												</div>
+												</form>
+											</div>
+											<div class="tab-pane" id="Registration">
+												<form role="form" class="form-horizontal">
+												<div class="form-group">
+													<label for="email" class="col-sm-2 control-label">
+														Name</label>
+													<div class="col-sm-10">
+														<div class="row">
+															<div class="col-md-3">
+																<select class="form-control">
+																	<option>Mr.</option>
+																	<option>Ms.</option>
+																	<option>Mrs.</option>
+																</select>
+															</div>
+															<div class="col-md-9">
+																<input type="text" class="form-control" placeholder="Name" />
+															</div>
+														</div>
+													</div>
+												</div>
+												<div class="form-group">
+													<label for="email" class="col-sm-2 control-label">
+														Email</label>
+													<div class="col-sm-10">
+														<input type="email" class="form-control" id="email" placeholder="Email" />
+													</div>
+												</div>
+												<div class="form-group">
+													<label for="mobile" class="col-sm-2 control-label">
+														Mobile
+													</label>
+													<div class="col-sm-10">
+														<input type="email" class="form-control" id="mobile" placeholder="Mobile" />
+													</div>
+												</div>
+												<div class="form-group">
+													<label for="password" class="col-sm-2 control-label">
+														Password</label>
+													<div class="col-sm-10">
+														<input type="password" class="form-control" id="password" placeholder="Password" />
+													</div>
+												</div>
+												<div class="row">
+													<div class="col-sm-2">
+													
+													</div>
+													<div class="col-sm-10">
+														<button type="button" class="btn btn-primary btn-sm">
+															Save & Continue</button>
+														<button type="button" class="btn btn-default btn-sm">
+															Cancel</button>
+													</div>
+												</div>
+												</form>
+											</div>
+										</div>
+										<div id="OR" class="hidden-xs">
+										OR
+										</div>
+									</div>
+									<div class="col-md-4">
+										<div class="row text-center sign-with">
+											<div class="col-md-12">
+												<h3 class="other-nw">
+													Sign in with</h3>
+											</div>
+											<div class="col-md-12">
+												<div class="btn-group btn-group-justified">
+													<a href="#" class="btn btn-primary">Facebook</a> <a href="#" class="btn btn-danger">
+														Google +</a>
+												</div>
+											</div>
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+				<!-- login form -->
+				<!--<script>
+				$('#myModal').modal('show');
+				</script> -->
+
+			</div>
+			
+			<div class="search header-top-right">
+				<div class="search2">
+					<form>
+						<i class="fa fa-search"></i>
+						<input type="text" value="Find Movies, TV shows, Celebrities and more..." onfocus="this.value = '';" onblur="if (this.value == '') {this.value = 'Find Movies, TV shows, Celebrities and more...';}"/>
+					</form>
+				</div>
+			</div>
+		</div>
+	</div>
+	<!--/ head -->
+	
+	<!-- nav -->
+	<div class="nav_cont">
+		<nav class="navbar navbar-default mainnav" role="navigation">
+			<div class="navbar-header">
+				<button type="button" data-toggle="collapse" data-target="#defaultmenu" class="navbar-toggle"><span class="icon-bar"></span><span class="icon-bar"></span><span class="icon-bar"></span></button><a href="index.html" class="navbar-brand"><i class="fa fa-home"></i></a>
+			</div>
+
+			<div id="defaultmenu" class="navbar-collapse collapse">
+				<ul class="nav navbar-nav">
+					<li><a href="index.html">Home</a></li>	
+					<!-- Mega Menu -->
+					<li class="dropdown"><a href="#" data-toggle="dropdown" class="dropdown-toggle">Movies<b class="caret"></b></a>
+						<ul class="dropdown-menu" role="menu">
+							<li><a href="Theaters.html">In Theater</a></li>
+							<li><a href="Showtimes & Tickets.html">Showtimes & Tickets</a></li>
+							<li><a href="Latest Trailers.html">Latest Trailers</a></li>
+							<li><a href="coming soon movies.html">Coming Soon</a></li>
+                            <li><a href="Release Calendar.html">Release Calender</a></li>
+						</ul>
+					   <!-- end dropdown-menu -->
+					</li>
+
+					<li class="dropdown"><a href="#" data-toggle="dropdown" class="dropdown-toggle">Photos<b class="caret"></b></a>
+						<ul class="dropdown-menu" role="menu">
+							<li><a href="Latest Stills.html">latest Still</a></li>
+							<li><a href="Latest Posters.html">Latest Poster</a></li>
+							<li><a href="Photos We Love.html">Photos We Love</a></li>
+						</ul>
+					   <!-- end dropdown-menu -->
+					</li>
+					
+					<li class="dropdown"><a href="#" data-toggle="dropdown" class="dropdown-toggle">Celebrity<b class="caret"></b></a>
+						<ul class="dropdown-menu" role="menu">
+							<li><a href="Born Today.html">Born Today</a></li>
+							<li><a href="Celebrity.html">Popular Celebrity</a></li>
+						</ul>
+					   <!-- end dropdown-menu -->
+					</li>
+					<li class="dropdown"><a href="#" data-toggle="dropdown" class="dropdown-toggle">Event<b class="caret"></b></a>
+						<ul class="dropdown-menu" role="menu">
+							<li><a href="Award.html">Award</a></li>
+							<li><a href="Film festival.html">Film Festival</a></li>
+							<li><a href="Popular event.html">Popular Event</a></li>
+						</ul>
+					   <!-- end dropdown-menu -->
+					</li>
+
+					<li class="dropdown"><a href="#" data-toggle="dropdown" class="dropdown-toggle">Watchlist<b class="caret"></b></a>
+						<ul class="dropdown-menu" role="menu">
+							<li><a href="popular movies.html">Popular Movies</a></li>
+							<li><a href="Ima 50 popular movies.html">Ima Special 50</a></li>
+						</ul>
+					   <!-- end dropdown-menu -->
+					</li>
+				</ul> <!-- end nav navbar-nav -->
+				
+			</div> <!-- end #navbar-collapse-1 -->
+
+		</nav> <!-- end navbar navbar-default mainnav -->
+	</div>
+	<!--/ nav -->
+	
+	<div class="container">
+		<div class="main-content">
+			<div class="wrapper">
+				<div class="main-banner">
+					<div class="banner ">
+						<img src="images/Bahubali.jpg"> 
+					</div>
+					<div class="clearfix"></div>
+				</div>
+				<!-- wrap containrt -->
+				<div class="wrap_cont">
+					<h1>Baahubali: The Beginning (2015)</h1>
+					<!-- rating detail -->
+					<div class="col-md-12 sdetail">
+						<table style="width:100%; border:1px solid #000;">
+							<tr>
+								<td style="padding:0;">
+									<table class="tab" >
+									  <tr>
+										<td class="tit">Production Notes from IMA</td>
+										<td></td>		
+									  </tr>
+									  <tr>
+										<td>Status</td>
+										<td class="leftb">AAA</td>		
+									  </tr>
+									  <tr>
+										<td>Updated</td>
+										<td class="leftb">AAA</td>		
+									  </tr>
+									  <tr>
+										<td>Director</td>
+										<td class="leftb">AAA</td>		
+									  </tr>
+									  <tr>
+										<td>Writer</td>
+										<td class="leftb">AAA</td>		
+									  </tr>
+									  <tr>
+										<td>Cast and Crew <a href="#">(Click for more)</a></td>
+										<td class="leftb">AAA</td>		
+									  </tr>
+									   <tr>
+										<td>Five Lines Discription</td>
+										<td></td>		
+									  </tr>
+									  <tr>
+										<td colspan="2">
+										<p>The true story of Whitey Bulger, the brother of a state senator and the most infamous
+										violent criminal in the history of South Boston, who became an FBI informant to take 
+										down a Mafia family invading his turf.</p>
+										</td>
+												
+									  </tr>
+									</table>
+									
+									<table class="tab" style="border-left:1px solid #000;">
+										<tr>
+											<td class="desain_tab none box_off">
+												<table style="width:100%;">
+													<tr>
+														<td class="tit" colspan="2">Box Office</td>
+													</tr>
+													<tr>
+														<td>East Box Office collection Rs10000000</td>
+														<td class="leftb">Rs10000000</td>
+													</tr>
+													<tr>
+														<td>East Box Office collection</td>
+														<td class="leftb">Rs10000000</td>
+													</tr>
+													<tr>
+														<td>East Box Office collection</td>
+														<td class="leftb">Rs100000</td>
+													</tr>
+													<tr>
+														<td>East Box Office collection</td>
+														<td class="leftb">Rs1000000</td>
+													</tr>
+													<tr>
+														<td>East Box Office collection</td>
+														<td class="leftb">Rs10000000</td>
+													</tr>
+												</table>
+											</td>
+											<td class="imarating desain_tab none" style="border-left:1px solid #000;">
+												<table style="width:100%;">
+													<tr>
+														<td>Production Design</td>
+														<td class="ratebox">
+															<div class="rating">
+																<span>☆</span><span>☆</span><span>☆</span><span>☆</span><span>☆</span>
+															</div>
+														</td>
+													</tr>
+													<tr>
+														<td>DOP</td>
+														<td class="ratebox">
+															<div class="rating">
+																<span>☆</span><span>☆</span><span>☆</span><span>☆</span><span>☆</span>
+															</div>
+														</td>
+													</tr>
+													<tr>
+														<td>Direction</td>
+														<td class="ratebox">
+															<div class="rating">
+																<span>☆</span><span>☆</span><span>☆</span><span>☆</span><span>☆</span>
+															</div>
+														</td>
+													</tr>
+													<tr>
+														<td>Action</td>
+														<td class="ratebox">
+															<div class="rating">
+																<span>☆</span><span>☆</span><span>☆</span><span>☆</span><span>☆</span>
+															</div>
+														</td>
+													</tr>
+													<tr>
+														<td>Story</td>
+														<td class="ratebox">
+															<div class="rating">
+																<span>☆</span><span>☆</span><span>☆</span><span>☆</span><span>☆</span>
+															</div>
+														</td>
+													</tr>
+													<tr>
+														<td>Screen Play</td>
+														<td class="ratebox">
+															<div class="rating">
+																<span>☆</span><span>☆</span><span>☆</span><span>☆</span><span>☆</span>
+															</div>
+														</td>
+													</tr>
+													<tr>
+														<td>Music</td>
+														<td class="ratebox">
+															<div class="rating">
+																<span>☆</span><span>☆</span><span>☆</span><span>☆</span><span>☆</span>
+															</div>
+														</td>
+													</tr>
+													<tr>
+														<td>Box Office</td>
+														<td class="ratebox">
+															<div class="rating">
+																<span>☆</span><span>☆</span><span>☆</span><span>☆</span><span>☆</span>
+															</div>
+														</td>
+													</tr>
+													<tr>
+														<td>Screen Play</td>
+														<td class="ratebox">
+															<div class="rating">
+																<span>☆</span><span>☆</span><span>☆</span><span>☆</span><span>☆</span>
+															</div>
+														</td>
+													</tr>
+													<tr>
+														<td>Music</td>
+														<td class="ratebox">
+															<div class="rating">
+																<span>☆</span><span>☆</span><span>☆</span><span>☆</span><span>☆</span>
+															</div>
+														</td>
+													</tr>
+													<tr>
+														<td>Screen Play</td>
+														<td class="ratebox">
+															<div class="rating">
+																<span>☆</span><span>☆</span><span>☆</span><span>☆</span><span>☆</span>
+															</div>
+														</td>
+													</tr>
+													<tr>
+														<td>Box Office</td>
+														<td class="ratebox">
+															<div class="rating">
+																<span>☆</span><span>☆</span><span>☆</span><span>☆</span><span>☆</span>
+															</div>
+														</td>
+													</tr>
+													<tr>
+														<td>Box Office</td>
+														<td class="ratebox">
+															<div class="rating">
+																<span>☆</span><span>☆</span><span>☆</span><span>☆</span><span>☆</span>
+															</div>
+														</td>
+													</tr>
+													<tr>
+														<td>Screen Play</td>
+														<td class="ratebox">
+															<div class="rating">
+																<span>☆</span><span>☆</span><span>☆</span><span>☆</span><span>☆</span>
+															</div>
+														</td>
+													</tr>
+													<tr>
+														<td>Screen Play</td>
+														<td class="ratebox">
+															<div class="rating">
+																<span>☆</span><span>☆</span><span>☆</span><span>☆</span><span>☆</span>
+															</div>
+														</td>
+													</tr>
+													<tr>
+														<td class="none">Screen Play</td>
+														<td class="ratebox none">
+															<div class="rating">
+																<span>☆</span><span>☆</span><span>☆</span><span>☆</span><span>☆</span>
+															</div>
+														</td>
+													</tr>
+												</table>
+											</td>
+										</tr>
+										
+									</table>
+								</td>
+							</tr>
+						</table>
+					</div>
+					<!-- rating detail -->
+					
+					<!-- leftcol -->
+					<div class="leftcol col-md-9 news-left">
+						
+						<!--short detail -->
+						<h3>Baahubali: The Beginning (2015)</h3>
+
+						<div class="infobar">
+							U/A &nbsp;<span class="ghost">|</span>&nbsp;
+							<time itemprop="duration" datetime="PT159M">
+							159 min
+							</time>
+							&nbsp;<span class="ghost">|</span>&nbsp;
+							<a href="#"><span>Action</span></a>, 
+							<a href="#"><span>Adventure</span></a>, 
+							<a href="#"><span>History</span></a>                &nbsp;<span class="ghost">|</span>&nbsp;
+							<span class="nobr">
+							<a href="#" title="Released Date"> 9 July 2015<meta itemprop="datePublished" content="2015-07-09">
+							(INDIA)
+							</a> 
+							</span>
+						</div>
+
+						<div class="rating">
+							<div class="star-rating rating-bg"> 8.9 </div>
+							<div class="rate-info">
+								<span class="rating-heading">Your rating</span>
+								<div>
+								Ratings: <br>
+								<strong> <span>8.9</span></strong>
+								</div>
+							</div>
+						</div>
+
+						<p> A dispute between brothers spans across two generations.This is part 1 of a 2 part period drama. Part 1 shows the brothers Baahubali and Bhallaladeva fight for the throne to Mahishmathi Kingdom. 
+						</p>	
+						</br>				
+						<strong> Director: </strong> <a href="#"> S.S. Rajamouli </a>                              
+
+						<div class="containt none">
+						<h3>Photos</h3>
+						<div class="born_cont">
+						<div class="born_box">
+						<div class="img_box">
+							<a href="#"><img src="images/bahubali1.jpg" alt=""></a>
+						</div>
+						</div>
+						<div class="born_box">
+						<div class="img_box">
+							<a href="#"><img src="images/bahubali1.jpg" alt=""></a>
+						</div>
+						</div>
+						<div class="born_box">
+						<div class="img_box">
+							<a href="#"><img src="images/bahubali2.jpg" alt=""></a>
+						</div>
+						</div>
+						<div class="born_box">
+						<div class="img_box">
+							<a href="#"><img src="images/bahubali3.jpg" alt=""></a>
+						</div>
+						</div>
+						<div class="born_box">
+						<div class="img_box">
+							<a href="#"><img src="images/bahubali4.jpg" alt=""></a>
+						</div>
+						</div>
+						<div class="born_box none">
+						<div class="img_box">
+							<a href="#"><img src="images/bahubali5.jpg" alt=""></a>
+						</div>
+						</div>
+
+						</div>
+
+						</div>
+						<p class="pl">
+						<a class="likss" href="#">8 photos</a>
+						<a class="likss" href="#">1 video</a>
+						<a class="likss" href="#">42 news articles</a>
+						</p>
+
+						<!--/ short detail -->
+						<div class="clearfix"></div>
+						<div class="detail_cont news-left">
+
+							<h3>Cast</h3>
+
+							<table class="casting">    
+								<tbody><tr><td colspan="4" class="castlist_label">Credited cast:</td></tr>
+								<tr class="orgm">
+								<td class="primary_photo">
+									<a href="#"><img alt="Prabhas" title="Prabhas" src="images/Prabhas-8850.jpg" class=""></a>  
+								</td>
+								<td class="itemprop" itemprop="actor" itemscope="" itemtype="#">
+								<a href="#" itemprop="url"> <span class="itemprop" itemprop="name">Prabhas</span>
+								</a>          </td>
+								<td class="ellipsis">
+								...
+								</td>
+								<td class="character">
+								<div>
+								Baahubali /  
+								<a href="#">Sivudu</a> 
+
+								</div>
+								</td>
+								</tr>
+								<tr class="heaven">
+								<td class="primary_photo">
+								<a href="#"><img alt="Rana Daggubati" title="Rana Daggubati" src="images/rana.jpg" class=""></a>          </td>
+								<td class="itemprop" itemprop="actor" itemscope="" itemtype="">
+								<a href="#" itemprop="url"> <span class="itemprop" itemprop="name">Rana Daggubati</span>
+								</a>          </td>
+								<td class="ellipsis">
+								...
+								</td>
+								<td class="character">
+								<div>
+								<a href="#">Bhallaladeva</a> 
+
+								</div>
+								</td>
+								</tr>
+								<tr class="orgm">
+								<td class="primary_photo">
+								<a href="#"><img alt="Anushka Shetty" title="Anushka Shetty" src="images/anushka.jpg" class=""></a>          </td>
+								<td class="itemprop" itemprop="actor" itemscope="" itemtype="">
+								<a href="#" itemprop="url"> <span class="itemprop" itemprop="name">Anushka Shetty</span>
+								</a>          </td>
+								<td class="ellipsis">
+								...
+								</td>
+								<td class="character">
+								<div>
+								<a href="#">Devasena</a> 
+
+								</div>
+								</td>
+								</tr>
+								<tr class="heaven">
+								<td class="primary_photo">
+								<a href="#"><img alt="Tamannaah Bhatia" title="Tamannaah Bhatia" src="images/tamanna.jpg" class=""></a>          </td>
+								<td class="itemprop" itemprop="actor" itemscope="" itemtype="">
+								<a href="#" itemprop="url"> <span class="itemprop" itemprop="name">Tamannaah Bhatia</span>
+								</a>          </td>
+								<td class="ellipsis">
+								...
+								</td>
+								<td class="character">
+								<div>
+								<a href="/character/ch0515016/?ref_=tt_cl_t4">Avanthika</a> 
+
+								</div>
+								</td>
+								</tr>
+								<tr class="orgm">
+								<td class="primary_photo">
+								<a href="#"><img alt="Ramya Krishnan" title="Ramya Krishnan" src="images/rama.jpg" class=""></a>          </td>
+								<td class="itemprop" itemprop="actor" itemscope="" itemtype="">
+								<a href="#" itemprop="url"> <span class="itemprop" itemprop="name">Ramya Krishnan</span>
+								</a>          </td>
+								<td class="ellipsis">
+								...
+								</td>
+								<td class="character">
+								<div>
+								<a href="#">Sivagami</a> 
+
+								</div>
+								</td>
+								</tr>
+								<tr class="heaven">
+								<td class="primary_photo">
+								<a href="#"><img alt="Nasser" title="Nasser" src="images/icon1.png" class="loadlate"></a>          </td>
+								<td class="itemprop" itemprop="actor" itemscope="" itemtype="">
+								<a href="#" itemprop="url"> <span class="itemprop" itemprop="name">Nasser</span>
+								</a>          </td>
+								<td class="ellipsis">
+								...
+								</td>
+								<td class="character">
+								<div>
+								Bijjaladeva 
+
+								</div>
+								</td>
+								</tr>
+								<tr class="orgm">
+								<td class="primary_photo">
+								<a href="#"><img alt="Sudeep" title="Sudeep" src="images/icon1.png" class=""></a>          </td>
+								<td class="itemprop" itemprop="actor" itemscope="" itemtype="">
+								<a href="#" itemprop="url"> <span class="itemprop" itemprop="name">Sudeep</span>
+								</a>          </td>
+								<td class="ellipsis">
+								...
+								</td>
+								<td class="character">
+								<div>
+								Aslaam Khan 
+
+								</div>
+								</td>
+								</tr>
+								<tr class="heaven">
+								<td class="primary_photo">
+								<a href="#"><img alt="Satyaraj" title="Satyaraj" src="images/icon1.png" class=""></a>          </td>
+								<td class="itemprop" itemprop="actor" itemscope="" itemtype="">
+								<a href="#" itemprop="url"> <span class="itemprop" itemprop="name">Satyaraj</span>
+								</a>          </td>
+								<td class="ellipsis">
+								...
+								</td>
+								<td class="character">
+								<div>
+								Kattappa 
+
+								</div>
+								</td>
+								</tr>
+								<tr class="orgm">
+								<td class="primary_photo">
+								<a href="#"><img alt="Tanikella Bharani" title="Tanikella Bharani" src="images/icon1.png" class=""></a>          </td>
+								<td class="itemprop" itemprop="actor" itemscope="" itemtype="">
+								<a href="#" itemprop="url"> <span class="itemprop" itemprop="name">Tanikella Bharani</span>
+								</a>          </td>
+								<td class="ellipsis">
+								...
+								</td>
+								<td class="character">
+								<div>
+								Swamiji 
+
+								</div>
+								</td>
+								</tr>
+								<tr><td colspan="4" class="castlist_label">Rest of cast listed alphabetically:</td></tr>
+								<tr class="orgm">
+								<td class="primary_photo">
+								<a href="#"><img alt="Gabriela Bertante" title="Gabriela Bertante" src="images/icon1.png" class=""></a>          </td>
+								<td class="itemprop" itemprop="actor" itemscope="" itemtype="">
+								<a href="#" itemprop="url"> <span class="itemprop" itemprop="name">Gabriela Bertante</span>
+								</a>          </td>
+								<td class="ellipsis">
+								</td>
+								<td class="character">
+								<div>
+
+								</div>
+								</td>
+								</tr>
+								<tr class="heaven">
+								<td class="primary_photo">
+								<a href="#"><img alt="Nora Fatehi" title="Nora Fatehi" src="images/icon1.png" class=""></a>          </td>
+								<td class="itemprop" itemprop="actor" itemscope="" itemtype="http://schema.org/Person">
+								<a href="#" itemprop="url"> <span class="itemprop" itemprop="name">Nora Fatehi</span>
+								</a>          </td>
+								<td class="ellipsis">
+								</td>
+								<td class="character">
+								<div>
+
+								</div>
+								</td>
+								</tr>
+								<tr class="orgm">
+								<td class="primary_photo">
+								<a href="#"><img alt="Prabhakar" title="Prabhakar" src="images/icon1.png" class=""></a>          </td>
+								<td class="itemprop" itemprop="actor" itemscope="" itemtype="">
+								<a href="#" itemprop="url"> <span class="itemprop" itemprop="name">Prabhakar</span>
+								</a>          </td>
+								<td class="ellipsis">
+								...
+								</td>
+								<td class="character">
+								<div>
+								Kalakeya War Lord 
+
+								</div>
+								</td>
+								</tr>
+								<tr class="heaven">
+								<td class="primary_photo">
+								<a href="#"><img alt="S.S. Rajamouli" title="S.S. Rajamouli" src="images/icon1.png" class="loadlate"></a>          </td>
+								<td class="itemprop" itemprop="actor" itemscope="" itemtype="">
+								<a href="" itemprop="url"> <span class="itemprop" itemprop="name">S.S. Rajamouli</span>
+								</a>          </td>
+								<td class="ellipsis">
+								...
+								</td>
+								<td class="character">
+								<div>
+								Spirit Seller (Cameo) 
+
+								</div>
+								</td>
+								</tr>
+								<tr class="orgm">
+								<td class="primary_photo">
+								<a href="#"><img alt="Rohini" title="Rohini" src="images/icon1.png" class="images/icon1.png"></a>          </td>
+								<td class="itemprop" itemprop="actor" itemscope="" itemtype="">
+								<a href="" itemprop="url"> <span class="itemprop" itemprop="name">Rohini</span>
+								</a>          </td>
+								<td class="ellipsis">
+								...
+								</td>
+								<td class="character">
+								<div>
+								Sanga 
+
+								</div>
+								</td>
+								</tr>
+								<tr class="heaven">
+								<td class="primary_photo">
+								<a href="#"><img alt="Subbaraya Sarma" title="Subbaraya Sarma" src="images/icon1.png" class=""></a>          </td>
+								<td class="itemprop" itemprop="actor" itemscope="" itemtype="">
+								<a href="#" itemprop="url"> <span class="itemprop" itemprop="name">Subbaraya Sarma</span>
+								</a>          </td>
+								<td class="ellipsis">
+								</td>
+								<td class="character">
+								<div>
+
+								</div>
+								</td>
+								</tr>
+								</tbody>
+							</table>
+								
+							<div class="more">
+								<a href="Movie-cast.html">See full cast</a>
+							</div>
+				
+						</div> 
+
+						<div class="news-left detail_cont" >
+
+							<span>
+								<a href="#" rel="login" class="edit">Edit</a>
+							</span>
+							<h3>Storyline</h3>
+
+							<div>
+								<p>
+								When Sanga and her husband, part of a tribe living around the province of Mahismathi, save a drowning infant, little do they know the background of the infant or what the future holds for him. The kid grows up to as Shivudu, a free-spirit wanting to explore the mountains and in the process learns of his roots and then realizes the whole purpose of his life and ends up confronting the mighty Bhallala Deva!     Written by
+								<a href="#">PipingHotViews</a>       
+								</p>
+							</div>
+
+							<span> 
+								<a href="#">Plot Summary</a>
+								<span>|</span>
+								<a href="#">Plot Synopsis</a>
+							</span>
+							<hr>
+							<div>
+								<h4>Plot Keywords:</h4>
+								<a href="#"> <span>kingdom</span></a>
+								<span>|</span>
+								<a href="#"> <span>telugu</span></a>
+								<span>|</span>
+								<a href="/#"> <span>ancient india</span></a>
+								<span>|</span>
+								<a href="#"> <span>medieval india</span></a>
+								<span>|</span>&nbsp;<nobr class="more"><a href="#">See All (4)</a></nobr>
+							</div>      
+							<hr>
+							<div>
+								<h4>Genres:</h4>
+								<a href="#"> Action</a>&nbsp;<span>|</span>
+								<a href="#"> Adventure</a>&nbsp;<span>|</span>
+								<a href="#"> History</a>&nbsp;<span>|</span>
+								<a href="#"> War</a>
+							</div>      
+
+							<hr>
+
+							<div class="txt-block">
+								<h4 class="inline">Certificate:</h4>
+								<span>U/A</span>
+								<span>|</span>       
+								<span class="more">
+								<a href="#"> See all certifications</a>
+								</span>
+							</div>
+							<div>
+								<h4>Parents Guide:</h4>
+								<span class="more">
+								<a href="#" itemprop="url"> View content advisory</a>
+								</span>
+							</div>
+						</div>
+
+						<div class="news-left detail_cont">
+							<span>
+							<a href="#" rel="login" class="edit">Edit</a>
+							</span>
+							<h3>Details</h3>
+							<div class="txt-block">
+							<h4>Official Sites:</h4>
+							<a href="#">Arka Mediaworks [India]</a>
+							<span>|</span>
+
+							<a href="#">Official Facebook</a>
+							<span>|</span>
+							<span class="more">
+							<a href="#">See more</a>
+							</span>
+							</div>
+
+							<div class="txt-block">
+							<h4>Country:</h4>
+							<a href="#">India</a>
+							</div>
+
+							<div class="txt-block">
+							<h4 class="inline">Language:</h4>
+							<a href="#">Telugu</a>
+							<span>|</span>
+							<a href="#">Tamil</a>
+							<span>|</span>
+							<a href="#" itemprop="url">Hindi</a>
+							<span>|</span>
+							<a href="#" itemprop="url">Malayalam</a>
+							</div>
+
+
+							<div>
+							<h4>Release Date:</h4> 9 July 2015 (USA)
+							<span class="more">
+							<a href="#S">See more</a>
+							</span>
+							</div>
+
+							<div>
+							<h4 class="inline">Also Known As:</h4> Bahubali
+							<span class="more">
+							<a href="#">See more</a>
+							</span>
+							</div>
+
+							<div>
+							<h4>Filming Locations:</h4> 
+							<a href="#" itemprop="url">Ramoji Film City, Hyderabad, Telangana, India</a>
+							<span class="more">
+							<a href="#">See more</a>
+							</span>
+							</div>
+
+							<hr> 
+							<h3>Box Office</h3>
+
+							<div>
+							<h4>Budget:</h4>        $40,000,000        
+
+							<span>(estimated)</span>
+							</div>
+
+							<div>
+							<h4>Opening Weekend:</h4>         $1,405,000        
+
+							(USA)
+							<span>(17 July 2015)</span>
+							</div>
+
+							<div>
+							<h4>Gross:</h4>        $6,498,000        
+
+							<span>(USA)</span>
+							<span>(17 July 2015)</span>
+							</div>
+
+							<span class="more">
+							<a href="#">See more</a>
+							</span>  
+							<hr> 
+							<h3>Company Credits</h3>
+							<div>
+							<h4>Production Co:</h4>
+							<span>
+							<a href="#" itemprop="url"><span>Arka Mediaworks</span></a></span>    
+							<span class="more">
+							<a href="#" itemprop="url">See more</a>
+							</span>
+							</div>
+							<div> 
+							Show detailed
+							<a href="#">company contact information</a>
+							on 
+							<span class="more">
+							<a href="#" itemprop="url">IMDbPro</a>
+							</span>
+							</div>
+
+
+							<hr>
+							<h3>Technical Specs</h3>
+
+							<div>
+							<h4>Runtime:</h4> 
+							<time>159 min</time>
+							</div>
+
+							<div>
+							<h4>Sound Mix:</h4>
+							<a href="#" itemprop="url">Dolby Surround 7.1</a>
+							<span>|</span>        <a href="#">Dolby Atmos</a>
+							<span>|</span>        <a href="#">Dolby Digital</a>
+							<span>|</span>        <a href="#">DTS-Stereo</a>
+							<span>|</span>        <a href="#">Dolby Atmos</a>
+							(RCA Sound Recording)    </div>
+
+							<div class="txt-block">
+							<h4>Color:</h4>
+							<a href="#">Color</a>
+							</div>
+
+							<div class="txt-block">
+							<h4>Aspect Ratio:</h4> 1.85 : 1
+							</div>
+
+							See 
+							<span class="more">
+							<a href="#" itemprop="url">full technical specs</a>
+							</span>
+						</div>
+
+						<div class="news-left detail_cont">
+							<span class="rightcornerlink">
+							<a href="#" rel="login" class="edit">Edit</a>
+							</span>
+							<h3>Did You Know?</h3>
+							<div id="trivia" class="txt-block">
+							<h4>Trivia</h4>
+
+
+							The audio release had been conducted at Tirupati, Andhra Pradesh and Kerala.        
+							<span class="more"><a href="#">See more</a></span>
+							</div>
+							<hr>
+							<div>
+							<h4>Goofs</h4>
+							Before the song sequence in which Shivudu and Avanthika make love to each other, Shivudu rips off both the sleeves of Avanthika's top. But in the next scene after the song, Avanthika's top is seen with sleeves.    
+							<span class="more"><a href="#" class="nobr">See more</a></span>
+							</div>   
+							<hr>
+							<div>
+							<h4>Quotes</h4>
+							<a href="#"><span class="character">Sivagami</span></a>:
+							A warrior can become HERO by killing ten people in a battlefield
+							<br><a href="#"><span class="character">Sivagami</span></a>:
+							But by saving one life, a warrior becomes the GOD
+							<br>        <span class="more"><a href="#" class="nobr">See more</a></span>
+							</div>
+							<hr>
+							<div>
+							<h4>Connections</h4>
+							Followed by <a href="#">Baahubali: The Conclusion</a>&nbsp;(2016)
+
+
+							<span class="more"><a href="#">See more</a></span>
+							</div>
+							<hr>
+							<div>
+							<h4>Soundtracks</h4>
+							Mamta Se Bhari<br>
+							(Hindi)<br>
+							Written by <a href="#">Manoj Muntashir</a><br>
+							Produced by <a href="#">M.M. Keeravani</a><br>
+							Performed by <a href="#">Bombay Jayashri</a><br>       
+							<span class="more"><a href="#">See more</a></span>
+							</div>
+						</div>
+
+						<div class="news-left detail_cont">
+							<h3>Frequently Asked Questions</h3>
+
+							<div>
+							<div>
+							<b>Q:</b>
+							<a href="#"> Why did Kattappa Kill Bahubali?</a>
+							</div>
+							<div>
+							<b>Q:</b>
+							<a href="#"> When is part 2 of this movie (Bahubali: The Conclusion) expected to come out?</a>
+							</div>
+							</div>
+
+							<span class="see-more inline">        
+							<a href="#">See more</a>
+							<span class="more">(Spoiler Alert!)</span></span>
+						</div>
+			
+						<div class="news-left detail_cont">
+							<h3>User Reviews</h3>
+							<div class="user-comments">
+							<span>  
+							<strong>Baahubali is Indian Grand Spectacle</strong>
+
+							<div class="comment-meta">
+							9 July 2015 | by <a href="#"><span>Prabhat R</span></a>
+
+							  (India)
+							– <a href="#">See all my reviews</a>
+							</div>
+							<div>
+							<p>I was eagerly waiting for this film and I was not disappointed.<br><br>Baahubali is one of the most visually impressive films that have come from India. Everything about this film is good - Story, direction, beautiful cinematography, haunting score and amazing visuals (though they lack some details at some places). <br><br>I didn't know who Rajamouli was, basically because I am from North India and I don't follow south Indian cinema. But I am sure he is someone you should know about. SS Rajamouli is amazing. He has made something that we can be proud of. I was sure that the VFX would be good however I had a doubt about the story. Rajamouli proved me wrong with this film. The story and the execution is really good. Story takes elements from Indian mythologies (specially from the life of Lord Krishna) . You can not expect more. He took a big risk and made it big. This is what we need, good quality cinema. Salman fans should learn something from it. <br><br>All the actors are good and perform their part really well(except Tamanna. She tries too hard but fails miserably). In fact, Tamanna has been used as a plot device (A MacGuffin as Alfred Hitchcock used to call it). Prabhas is okay in the beginning but transforms into a behemoth during the second half. This guy is a natural. He doesn't act exceptionaly but his presence is enough to give you the feels.<br><br>The background score needs special mention because it is amazing. It is different from anything you have ever heard in India. The score that plays during war is haunting. (Clearly inspired from the LotR) <br><br>I would be lying if I didn't say that Rajamouli spent a lot of time watching The Lord of The Rings. Yes, some scenes will remind you of 300 and the Lord of The Rings but believe me it is completely different. He doesn't copy anything, he uses it as a source of inspiration. There is only one scene that I remember from LotR which has been used in Baahubali. But denying that he was influenced by Peter Jackson would be a big lie. Its a great thing that he was influenced by such a great film otherwise we wouldn't have Baahubali.<br><br>The quality of graphics work is very good. In fact its insane for such a cheap price given that Hollywood uses big budget for the same. The battle sequence is SPECTACULAR and reminded me of Battle of Helm's Deep and Pelennor fields from LotR.<br><br>But the movie is not without some minor problems. There are unnecessary songs which ruin the experience (I laughed so hard when Prabhas started dancing randomly. Everyone was looking at me.) and some parts are dragged (specially the first half) . Also there are continuity problems and some actors are over-the-top. Cut down the songs and edit the movie and voilà we will have a SPECTACULAR film.<br><br>Baahubali is not the answer to 300, Gladiator or The Lord of The Rings because saying so would be foolish. Don't compare this movie to the Hollywood ones because we still have a long way to go. It's not the Indian 300, its Indian "Baahubali".<br><br>So in the end, I would like to say - Go and watch it instead of watching the crap that Bollywood has been producing lately. Its something to be proud of. Book your tickets and watch this Indian grand spectacle. You wont regret it. P.S: I want to see Rajamouli doing "Mahabharata" next.</p>
+							</div>
+							</span>
+							<hr>
+							<div>
+							294 of 345 people found this review helpful.&nbsp;
+							Was this review helpful to you?
+							<button class="btn btn-primary" value="Yes" name="ynb_3273540_yes" onclick="">Yes</button>
+							<button class="btn btn-primary" value="No" name="ynb_3273540_no" onclick="">No</button>
+							</div>
+							<div class="see-more">
+
+							<a href="#" rel="login" class="cboxElement">Review this title</a>
+							<span>|</span>
+							<span class="more"><a href="#">See all 125 user reviews</a></span>
+							</div>
+							</div>
+						</div>
+
+						<div class="col-md-9 news-left detail_cont">
+							<div class="rightcornerlink">
+							<a href="#">Getting Started</a>
+							<span>|</span>
+							<span class="more"><a href="#">Contributor Zone</a></span></div>
+							<h3>Contribute to This Page</h3>
+
+							<div class="edit_cont">	
+							<div class="edit-pagebtn">
+								<form method="post" action="/updates?ref_=tt_cn_edt">
+									<input name="auto" value="legacy/title/tt2631186/" type="hidden">
+									<button class="btn btn-primary" rel="login" type="submit">Edit page</button>
+								</form>
+							</div>
+
+							<div class="edit-pagebtn">
+								<a href="#" class="btn btn-primary">Write review</a>          
+							</div>
+							</div>
+
+							<div class="form-box">
+							<form method="post" action="#" accept-charset="ISO-8859-1">
+								<div class="left">
+									<input value="tt2631186" name="title" type="hidden">
+									<div class="caracter-page">Create a character page for:</div>
+									<select id="character_select" name="name" data-tconst="tt2631186">
+									<option value="Baahubali">Bahubali</option>
+									<option value="Bijjaladeva">Bijjaladeva</option>
+									<option value="Aslaam Khan">Aslaam Khan</option>
+									<option value="Kattappa">Kattappa</option>
+									<option value="Swamiji">Swamiji</option>
+									<option value="Kalakeya War Lord">Kalakeya War Lord</option>
+									<option disabled="disabled">-----------</option>
+									<option value="...">more...</option>
+									</select>
+								</div>	
+								<div class="left">
+									<button class="btn btn-primary create">Create</button>
+									<a href="#" class="btn btn-primary">?</a>
+								</div>
+							</form>
+							</div>
+						</div>
+
+					</div>
+					<!--/ leftcol -->
+					
+					<!-- rightcol -->
+					<div class="right-side-bar col-md-3 news-left news-right">
+						<div class="top-movies-in-india">
+							<h3>Quick Links</h3>
+							<ul class="mov_list">
+
+							<li><a href="#">Full Cast and Crew</a></li>
+							</ul>
+							<ul class="mov_list">
+
+							<li><a href="#">Plot Summary</a></li>
+							</ul>
+							<ul class="mov_list">
+
+							<li><a href="#">Trivia</a></li>
+							</ul>
+							<ul class="mov_list">
+
+							<li><a href="#">Parents Guide</a></li>
+							</ul>
+							<ul class="mov_list">
+
+							<li><a href="#">Quotes</a></li>
+							</ul>
+							<ul class="mov_list">
+
+							<li><a href="#">User Reviews</a></li>
+							</ul>
+							<ul class="mov_list">
+
+							<li><a href="#">Release Dates</a></li>
+							</ul>
+							<ul class="mov_list">
+
+							<li><a href="#">Message Board</a></li>
+							</ul>
+							<ul class="mov_list">
+
+							<li><a href="#">Company Creadits</a></li>
+							</ul>
+						</div>
+						
+						<!-- audio player -->
+						<div class="audio_p">
+							<a href="#">
+								<img src="images/hero.jpg">
+							</a>
+							<span class="bestm">
+							<a href="#">Best Movies</a>
+							</span>
+							
+						</div>
+						<div class="player">
+							<a href="#"><img src="images/player.jpg"></a>
+						</div>
+					<!--/ audio player -->
+					</div>
+					<!-- rightcol -->
+					<div class="clearfix"> </div>
+
+				</div>
+			
+				<div class="clearfix"></div>			
+			</div>
+
+			
+
+			</div>
+
+			<section id="bottom_container">
+					<h3>Recently Viewed</h3>
+					<span class="rlink">
+						<a href="#">Manage your history</a>
+					</span>
+					<div class="box">
+						<span class="img_box">
+							<a href="#"><img src="images/visit1.jpg" alt=""></a>
+						</span>
+						
+						<span class="img_box">
+							<a href="#"><img src="images/visit2.jpg" alt=""></a>
+						</span>
+						
+						<span class="img_box">
+							<a href="#"><img src="images/visit3.jpg" alt=""></a>
+						</span>
+						
+						 <span class="img_box">
+							<a href="#"><img src="images/visit4.jpg" alt=""></a>
+						</span>
+						
+						 <span class="img_box">
+							<a href="#"><img src="images/visit5.jpg" alt=""></a>
+						</span>
+						
+						 <span class="img_box">
+							<a href="#"><img src="images/visit6.jpg" alt=""></a>
+						</span>
+						 <span class="img_box">
+							<a href="#"><img src="images/visit7.jpg" alt=""></a>
+						</span>
+						
+						 <span class="img_box">
+							<a href="#"><img src="images/visit4.jpg" alt=""></a>
+						</span>
+						
+						 <span class="img_box">
+							<a href="#"><img src="images/visit5.jpg" alt=""></a>
+						</span>
+						
+						 <span class="img_box">
+							<a href="#"><img src="images/visit6.jpg" alt=""></a>
+						</span>
+						
+						 <span class="img_box">
+							<a href="#"><img src="images/visit6.jpg" alt=""></a>
+						</span>
+						
+						 <span class="img_box">
+							<a href="#"><img src="images/visit6.jpg" alt=""></a>
+						</span>
+						
+						 <span class="img_box">
+							<a href="#"><img src="images/visit6.jpg" alt=""></a>
+						</span>
+					</div>
+				</section>
+		<div class="footer">
+			<div class="col-md-3 footer-left">
+				<div class="f-mov-list">
+					<h4>Movies</h4>
+					<ul>
+						<li><a href="Theaters.html">In Theater</a></li>
+						<li><a href="Showtimes & Tickets.html">Showtimes &amp; Tickets</a></li>
+						<li><a href="coming soon movies.html">Coming Soon</a></li>
+                        <li><a href="Release Calendar.html">Release Calender</a></li>
+					</ul>
+					<div class="clearfix"></div>
+				</div>
+				<div class="f-mov-list">
+					<h4>photos</h4>
+					<ul>
+						<li><a href="Latest Stills.html">latest Still</a></li>
+							<li><a href="Latest Posters.html">Latest Poster</a></li>
+							<li><a href="Photos We Love.html">Photos We Love</a></li>
+					</ul>
+					<div class="clearfix"></div>
+				</div>
+				
+			</div>
+			<div class="col-md-3 footer-left">
+				<div class="f-mov-list">
+					<h4>Blog & News</h4>
+					<ul>
+						<li><a href="Blog.html">Blog</a></li>
+						<li><a href="News.html">News</a></li>						
+					</ul>
+					<div class="clearfix"></div>
+				</div>
+				<div class="f-mov-list">
+					<h4>Movies by Language</h4>
+					<ul>
+						<li><a href="popular movies.html">Hindi</a></li>
+						<li><a href="popular movies.html">Marathi</a></li>
+						<li><a href="popular movies.html">Bengali</a></li>
+						<li><a href="popular movies.html">Tamil</a></li>
+						<li><a href="popular movies.html">Telugu</a></li>
+					</ul>
+					<div class="clearfix"></div>
+				</div>
+			</div>
+			<div class="col-md-3 footer-left">
+				<div class="f-mov-list">
+					<h4>Events</h4>
+					<ul>
+						<li><a href="Award.html">Award</a></li>
+						<li><a href="Film festival.html">Film Festival</a></li>
+						<li><a href="Popular event.html">Popular Event</a></li>
+					</ul>
+					<div class="clearfix"></div>					
+				</div>	
+				<div class="f-mov-list">
+					<h4>Help</h4>
+					<ul>
+						<li><a href="feed back.html">Feedback</a></li>
+						<li><a href="faq.html">FAQs</a></li>
+						<li><a href="Terms and Conditions.html">Terms and Conditions</a></li>
+						<li><a href="Privacy policy.html">Privacy Policy</a></li>
+					</ul>
+					<div class="clearfix"></div>
+				</div>			
+			</div>
+			<div class="col-md-3 footer-left">
+				<div class="f-mov-list">
+					<h4>Movies by Genre</h4>
+					<ul>
+						<li><a href="Ima 50 popular movies.html">Action</a></li>
+						<li><a href="Ima 50 popular movies.html">Romance</a></li>
+						<li><a href="Ima 50 popular movies.html">Comedy</a></li>
+						<li><a href="Ima 50 popular movies.html">Adventure</a></li>
+						<li><a href="Ima 50 popular movies.html">Classic</a></li>
+						<li><a href="Ima 50 popular movies.html">Crime</a></li>
+						<li><a href="Ima 50 popular movies.html">Drama</a></li>
+						<li><a href="Ima 50 popular movies.html">Family </a></li>
+					
+					
+					</ul>
+					<div class="clearfix"></div>
+				</div>
+			</div>
+			<div class="clearfix"></div>
+			<div class="col-md-12">
+				<div class="footer-right">
+					<div class="follow-us">
+						<h5 class="f-head">Follow us</h5>
+						<ul class="social-icons">
+							<li><a href="#"><i class="fa fa-facebook"></i></a></li>
+							<li><a href="#"><i class="fa fa-twitter"></i></a></li>
+							<li><a href="#"><i class="fa fa-youtube"></i></a></li>
+							<li><a href="#"><i class="fa fa-pinterest"></i></a></li>
+							<li><a href="#"><i class="fa fa-google-plus"></i></a></li>
+							<li><a href="#"><i class="fa fa-linkedin"></i></a></li>
+						</ul>
+						<div class="clearfix"></div>
+					</div>
+					<div class="clearfix"></div>
+				</div>
+			</div>
+			<div class="clearfix"></div>
+		</div>
+		<div class="clearfix"></div>
+	</div>
+			<div class="copy-rights text-center">
+				<p> &copy; 2015 IMA. All Rights Reserved</p>
+			</div>
+
+			<div class="copy-rights text-center">
+				<p> &copy; 2015 IMA. All Rights Reserved</p>
+			</div>
+
+			<script type="text/javascript">
+			$(document).ready(function() {
+				$().UItoTop({ easingType: 'easeOutQuart' });
+			});
+			</script>
+	
+			<a href="#top" id="toTop">
+				<span class="totop"><i class="fa fa-arrow-up"></i></span>
+			</a>
+
+		
+			<script>
+			$(document).ready(function(){
+				$(".youtube").colorbox({autoPlay: true, autoPlaySpeed: 3000, iframe:true, innerWidth:640, innerHeight:390});
+				$(".iframe").colorbox({iframe:true, width:"80%", height:"80%"});
+				$('.non-retina').colorbox({rel:'group5', transition:'none'})
+				$('.retina').colorbox({rel:'group5', transition:'none', retinaImage:true, retinaUrl:true});
+				
+				//Example of preserving a JavaScript event for inline calls.
+				$("#click").click(function(){ 
+					$('#click').css({"background-color":"#f00", "color":"#fff", "cursor":"inherit"}).text("Open this window again and this message will still be here.");
+					return false;
+				});
+			});
+			</script>
+			<script type="text/javascript" src="js/jquery.flexisel.js"></script>	
+	</body>
+</html>

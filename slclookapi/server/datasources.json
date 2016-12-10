@@ -1,0 +1,26 @@
+{
+  "db": {
+    "name": "db",
+    "connector": "memory"
+  },
+  "mysql": {
+    "host": "localhost",
+    "port": 3306,
+    "url": "",
+    "database": "slcbookapi_db",
+    "password": "",
+    "name": "mysql",
+    "user": "root",
+    "connector": "mysql"
+  },
+  "mongo": {
+    "host": "localhost",
+    "port": 27017,
+    "url": "",
+    "database": "slcbookapi_db",
+    "password": "",
+    "name": "mongo",
+    "user": "root",
+    "connector": "mongodb"
+  }
+}

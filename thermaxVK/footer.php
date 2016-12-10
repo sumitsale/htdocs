@@ -1,0 +1,1 @@
+<p class="no-s">2016 &copy; Thermax Ltd.</p>

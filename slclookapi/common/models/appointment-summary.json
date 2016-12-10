@@ -1,0 +1,26 @@
+{
+  "name": "appointment_summary",
+  "base": "PersistedModel",
+  "idInjection": true,
+  "options": {
+    "validateUpsert": true
+  },
+  "properties": {
+    "appointment_id": {
+      "type": "number",
+      "required": true
+    },
+    "rad": {
+      "type": "number",
+      "required": true
+    },
+    "rbd": {
+      "type": "number",
+      "required": true
+    }
+  },
+  "validations": [],
+  "relations": {},
+  "acls": [],
+  "methods": {}
+}
